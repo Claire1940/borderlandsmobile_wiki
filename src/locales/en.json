@@ -57,7 +57,7 @@
   "tools": {
     "title": "Borderlands Mobile",
     "titleHighlight": "Guides",
-    "subtitle": "Essential guides for new Vault Hunters — download, beginner tips, class overview, and controls",
+    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, and gear upgrades",
     "cards": [
       {
         "icon": "Download",
@@ -78,6 +78,26 @@
         "icon": "Keyboard",
         "title": "Borderlands Mobile Controls Guide",
         "description": "Touch layout, ADS, autofire, and combat tips"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Borderlands Mobile Leveling Guide",
+        "description": "XP sources, level-up rewards, and Vaughn's Adventure timer explained"
+      },
+      {
+        "icon": "Star",
+        "title": "Borderlands Mobile Power Score Guide",
+        "description": "What Power Score measures, how gear rarity affects it, and milestone rewards"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Borderlands Mobile Skills Guide",
+        "description": "When skills unlock, how Skill Points work, and early build planning"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Borderlands Mobile Gear Upgrade Guide",
+        "description": "Upgrade Grenades, Weapons, and Shields with materials and Coins"
       }
     ]
   },
@@ -248,6 +268,176 @@
         "Autofire can be turned off in Settings for players who prefer manual trigger control.",
         "Double jump gives strong vertical advantage in close-quarters encounters.",
         "Reload manually before entering high-density areas to avoid mid-fight delays."
+      ]
+    },
+    "borderlandsMobileLevelingGuide": {
+      "eyebrow": "Progression",
+      "title": "How Leveling Works in Borderlands Mobile",
+      "subtitle": "Leveling is the core early progression loop. It raises combat stats, improves side-feature rewards, and feeds directly into skill growth.",
+      "intro": "Your Vault Hunter gains XP in Campaign mode by completing missions and killing enemies. Levels can increase in real time during a mission, and every new level permanently boosts Power Score and Max HP while also improving the rewards from Vaughn's Adventure.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Earn XP in Campaign mode",
+          "description": "XP comes from two main sources: completing missions and defeating enemies in Campaign mode."
+        },
+        {
+          "step": 2,
+          "title": "Track the yellow XP ring",
+          "description": "The yellow progress line around your Vault Hunter level shows current XP progress. When the line completes the circle, you level up."
+        },
+        {
+          "step": 3,
+          "title": "Level up during missions",
+          "description": "You do not need to finish a mission before gaining a level. Your Vault Hunter can level up on-field in real time."
+        },
+        {
+          "step": 4,
+          "title": "Get permanent stat growth",
+          "description": "Each higher level gives a permanent increase to Power Score and Max HP."
+        },
+        {
+          "step": 5,
+          "title": "Boost Vaughn's Adventure rewards",
+          "description": "After rescuing Vaughn, Vaughn's Adventure unlocks. It grants extra XP and Cash on a 10-minute timer and a Legendary Chest on an 18-hour timer. Reward amounts increase as your level rises."
+        },
+        {
+          "step": 6,
+          "title": "Turn levels into skills",
+          "description": "Skills unlock at level 8, and every level-up grants 1 Skill Point for unlocking or upgrading skills."
+        }
+      ]
+    },
+    "borderlandsMobilePowerScoreGuide": {
+      "eyebrow": "Combat Power",
+      "title": "Power Score Explained in Borderlands Mobile",
+      "subtitle": "Power Score measures how battle-ready your Vault Hunter is. It grows through leveling and better gear, and missions use it as a readiness benchmark.",
+      "intro": "The game uses Power Score as a simple snapshot of combat strength. Your total goes up when your Vault Hunter levels up and when you equip stronger gear, while each individual piece of gear contributes based on its own level and rarity.",
+      "items": [
+        {
+          "factor": "What Power Score measures",
+          "value": "Your overall combat power",
+          "details": "It is the main indicator of how strong your current Vault Hunter setup is."
+        },
+        {
+          "factor": "Main ways to raise it",
+          "value": "Level up and equip stronger gear",
+          "details": "Your total Power Score keeps increasing as your Vault Hunter levels up and your loadout improves."
+        },
+        {
+          "factor": "How gear contributes",
+          "value": "Each gear piece has its own Power Score",
+          "details": "A gear item's score depends on its level and rarity."
+        },
+        {
+          "factor": "Mission readiness",
+          "value": "Missions show a recommended minimum Power Score",
+          "details": "You can still enter below the recommendation, but the mission becomes much harder to clear."
+        },
+        {
+          "factor": "Rarity impact",
+          "value": "Higher rarity usually means higher Power Score",
+          "details": "Gear rarities are Common, Uncommon, Rare, Epic, and Legendary, but item level still matters."
+        },
+        {
+          "factor": "Milestone rewards",
+          "value": "Power Score Track unlocks claimable rewards",
+          "details": "Claim milestone rewards from the profile avatar menu in the top-left corner of the HQ screen."
+        }
+      ]
+    },
+    "borderlandsMobileSkillsGuide": {
+      "eyebrow": "Builds",
+      "title": "Borderlands Mobile Skills, Skill Points, and Early Build Planning",
+      "subtitle": "Skills open the door to build customization. Hit level 8, earn points through leveling, and spend them carefully across unlocks and upgrades.",
+      "intro": "Skills become available once your Vault Hunter reaches level 8. From there, every level grants a Skill Point, and you can use those points to raise stats, unlock new abilities, and customize loadouts with Shared skills.",
+      "items": [
+        {
+          "title": "Unlock Requirement",
+          "description": "Skills unlock when your Vault Hunter reaches level 8.",
+          "bullets": [
+            "No skills are available before level 8",
+            "Skill access is tied directly to character progression"
+          ]
+        },
+        {
+          "title": "How Skill Points Work",
+          "description": "Each time your Vault Hunter levels up, you earn 1 Skill Point.",
+          "bullets": [
+            "Level-ups continuously feed your skill progression",
+            "Skill Points are used for both unlocks and upgrades"
+          ]
+        },
+        {
+          "title": "What Skills Do",
+          "description": "Skill Points can increase stats and unlock new skills for your equipped class.",
+          "bullets": [
+            "You can inspect a skill before spending points",
+            "Advanced Skills require more Skill Points"
+          ]
+        },
+        {
+          "title": "Progression Rule",
+          "description": "More skills become available after you spend a certain amount of Skill Points.",
+          "bullets": [
+            "Early choices open up later parts of the tree",
+            "Point spending order shapes your build path"
+          ]
+        },
+        {
+          "title": "Shared Skills",
+          "description": "Unlocked Shared skills can be mixed and matched from different classes to personalize loadouts.",
+          "bullets": [
+            "Shared skills support flexible loadout building",
+            "Customization expands as more classes and skills are unlocked"
+          ]
+        },
+        {
+          "title": "Current Live Class",
+          "description": "In the current version, the available class is Summoner.",
+          "bullets": [
+            "Summoner uses phase energy to summon beasts",
+            "Its Action Skill is \"Good Boy!\", which summons Nigel to fight alongside you"
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileGearUpgradeGuide": {
+      "eyebrow": "Upgrades",
+      "title": "Borderlands Mobile: How to Upgrade Weapons, Grenades, and Shields",
+      "subtitle": "Rank upgrades are a direct way to raise Power Score. Each gear category uses its own material type plus Coins, so efficient spending matters early on.",
+      "intro": "You can upgrade the Rank of your Grenade, Weapons, and Shield from the Inventory screen. Every rank increase raises your Vault Hunter's Power Score, and each gear category uses a specific upgrade material from missions, rewards, and scrapping matching gear.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Open Inventory",
+          "description": "Go to your Inventory and select the Upgrade option for the gear type you want to improve."
+        },
+        {
+          "step": 2,
+          "title": "Upgrade Grenades",
+          "description": "Grenade rank upgrades require Fillers and Coins. Fillers come from Missions, Rewards, and scrapping Grenades, while Coins come from mission gameplay and completion rewards."
+        },
+        {
+          "step": 3,
+          "title": "Upgrade Weapons",
+          "description": "Weapon rank upgrades require Components and Coins. Components come from Missions, Rewards, and scrapping Gear."
+        },
+        {
+          "step": 4,
+          "title": "Upgrade Shields",
+          "description": "Shield rank upgrades require Cells and Coins. Cells come from Missions, Rewards, and scrapping Shields."
+        },
+        {
+          "step": 5,
+          "title": "Prioritize for Power Score",
+          "description": "Rank upgrades directly increase Power Score. Upgrade pieces that strengthen your current mission readiness the most."
+        },
+        {
+          "step": 6,
+          "title": "Compare rarity and level together",
+          "description": "Higher rarity gear usually has a higher Power Score, but a higher-level lower-rarity item can still be the better short-term choice."
+        }
       ]
     }
   },

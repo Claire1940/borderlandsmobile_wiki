@@ -9,10 +9,14 @@ import {
   ChevronDown,
   Download,
   ExternalLink,
+  Hammer,
   Keyboard,
   MessageCircle,
   Sparkles,
+  Star,
+  TrendingUp,
   Users,
+  Zap,
 } from 'lucide-react'
 import Link from 'next/link'
 import { useMessages } from 'next-intl'
@@ -290,7 +294,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             {t.tools.cards.map((card: any, index: number) => {
               // 映射卡片索引到 section ID
               const sectionIds = [
-                'download-device-requirements', 'beginner-guide', 'summoner-class-guide', 'controls-guide'
+                'download-device-requirements', 'beginner-guide', 'summoner-class-guide', 'controls-guide',
+                'borderlands-mobile-leveling-guide', 'borderlands-mobile-power-score-guide',
+                'borderlands-mobile-skills-guide', 'borderlands-mobile-gear-upgrade-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -541,6 +547,223 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
               ))}
             </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Module 5: Leveling Guide */}
+      <section id="borderlands-mobile-leveling-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileLevelingGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileLevelingGuide']} locale={locale}>
+                {t.modules.borderlandsMobileLevelingGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileLevelingGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileLevelingGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 scroll-reveal">
+            {t.modules.borderlandsMobileLevelingGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[hsl(var(--nav-theme))] flex items-center justify-center">
+                  <span className="text-sm font-bold text-white">{item.step}</span>
+                </div>
+                <div>
+                  <h3 className="font-bold mb-1">{item.title}</h3>
+                  <p className="text-muted-foreground text-sm">{item.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Rewards callout */}
+          <div className="mt-8 scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
+            <div className="flex items-center gap-2 mb-3">
+              <TrendingUp className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+              <h3 className="font-bold">Vaughn's Adventure Timers</h3>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="flex items-center gap-3 p-3 bg-white/5 rounded-lg">
+                <div className="w-2 h-2 rounded-full bg-[hsl(var(--nav-theme-light))]" />
+                <span className="text-sm"><span className="font-semibold">10 min</span> — XP &amp; Cash chest</span>
+              </div>
+              <div className="flex items-center gap-3 p-3 bg-white/5 rounded-lg">
+                <div className="w-2 h-2 rounded-full bg-yellow-400" />
+                <span className="text-sm"><span className="font-semibold">18 hr</span> — Legendary Chest</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Module 6: Power Score Guide */}
+      <section id="borderlands-mobile-power-score-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobilePowerScoreGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobilePowerScoreGuide']} locale={locale}>
+                {t.modules.borderlandsMobilePowerScoreGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobilePowerScoreGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobilePowerScoreGuide.intro}
+          </p>
+
+          {/* Desktop table */}
+          <div className="scroll-reveal hidden md:block overflow-hidden rounded-xl border border-border">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="bg-[hsl(var(--nav-theme)/0.1)] border-b border-border">
+                  <th className="text-left px-5 py-3 font-semibold text-[hsl(var(--nav-theme-light))]">Factor</th>
+                  <th className="text-left px-5 py-3 font-semibold text-[hsl(var(--nav-theme-light))]">Value</th>
+                  <th className="text-left px-5 py-3 font-semibold text-[hsl(var(--nav-theme-light))]">Details</th>
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.borderlandsMobilePowerScoreGuide.items.map((item: any, i: number) => (
+                  <tr key={i} className={`border-b border-border hover:bg-white/5 transition-colors ${i % 2 === 0 ? '' : 'bg-white/[0.02]'}`}>
+                    <td className="px-5 py-4 font-medium">{item.factor}</td>
+                    <td className="px-5 py-4 text-[hsl(var(--nav-theme-light))] font-semibold">{item.value}</td>
+                    <td className="px-5 py-4 text-muted-foreground">{item.details}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile stacked cards */}
+          <div className="scroll-reveal md:hidden space-y-3">
+            {t.modules.borderlandsMobilePowerScoreGuide.items.map((item: any, i: number) => (
+              <div key={i} className="p-4 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-2 mb-2">
+                  <Star className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                  <span className="font-semibold text-sm">{item.factor}</span>
+                </div>
+                <p className="text-[hsl(var(--nav-theme-light))] font-medium text-sm mb-1">{item.value}</p>
+                <p className="text-muted-foreground text-xs">{item.details}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 7: Skills Guide */}
+      <section id="borderlands-mobile-skills-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileSkillsGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileSkillsGuide']} locale={locale}>
+                {t.modules.borderlandsMobileSkillsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileSkillsGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileSkillsGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 scroll-reveal">
+            {t.modules.borderlandsMobileSkillsGuide.items.map((item: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.08)]">
+                <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center mb-4">
+                  <Sparkles className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                </div>
+                <h3 className="font-bold mb-2">{item.title}</h3>
+                <p className="text-muted-foreground text-sm mb-4">{item.description}</p>
+                {item.bullets && (
+                  <ul className="space-y-1.5">
+                    {item.bullets.map((bullet: string, bi: number) => (
+                      <li key={bi} className="flex items-start gap-2">
+                        <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                        <span className="text-xs text-muted-foreground">{bullet}</span>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Gear Upgrade Guide */}
+      <section id="borderlands-mobile-gear-upgrade-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileGearUpgradeGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileGearUpgradeGuide']} locale={locale}>
+                {t.modules.borderlandsMobileGearUpgradeGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileGearUpgradeGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileGearUpgradeGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 scroll-reveal mb-8">
+            {t.modules.borderlandsMobileGearUpgradeGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[hsl(var(--nav-theme))] flex items-center justify-center">
+                  <span className="text-sm font-bold text-white">{item.step}</span>
+                </div>
+                <div>
+                  <h3 className="font-bold mb-1">{item.title}</h3>
+                  <p className="text-muted-foreground text-sm">{item.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Materials checklist */}
+          <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
+            <div className="flex items-center gap-2 mb-4">
+              <Hammer className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+              <h3 className="font-bold">Upgrade Materials Quick Reference</h3>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              {[
+                { gear: 'Grenades', material: 'Fillers', source: 'Missions, Rewards, scrapping Grenades' },
+                { gear: 'Weapons', material: 'Components', source: 'Missions, Rewards, scrapping Gear' },
+                { gear: 'Shields', material: 'Cells', source: 'Missions, Rewards, scrapping Shields' },
+              ].map((row, i) => (
+                <div key={i} className="p-4 bg-white/5 rounded-lg border border-border">
+                  <p className="font-semibold text-[hsl(var(--nav-theme-light))] mb-1">{row.gear}</p>
+                  <p className="text-sm font-medium mb-1">{row.material} + Coins</p>
+                  <p className="text-xs text-muted-foreground">{row.source}</p>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>

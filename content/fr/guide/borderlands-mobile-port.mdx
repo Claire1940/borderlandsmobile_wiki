@@ -1,0 +1,124 @@
+export const metadata = {
+  title: "Portage Mobile de Borderlands : Comment jouer sur Android et iOS en 2026",
+  description: "Découvrez comment configurer et optimiser un portage mobile de Borderlands à l'aide de l'émulation moderne et des outils cloud. Guide étape par étape pour Borderlands 2 sur mobile en 2026.",
+  category: "Tutoriel",
+  image: "https://placehold.co/800x400/f59e0b/fff?text=Borderlands+Mobile+Port+Guide",
+  date: "2026-04-11",
+  author: "L'équipe du Wiki Borderlands"
+}
+
+La quête d'un **portage mobile de Borderlands** définitif a été longue pour les fans du genre looter-shooter. Bien que Gearbox Software ait exploré diverses itérations mobiles au fil des ans, notamment le désormais supprimé Borderlands Legends et la version Vita-vers-iOS du deuxième opus, la communauté en 2026 a pris les choses en main. Que vous cherchiez à farmer le Guerrier pendant votre pause déjeuner ou à terminer des quêtes secondaires durant votre trajet, obtenir une expérience stable de **portage mobile de Borderlands** nécessite un mélange de matériel moderne et de configurations logicielles spécifiques.
+
+Dans ce guide complet, nous explorerons les méthodes les plus efficaces pour faire fonctionner la série Borderlands sur les appareils mobiles. Nous nous concentrerons principalement sur l'utilisation de couches d'émulation PC et de services de cloud gaming, qui offrent actuellement la plus haute fidélité et performance. En suivant ces paramètres optimisés, vous pourrez profiter du monde chaotique de Pandora avec des taux de rafraîchissement gérables et des commandes réactives, créant ainsi votre propre environnement de **portage mobile de Borderlands** haut de gamme.
+
+## Comprendre la méthode d'émulation
+
+En 2026, la méthode la plus populaire pour obtenir un **portage mobile de Borderlands** fonctionnel est l'émulation PC sur mobile. Des applications comme GameHub et PC Liberty ont considérablement mûri, permettant aux processeurs de smartphones modernes de traduire les instructions x86 avec une efficacité surprenante. Cette méthode consiste à exécuter la version PC réelle de Borderlands 2 ou de Pre-Sequel sur votre appareil Android ou iOS.
+
+Pour commencer, vous devez posséder une copie légitime du jeu sur PC. Vous devrez transférer ces fichiers sur le stockage de votre mobile et utiliser une couche d'émulation pour "tromper" le jeu et le faire fonctionner sur une architecture basée sur ARM.
+
+| Composant | Configuration minimale | Configuration recommandée |
+|---|---|---|
+| **Processeur** | Snapdragon 8 Gen 2 ou équivalent | **Snapdragon 8 Gen 4 / Apple A18 Pro** |
+| **RAM** | 8 Go | **12 Go+** |
+| **Stockage** | 15 Go d'espace libre | **25 Go (UFS 4.0 haute vitesse)** |
+| **Système d'exploitation** | Android 13 / iOS 17 | **Android 15 / iOS 19** |
+
+> **💡 Conseil :** Utilisez toujours le préréglage graphique "Minimal" lors de votre configuration initiale. Vous pourrez augmenter progressivement les paramètres une fois que vous aurez confirmé que le jeu est stable sur votre appareil spécifique.
+
+## Guide d'installation étape par étape
+
+La configuration de votre **portage mobile de Borderlands** nécessite de la précision. Un seul mauvais placement de fichier peut entraîner des erreurs "exécutable non trouvé" ou des plantages immédiats au lancement. Suivez ces étapes pour garantir une installation propre via l'écosystème GameHub.
+
+### Phase 1 : Préparation des fichiers
+1. Connectez votre appareil mobile à votre PC via un câble USB-C haute vitesse.
+2. Accédez à votre bibliothèque Steam ou Epic Games et localisez le dossier du jeu Borderlands 2.
+3. Copiez l'intégralité du dossier sur le stockage interne de votre téléphone (Stockage interne > Games > Borderlands2).
+4. Assurez-vous que le fichier `.exe` se trouve dans le sous-dossier `Binaries/Win32` ou `Binaries/Win64`.
+
+### Phase 2 : Configuration de GameHub
+1. Lancez l'application GameHub sur votre appareil mobile.
+2. Accédez à la section **PC Liberty** et sélectionnez "Ajouter un nouveau jeu".
+3. Localisez le fichier `Borderlands2.exe` que vous venez de transférer.
+4. Laissez l'émulateur télécharger les modules de traduction nécessaires pour votre GPU spécifique (Adreno ou Mali).
+
+| Action | Paramètre | Objectif |
+|---|---|---|
+| **Installer V credits 2008** | Requis | Garantit la présence des bibliothèques C++ nécessaires au moteur de jeu. |
+| **Moteur de rendu** | Vulkan | Offre le meilleur équilibre entre performance et précision visuelle. |
+| **Allocation de mémoire** | Élevée | Empêche le système d'exploitation de fermer l'application pendant les combats intenses. |
+
+<div style={{position: "relative", paddingBottom: "56.25%", height: 0, margin: "2rem 0", borderRadius: "0.5rem", overflow: "hidden"}}>
+  <iframe
+    style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}
+    src="https://www.youtube.com/embed/ME1kV_u-Fhw"
+    title="Comment j'ai joué à Borderlands 2 sur mon téléphone en 2025"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+## Optimisation des performances pour le jeu mobile
+
+Faire tourner un **portage mobile de Borderlands** via l'émulation peut être éprouvant pour votre matériel. Le bridage thermique (thermal throttling) est l'ennemi principal d'une expérience de jeu fluide. Pour maintenir un taux de rafraîchissement constant, vous devez équilibrer la fidélité visuelle avec les limites physiques du système de refroidissement de votre téléphone.
+
+### Graphismes et limites de taux de rafraîchissement
+Il est fortement recommandé de limiter votre taux de rafraîchissement. Bien qu'il puisse être tentant de viser 60 FPS, un taux soutenu de 30 ou 35 FPS empêchera votre téléphone de surchauffer et prolongera considérablement l'autonomie de votre batterie.
+
+| Paramètre | Valeur recommandée | Impact |
+|---|---|---|
+| **Échelle de résolution** | 75% ou 0.7x | Gain de FPS significatif avec un léger flou. |
+| **Limite de FPS** | **35 FPS** | Prévient le bridage thermique et les saccades. |
+| **Détail des textures** | Bas/Moyen | Réduit l'utilisation de la VRAM et les temps de chargement. |
+| **Occlusion ambiante** | Désactivé | Améliore grandement les performances dans les zones ouvertes. |
+
+> **⚠️ Attention :** Certaines versions du jeu peuvent vérifier les mises à jour pendant 10 minutes lors du premier lancement. Ne fermez pas l'application pendant ce processus, sous peine de corrompre les fichiers de configuration.
+
+## Alternative : Solutions de Cloud Gaming
+
+Si votre matériel ne répond pas aux exigences élevées de l'émulation locale, vous pouvez toujours profiter d'une expérience de **portage mobile de Borderlands** grâce au cloud gaming. Cette méthode délègue la puissance de traitement à un serveur distant, diffusant le flux vidéo directement sur votre appareil.
+
+1. **Xbox Cloud Gaming :** Si vous possédez Borderlands: Legendary Collection sur Xbox, vous pouvez le streamer directement via l'application Game Pass. Cela offre l'expérience la plus proche d'une console avec un support natif des manettes.
+2. **NVIDIA GeForce Now :** En liant votre bibliothèque Steam ou Epic Games, vous pouvez jouer à la version PC du jeu avec les paramètres Ultra sur votre téléphone. Cela nécessite une connexion Wi-Fi 5 GHz ou 5G très stable.
+
+Bien que le cloud gaming élimine le besoin d'une configuration complexe, il introduit une latence d'entrée (input lag), ce qui peut être préjudiciable dans un jeu de tir au rythme effréné. Pour le **portage mobile de Borderlands** le plus réactif, l'émulation locale reste la référence pour les passionnés en 2026.
+
+## Dépannage des problèmes courants
+
+Même avec le meilleur matériel, vous pouvez rencontrer des obstacles lors de l'exécution de votre **portage mobile de Borderlands**. La plupart des problèmes proviennent de composants logiciels manquants ou de chemins de fichiers incorrects.
+
+### Écran noir au lancement
+Ceci est généralement causé par des bibliothèques d'exécution manquantes. Assurez-vous d'avoir installé **V credits 2008** dans la section des composants de l'émulateur. Ce package contient les instructions dont l'Unreal Engine a besoin pour restituer la logique du jeu.
+
+### Surchauffe excessive
+Si votre appareil devient trop chaud au toucher, baissez immédiatement l'échelle de résolution. L'utilisation d'un ventilateur de refroidissement dédié pour mobile peut également aider à maintenir des fréquences d'horloge plus élevées pour des sessions plus longues.
+
+### Synchronisation des fichiers de sauvegarde
+Pour garder votre progression synchronisée entre votre PC et votre **portage mobile de Borderlands**, vous pouvez utiliser des applications de stockage cloud pour mettre en miroir votre dossier "My Games/Borderlands 2/WillowGame/SaveData". Cela vous permet de reprendre exactement là où vous vous étiez arrêté sur l'une ou l'autre plateforme.
+
+| Problème | Solution |
+|---|---|
+| **Le jeu ne se lance pas** | Vérifiez le chemin du `.exe` et réinstallez les modules. |
+| **Commandes tactiles inactives** | Activez le "Joystick virtuel" dans les paramètres de GameHub. |
+| **Grésillements audio** | Changez le pilote audio pour "OpenSL ES" dans le menu de l'émulateur. |
+
+Pour plus d'informations officielles sur la série, visitez le [site officiel de Borderlands](https://borderlands.2k.com/) pour rester informé des futures sorties mobiles natives ou des correctifs.
+
+## FAQ
+
+**Q : Existe-t-il un portage mobile officiel de Borderlands disponible sur l'App Store ou le Play Store ?**
+
+R : En 2026, il n'existe pas de portage officiel "tout-en-un" pour la trilogie moderne. Les joueurs doivent utiliser l'émulation (comme GameHub) ou des services de cloud streaming pour jouer aux versions complètes de Borderlands 1, 2 ou 3 sur les appareils mobiles.
+
+**Q : Ai-je besoin d'une manette pour jouer à Borderlands sur mon téléphone ?**
+
+R : Bien que vous puissiez utiliser les commandes tactiles à l'écran, une manette physique (comme une Backbone One ou une manette Xbox) est fortement recommandée. La nature rapide des combats rend les commandes tactiles difficiles pour les niveaux de difficulté élevés comme le mode Chasseur Ultime.
+
+**Q : Le fait de jouer à un portage mobile de Borderlands va-t-il vider ma batterie rapidement ?**
+
+R : Oui, l'émulation est très gourmande en ressources. Attendez-vous à ce que votre batterie se vide nettement plus vite que lors d'une utilisation standard d'applications. Il est recommandé de jouer en étant connecté à une source d'alimentation ou d'utiliser une batterie externe.
+
+**Q : Puis-je jouer en multijoueur sur le portage mobile ?**
+
+R : Si vous utilisez le cloud gaming (GeForce Now/Xbox), le multijoueur fonctionne nativement. Si vous utilisez l'émulation locale, le multijoueur est actuellement limité et peut nécessiter des configurations VPN complexes pour simuler un réseau local (LAN).

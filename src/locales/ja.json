@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "ガイド",
-    "crafting": "クラフト",
-    "items": "アイテム",
-    "biomes": "バイオーム",
-    "building": "建築",
-    "support": "サポート"
+    "release": "リリース",
+    "setup": "セットアップ",
+    "ios": "iOS",
+    "android": "Android",
+    "guide": "ガイド",
+    "apk": "APK",
+    "similar": "類似ゲーム"
   },
   "common": {
     "home": "ホーム",

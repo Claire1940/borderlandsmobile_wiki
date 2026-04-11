@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "release": "Lançamento",
+    "setup": "Configuração",
+    "ios": "iOS",
+    "android": "Android",
+    "guide": "Guia",
+    "apk": "APK",
+    "similar": "Similares"
   },
   "common": {
     "home": "Início",

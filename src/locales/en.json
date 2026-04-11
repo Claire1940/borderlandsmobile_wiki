@@ -10,7 +10,15 @@
       "twitterDescription": "Borderlands Mobile hub for iOS download, release date, gameplay basics, weapons, missions, and Android status for new Vault Hunters."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "setup": "Setup",
+    "ios": "iOS",
+    "android": "Android",
+    "guide": "Guide",
+    "apk": "APK",
+    "similar": "Similar"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -862,149 +870,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "download": {
-      "title": "Borderlands Mobile Download",
-      "description": "Step-by-step download instructions, device requirements, iOS compatibility, and current availability status.",
-      "metaTitle": "Borderlands Mobile Download - iOS Install Guide and Device Requirements",
-      "metaDescription": "Download Borderlands Mobile on iPhone with this step-by-step guide covering App Store install, iOS requirements, file size, and limited-time test status.",
-      "categoryLabel": "DOWNLOAD GUIDE",
-      "whatIs": "What is the Download Guide?",
-      "whatIsDescription": "A complete guide covering how to install Borderlands Mobile on iPhone, compatible devices, iOS requirements, and current availability.",
-      "why": "Why use this guide?",
-      "whySteps": {
-        "step1Title": "Find the App Store listing",
-        "step1Description": "Locate the official Borderlands Mobile App Store page to download safely.",
-        "step2Title": "Check device compatibility",
-        "step2Description": "Verify your iPhone model and iOS version meet the minimum requirements.",
-        "step3Title": "Manage your storage",
-        "step3Description": "Ensure you have at least 2.9 GB free before starting the download."
-      }
-    },
     "release": {
-      "title": "Borderlands Mobile Release Date",
-      "description": "Timeline of the Borderlands Mobile launch, limited-time test status, and region availability updates.",
-      "metaTitle": "Borderlands Mobile Release Date - Launch Timeline and Status",
-      "metaDescription": "Borderlands Mobile release date timeline covering the iPhone limited-time test launch, region availability, and what comes next.",
+      "title": "Borderlands Mobile Release",
+      "description": "Full timeline of the Borderlands Mobile launch — surprise drop, limited-time test, region availability, free-to-play model, and what comes next.",
+      "metaTitle": "Borderlands Mobile Release - Launch Timeline, Status & Region Info",
+      "metaDescription": "Track the Borderlands Mobile release: surprise iPhone launch, limited-time test status, free-to-play model, region availability, and future rollout updates.",
       "categoryLabel": "RELEASE INFO",
-      "whatIs": "What is the Release Guide?",
-      "whatIsDescription": "A timeline covering the Borderlands Mobile launch history, current test status, and expected future rollout.",
+      "whatIs": "What is the Borderlands Mobile Release?",
+      "whatIsDescription": "Borderlands Mobile launched as a surprise free-to-play release on iPhone in early 2026, starting with a limited-time test. This section tracks the full launch timeline, availability by region, test status updates, and what Gearbox and Zynga have confirmed about future access.",
       "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Understand the launch type",
-        "step1Description": "Learn whether the current release is a full launch or a limited-time test.",
-        "step2Title": "Track region availability",
-        "step2Description": "Find out which regions can download Borderlands Mobile right now.",
-        "step3Title": "Follow expansion news",
-        "step3Description": "Stay up to date on when new regions and platforms may receive access."
-      }
+        "step1Title": "Track the current release status",
+        "step1Description": "Confirm whether Borderlands Mobile is live, in limited test, or unavailable in your region right now.",
+        "step2Title": "Understand the surprise launch context",
+        "step2Description": "Learn why Borderlands Mobile dropped without a traditional announcement and what that means for long-term availability.",
+        "step3Title": "Follow future rollout news",
+        "step3Description": "Stay up to date on when the limited-time test ends, Android launch plans, and permanent availability updates."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Release Articles"
+    },
+    "setup": {
+      "title": "Borderlands Mobile Setup",
+      "description": "Download steps, App Store access, iOS requirements, device compatibility, and install size for Borderlands Mobile.",
+      "metaTitle": "Borderlands Mobile Setup - Download, Install & iOS Requirements",
+      "metaDescription": "Set up Borderlands Mobile on iPhone: App Store download steps, iOS version requirements, device compatibility, install size, and first-launch tips.",
+      "categoryLabel": "SETUP GUIDE",
+      "whatIs": "What is the Setup Guide?",
+      "whatIsDescription": "The Borderlands Mobile setup guide covers everything you need before launching the game — finding the App Store listing, checking iOS and device requirements, managing storage, and getting through the initial download without issues.",
+      "why": "Why read this?",
+      "whySteps": {
+        "step1Title": "Find and download the game",
+        "step1Description": "Locate the official Borderlands Mobile App Store page and confirm the download is available in your region.",
+        "step2Title": "Check device and iOS compatibility",
+        "step2Description": "Verify your iPhone model and iOS version meet the minimum requirements before downloading.",
+        "step3Title": "Prepare your storage",
+        "step3Description": "Ensure you have at least 2.9 GB free to complete the install without interruption."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Setup Articles"
+    },
+    "ios": {
+      "title": "Borderlands Mobile iOS",
+      "description": "iPhone performance data for Borderlands Mobile — FPS tests, heat output, battery drain, and device-by-device benchmarks.",
+      "metaTitle": "Borderlands Mobile iOS - iPhone Performance, FPS & Battery Tests",
+      "metaDescription": "Borderlands Mobile iOS performance breakdown: FPS benchmarks on iPhone 15 Pro and XR, heat output, battery drain, and device-specific tips.",
+      "categoryLabel": "iOS PERFORMANCE",
+      "whatIs": "What are the Borderlands Mobile iOS Guides?",
+      "whatIsDescription": "These articles cover real-device performance data for Borderlands Mobile on iPhone — including FPS measurements, heat buildup during extended sessions, battery consumption rates, and how different iPhone models handle the game's cel-shaded graphics engine.",
+      "why": "Why read this?",
+      "whySteps": {
+        "step1Title": "Check your device performance",
+        "step1Description": "See how your specific iPhone model handles Borderlands Mobile before or after downloading.",
+        "step2Title": "Understand heat and battery impact",
+        "step2Description": "Learn how long you can play before your device gets hot or battery drops significantly.",
+        "step3Title": "Optimize your settings",
+        "step3Description": "Use benchmark data to choose graphics settings that balance performance and device health."
+      },
+      "featured": "Featured & Essential",
+      "all": "All iOS Articles"
     },
     "android": {
       "title": "Borderlands Mobile Android",
-      "description": "Current Android availability status, why iPhone launched first, and how to track future Android release updates.",
-      "metaTitle": "Borderlands Mobile Android - Release Status and What We Know",
-      "metaDescription": "Borderlands Mobile Android availability status, why the game launched on iPhone first, and what has been confirmed for future platform expansion.",
+      "description": "Current Android availability status, why Borderlands Mobile launched on iPhone first, and how to track future Android access.",
+      "metaTitle": "Borderlands Mobile Android - Release Status & What We Know",
+      "metaDescription": "Borderlands Mobile Android status: why the game launched iPhone-first, current Android availability, and what has been confirmed about future platform support.",
       "categoryLabel": "ANDROID STATUS",
-      "whatIs": "What is the Android Guide?",
-      "whatIsDescription": "An overview of Borderlands Mobile Android availability, the current iPhone-only status, and what to expect for Android users.",
+      "whatIs": "What is the Borderlands Mobile Android Guide?",
+      "whatIsDescription": "Borderlands Mobile launched exclusively on iPhone as a limited-time test, leaving Android players waiting. This section explains the current Android status, why the iPhone-first approach was chosen, and where to find official updates on Android availability.",
       "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Understand the current platform status",
-        "step1Description": "Confirm that Android is not yet supported in the current limited-time test.",
-        "step2Title": "Learn why iPhone launched first",
-        "step2Description": "Understand the reasoning behind the iPhone-first limited-time test approach.",
-        "step3Title": "Track Android announcement news",
-        "step3Description": "Know where to follow for official Android launch updates."
-      }
+        "step1Title": "Confirm current Android status",
+        "step1Description": "Get a clear answer on whether Borderlands Mobile is available on Android right now.",
+        "step2Title": "Understand the iPhone-first decision",
+        "step2Description": "Learn why the limited-time test launched exclusively on iPhone and what it means for Android players.",
+        "step3Title": "Track Android launch news",
+        "step3Description": "Know where to follow for official Gearbox and Zynga updates on Android availability."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Android Articles"
     },
-    "beginner": {
-      "title": "Borderlands Mobile Beginner Guide",
-      "description": "First-session tips, Campaign progression, XP farming, and Power Score basics for new Vault Hunters.",
-      "metaTitle": "Borderlands Mobile Beginner Guide - First Steps and Campaign Tips",
-      "metaDescription": "Borderlands Mobile beginner guide covering Campaign mode, how to earn XP, Power Score explained, and Star Challenges for new Vault Hunters.",
-      "categoryLabel": "BEGINNER TIPS",
-      "whatIs": "What is the Beginner Guide?",
-      "whatIsDescription": "A first-session walkthrough covering Campaign mode, XP progression, Power Score tracking, and early efficiency tips.",
-      "why": "Why follow this guide?",
+    "guide": {
+      "title": "Borderlands Mobile Guide",
+      "description": "Complete guides for Borderlands Mobile — gameplay basics, walkthrough, class tips, weapons, and mission progression.",
+      "metaTitle": "Borderlands Mobile Guide - Gameplay, Walkthrough & Tips",
+      "metaDescription": "Borderlands Mobile guides covering gameplay fundamentals, Campaign walkthrough, class tips, weapon types, Power Score, and mission progression for Vault Hunters.",
+      "categoryLabel": "GAMEPLAY GUIDE",
+      "whatIs": "What are the Borderlands Mobile Guides?",
+      "whatIsDescription": "These guides cover every core system in Borderlands Mobile — the Campaign walkthrough, class and skill progression, weapon types, Power Score mechanics, and how to get the most out of each game mode. Whether you are just starting or pushing end-game content, these guides explain how the systems fit together.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Start Campaign correctly",
-        "step1Description": "Learn which missions to prioritize in your first session to avoid early dead ends.",
-        "step2Title": "Build Power Score efficiently",
-        "step2Description": "Understand which actions increase Power Score fastest for smoother mission progression.",
-        "step3Title": "Unlock Star Challenges",
-        "step3Description": "Find out how to access Star Challenges and replay cleared missions for extra rewards."
-      }
+        "step1Title": "Learn the core gameplay loop",
+        "step1Description": "Understand how Campaign, missions, XP, and Power Score connect in Borderlands Mobile.",
+        "step2Title": "Follow the Campaign walkthrough",
+        "step2Description": "Get chapter-by-chapter guidance through Pandora to avoid dead ends and missed objectives.",
+        "step3Title": "Build your Vault Hunter effectively",
+        "step3Description": "Understand class skills, weapon rarity, and gear upgrades to progress faster and tackle harder missions."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
     },
-    "vault-hunters": {
-      "title": "Borderlands Mobile Vault Hunters",
-      "description": "Playable class overview, Summoner abilities, skill system, and future class expansion plans.",
-      "metaTitle": "Borderlands Mobile Vault Hunters - Summoner Class Guide and Skills",
-      "metaDescription": "Borderlands Mobile Vault Hunter class guide covering the Summoner, Good Boy! Action Skill, skill points, and future class expansion.",
-      "categoryLabel": "CLASS GUIDE",
-      "whatIs": "What are Vault Hunters?",
-      "whatIsDescription": "An overview of the playable Vault Hunter classes in Borderlands Mobile, starting with the Summoner and its phase-energy beast summoning.",
-      "why": "Why read the class guide?",
+    "apk": {
+      "title": "Borderlands Mobile APK",
+      "description": "APK availability, sideloading options, device compatibility for older Android phones, and what to know before trying unofficial installs.",
+      "metaTitle": "Borderlands Mobile APK - Sideload Options & Device Compatibility",
+      "metaDescription": "Borderlands Mobile APK guide: sideloading options, Android device compatibility, Note 9 performance, and what to know before attempting an unofficial install.",
+      "categoryLabel": "APK GUIDE",
+      "whatIs": "What is the Borderlands Mobile APK Guide?",
+      "whatIsDescription": "Since Borderlands Mobile launched iPhone-only, many Android players are looking into APK sideloading options. These articles cover what APK options exist, which Android devices have been tested, known performance results, and important things to understand before attempting any unofficial install.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Understand the Summoner",
-        "step1Description": "Learn the Summoner identity, Action Skill, and how it fits the current build.",
-        "step2Title": "Plan your skill points",
-        "step2Description": "Know when skills unlock at level 8 and how to spend points efficiently.",
-        "step3Title": "Prepare for class expansion",
-        "step3Description": "Learn what additional classes and options are planned for future updates."
-      }
+        "step1Title": "Understand APK availability",
+        "step1Description": "Learn what APK options currently exist for Borderlands Mobile and which are worth considering.",
+        "step2Title": "Check device compatibility",
+        "step2Description": "See which Android devices like the Note 9 have been tested and what performance to expect.",
+        "step3Title": "Know the risks and limitations",
+        "step3Description": "Understand what unofficial installs can and cannot do before investing time in sideloading."
+      },
+      "featured": "Featured & Essential",
+      "all": "All APK Articles"
     },
-    "weapons": {
-      "title": "Borderlands Mobile Weapons",
-      "description": "Weapon types, rarity tiers, legendary loot, and how to upgrade your gear for stronger combat.",
-      "metaTitle": "Borderlands Mobile Weapons - Rarity Guide and Legendary Loot",
-      "metaDescription": "Borderlands Mobile weapons guide covering gun types, five rarity tiers, legendary loot farming, and upgrade paths for Vault Hunters.",
-      "categoryLabel": "WEAPONS GUIDE",
-      "whatIs": "What is the Weapons Guide?",
-      "whatIsDescription": "A complete breakdown of weapon types, rarity tiers, and how to find and upgrade the best gear in Borderlands Mobile.",
-      "why": "Why read the weapons guide?",
+    "similar": {
+      "title": "Borderlands Mobile Similar Games",
+      "description": "Mobile games similar to Borderlands Mobile — looter shooters, cel-shaded action games, and RPG shooters worth playing while you wait.",
+      "metaTitle": "Games Like Borderlands Mobile - Best Similar Mobile Shooters",
+      "metaDescription": "Find games similar to Borderlands Mobile: mobile looter shooters, cel-shaded RPGs, and action games with comparable gameplay loops on iOS and Android.",
+      "categoryLabel": "SIMILAR GAMES",
+      "whatIs": "What are Similar Games to Borderlands Mobile?",
+      "whatIsDescription": "If you enjoy Borderlands Mobile's cel-shaded looter shooter style, these articles recommend the best mobile alternatives — covering games with comparable loot systems, RPG progression, and action combat. All recommendations are available on iOS and most are on Android as well.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Learn rarity tiers",
-        "step1Description": "Understand the five rarity levels and how they affect weapon performance.",
-        "step2Title": "Find legendary loot",
-        "step2Description": "Learn which activities drop the highest-rarity weapons most efficiently.",
-        "step3Title": "Upgrade your gear",
-        "step3Description": "Discover how to rank up weapons, grenades, and shields to increase Power Score."
-      }
-    },
-    "missions": {
-      "title": "Borderlands Mobile Missions",
-      "description": "Campaign chapter guide, Main and Side Mission breakdown, and strategies for completing story objectives.",
-      "metaTitle": "Borderlands Mobile Missions - Campaign Guide and Chapter Walkthrough",
-      "metaDescription": "Borderlands Mobile missions guide covering Campaign chapters, Main Mission order, Side Mission rewards, and Star Challenge tips.",
-      "categoryLabel": "MISSIONS GUIDE",
-      "whatIs": "What is the Missions Guide?",
-      "whatIsDescription": "A chapter-by-chapter Campaign guide explaining mission types, objectives, and the best order to complete them.",
-      "why": "Why follow the missions guide?",
-      "whySteps": {
-        "step1Title": "Understand mission types",
-        "step1Description": "Learn the difference between Main Missions, Side Missions, and Star Challenges.",
-        "step2Title": "Progress efficiently",
-        "step2Description": "Know which missions to prioritize for the fastest Campaign advancement.",
-        "step3Title": "Unlock Star Challenges",
-        "step3Description": "Find out how to access bonus challenges on completed missions for extra loot."
-      }
-    },
-    "modes": {
-      "title": "Borderlands Mobile Modes",
-      "description": "Tower of Terror, Circle of Slaughter, and other gameplay modes beyond the main Campaign.",
-      "metaTitle": "Borderlands Mobile Modes - Tower of Terror and Circle of Slaughter Guide",
-      "metaDescription": "Borderlands Mobile modes guide covering Tower of Terror, Circle of Slaughter rules, rewards, and tips for getting the most out of each mode.",
-      "categoryLabel": "GAME MODES",
-      "whatIs": "What is the Modes Guide?",
-      "whatIsDescription": "An overview of Borderlands Mobile's repeatable game modes including Tower of Terror and Circle of Slaughter.",
-      "why": "Why play extra modes?",
-      "whySteps": {
-        "step1Title": "Farm Tower of Terror",
-        "step1Description": "Learn how Tower of Terror works and which rewards are worth farming.",
-        "step2Title": "Master Circle of Slaughter",
-        "step2Description": "Understand the wave-based combat format and how to survive longer for better loot.",
-        "step3Title": "Pick the right mode for your goal",
-        "step3Description": "Know which mode gives XP, gear upgrades, or mod drops most efficiently."
-      }
+        "step1Title": "Find games to play now",
+        "step1Description": "Discover mobile looter shooters and RPG shooters to play while waiting for Borderlands Mobile to expand.",
+        "step2Title": "Compare gameplay styles",
+        "step2Description": "See how similar games stack up against Borderlands Mobile's loot, combat, and progression systems.",
+        "step3Title": "Discover hidden gems",
+        "step3Description": "Find lesser-known cel-shaded and looter shooter games that match the Borderlands Mobile experience."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Similar Games Articles"
     }
   }
 }

@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "release": "Çıkış",
+    "setup": "Kurulum",
+    "ios": "iOS",
+    "android": "Android",
+    "guide": "Rehber",
+    "apk": "APK",
+    "similar": "Benzer"
   },
   "common": {
     "home": "Ana Sayfa",

@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "release": "Релиз",
+    "setup": "Установка",
+    "ios": "iOS",
+    "android": "Android",
+    "guide": "Гайд",
+    "apk": "APK",
+    "similar": "Похожие"
   },
   "common": {
     "home": "Главная",

@@ -10,14 +10,7 @@
       "twitterDescription": "Borderlands Mobile hub for iOS download, release date, gameplay basics, weapons, missions, and Android status for new Vault Hunters."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",

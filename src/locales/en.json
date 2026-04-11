@@ -57,7 +57,7 @@
   "tools": {
     "title": "Borderlands Mobile",
     "titleHighlight": "Guides",
-    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, and gear upgrades",
+    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, gear upgrades, mods, campaign, Vaughn's Adventure, and Marcus Munitions",
     "cards": [
       {
         "icon": "Download",
@@ -98,6 +98,26 @@
         "icon": "Hammer",
         "title": "Borderlands Mobile Gear Upgrade Guide",
         "description": "Upgrade Grenades, Weapons, and Shields with materials and Coins"
+      },
+      {
+        "icon": "Wrench",
+        "title": "Borderlands Mobile Mods Guide",
+        "description": "What Mods do, how to equip them, and farming via Circle of Slaughter"
+      },
+      {
+        "icon": "Map",
+        "title": "Borderlands Mobile Campaign Guide",
+        "description": "Chapters, missions, Star Challenge replay system, and story progression"
+      },
+      {
+        "icon": "Gift",
+        "title": "Borderlands Mobile Vaughn's Adventure Guide",
+        "description": "Reward timers, Legendary Chest cadence, and level scaling explained"
+      },
+      {
+        "icon": "ShoppingBag",
+        "title": "Borderlands Mobile Marcus Munitions Guide",
+        "description": "Chest tiers, key costs, Free Chest timing, and ship upgrade loop"
       }
     ]
   },
@@ -437,6 +457,154 @@
           "step": 6,
           "title": "Compare rarity and level together",
           "description": "Higher rarity gear usually has a higher Power Score, but a higher-level lower-rarity item can still be the better short-term choice."
+        }
+      ]
+    },
+    "borderlandsMobileModsGuide": {
+      "eyebrow": "Loadout",
+      "title": "Borderlands Mobile Mods Guide",
+      "subtitle": "Mods are items you attach to weapons to improve their performance. Equip and swap them from the Inventory at any time, and farm more through Circle of Slaughter.",
+      "intro": "Use this page to understand what Mods do, where to equip them, and which gameplay loops support mod-focused loadout progression in Borderlands Mobile.",
+      "items": [
+        {
+          "title": "What Mods Do",
+          "text": "Mods are items you can attach to a weapon to improve its performance, with many kinds of Mods offering different stat bonuses."
+        },
+        {
+          "title": "Where to Equip Mods",
+          "text": "Open your Inventory and tap the Mods tab on the upper-right side of the screen to manage all your equipped Mods."
+        },
+        {
+          "title": "Swap Mods Anytime",
+          "text": "Mods can be equipped and unequipped within the Inventory at any time without any cooldown or restriction."
+        },
+        {
+          "title": "Mod Upgrade System",
+          "text": "The Borderlands Mobile Mod Upgrades section is listed as Coming Soon in the current build, with an expanded system planned for future updates."
+        },
+        {
+          "title": "Farm Mods via Circle of Slaughter",
+          "text": "Circle of Slaughter has no entrance fee, currently offers two levels, and gives higher chances to win Gear and Mods the longer you survive enemy waves."
+        },
+        {
+          "title": "Rank Materials Quick Reference",
+          "text": "Weapon rank upgrades use Components and Coins, Grenade rank upgrades use Fillers and Coins, and Shield rank upgrades use Cells and Coins."
+        }
+      ]
+    },
+    "borderlandsMobileCampaignGuide": {
+      "eyebrow": "Story",
+      "title": "Borderlands Mobile Campaign Guide",
+      "subtitle": "Campaign is the main journey through Pandora and includes Main Missions, Side Missions, and Star Challenge replay content for ongoing rewards.",
+      "intro": "This guide covers how to enter Borderlands Mobile Campaign, what Chapters unlock, how Main and Side Missions differ, how Star Challenge works, and common mission troubleshooting.",
+      "items": [
+        {
+          "question": "How do I enter the Campaign feature in Borderlands Mobile?",
+          "answer": "Tap the Travel button, then choose Campaign, which appears first in the selection list."
+        },
+        {
+          "question": "What are Chapters in Borderlands Mobile?",
+          "answer": "Chapters guide your journey through Pandora, provide additional challenges, and reward progress with new features, achievements, and more challenging follow-up chapters."
+        },
+        {
+          "question": "What is a Main Mission in Borderlands Mobile?",
+          "answer": "Main Missions are missions focused on the current Chapter's storyline and form the core progression path through Borderlands Mobile Campaign."
+        },
+        {
+          "question": "What is a Side Mission in Borderlands Mobile?",
+          "answer": "Side Missions unlock as you progress through a Chapter and offer optional objectives with extra rewards beyond the main story."
+        },
+        {
+          "question": "How does Star Challenge work in Borderlands Mobile?",
+          "answer": "After completing several chapters, Star Challenge unlocks and lets you replay completed missions. Each replayed mission has three additional challenges, and each completed challenge awards one Star."
+        },
+        {
+          "question": "Do all replayed missions in Borderlands Mobile have Star Challenges?",
+          "answer": "Completed missions that are replayed will have Star Challenges except for the Prologue."
+        },
+        {
+          "question": "What are Stars used for in Borderlands Mobile Campaign?",
+          "answer": "Earn enough Stars to claim Claptrap's chest of booty from the Star Challenge reward track."
+        },
+        {
+          "question": "Why can't I complete the It's Just Business Pt 2 mission in Borderlands Mobile?",
+          "answer": "Jeffrey from Accounting can occasionally fail to spawn in this Side Mission. Closing and reloading the game resolves the issue."
+        }
+      ]
+    },
+    "borderlandsMobileVaughnsAdventureGuide": {
+      "eyebrow": "Idle Rewards",
+      "title": "Borderlands Mobile Vaughn's Adventure Guide",
+      "subtitle": "Vaughn's Adventure is a timed reward feature in Borderlands Mobile that pays out XP, Cash, and a Legendary Chest, with rewards scaling as your account levels up.",
+      "intro": "This guide explains when Vaughn's Adventure unlocks, where to find it, how often to check in, what the two reward timers are, and how Ship upgrades improve your payouts.",
+      "items": [
+        {
+          "title": "Unlock Requirement",
+          "text": "You unlock Vaughn's Adventure in Borderlands Mobile after rescuing Vaughn during the Friends Like These mission."
+        },
+        {
+          "title": "Regular Reward Timer",
+          "text": "Vaughn ventures outside the ship every 10 minutes to collect extra XP and Cash. The timer resets only after you collect the rewards."
+        },
+        {
+          "title": "Legendary Chest Timer",
+          "text": "Return after 18 hours to collect the Legendary Chest from Vaughn's Adventure. This timer also resets only after you collect it."
+        },
+        {
+          "title": "Where to Access It",
+          "text": "Access Vaughn's Adventure using its designated button on the top-right side of the Borderlands Mobile main screen."
+        },
+        {
+          "title": "Level Scaling Rewards",
+          "text": "The amount of Cash and XP you collect from Vaughn's Adventure increases as your Vault Hunter level goes up in Borderlands Mobile."
+        },
+        {
+          "title": "Ship Upgrade Synergy",
+          "text": "Upgrading Scavenger Hunt to level 2 adds Parts and Fillers to the items Vaughn finds, expanding the value of each Borderlands Mobile check-in."
+        }
+      ]
+    },
+    "borderlandsMobileMarcusMunitionsGuide": {
+      "eyebrow": "Shop",
+      "title": "Borderlands Mobile Marcus Munitions Guide",
+      "subtitle": "Marcus Munitions is the Borderlands Mobile in-game shop featuring multiple chest tiers, free claim timing, and Ship upgrades that improve what you can earn.",
+      "intro": "Use this table as your fast reference for chest types, key costs, guaranteed reward rarity, Free Chest timing, and how Ship and Legendary Collection progression connect to the Borderlands Mobile shop.",
+      "rows": [
+        {
+          "name": "Free Chest",
+          "cost": "Free",
+          "reward": "Common Weapon",
+          "note": "Claim once every 10 minutes. Timer resets only after collection."
+        },
+        {
+          "name": "Golden Chest",
+          "cost": "1 Rare Key",
+          "reward": "Rare Gear",
+          "note": "Key-based chest available in Marcus Munitions."
+        },
+        {
+          "name": "Epic Chest",
+          "cost": "3 Epic Keys",
+          "reward": "Epic Gear",
+          "note": "Higher-tier chest requiring Epic Keys."
+        },
+        {
+          "name": "Legendary Chest",
+          "cost": "5 Legendary Key Fragments",
+          "reward": "Legendary Gear",
+          "note": "Top-tier chest in Borderlands Mobile Marcus Munitions."
+        },
+        {
+          "name": "Marcus Munitions Level 2",
+          "cost": "Ship Parts",
+          "reward": "Adds Rare Weapons to Free Chest",
+          "note": "Upgrade Marcus Munitions to level 2 from the Ship to improve the Free Chest loop."
+        },
+        {
+          "name": "Legendary Collection",
+          "cost": "Obtain first Legendary gear",
+          "reward": "Access to Legendary Collection event",
+          "note": "Shows how and where to get different pieces of Legendary gear in Borderlands Mobile."
         }
       ]
     }

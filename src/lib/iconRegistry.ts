@@ -38,6 +38,12 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
 
+  // 模块 9-12 导航卡片图标
+  Wrench: LucideIcons.Wrench,
+  Map: LucideIcons.Map,
+  Gift: LucideIcons.Gift,
+  ShoppingBag: LucideIcons.ShoppingBag,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }

@@ -3,19 +3,32 @@
 import { useEffect, useState, Suspense, lazy } from 'react'
 import {
   AlertTriangle,
+  Anchor,
   ArrowRight,
+  BarChart2,
   BookOpen,
   Check,
   ChevronDown,
+  ClipboardList,
   Download,
   ExternalLink,
+  Gift,
   Hammer,
   Keyboard,
+  Map,
   MessageCircle,
+  Package,
+  RefreshCw,
+  ShoppingBag,
   Sparkles,
   Star,
+  Target,
+  Timer,
   TrendingUp,
+  Trophy,
+  Unlock,
   Users,
+  Wrench,
   Zap,
 } from 'lucide-react'
 import Link from 'next/link'
@@ -296,7 +309,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               const sectionIds = [
                 'download-device-requirements', 'beginner-guide', 'summoner-class-guide', 'controls-guide',
                 'borderlands-mobile-leveling-guide', 'borderlands-mobile-power-score-guide',
-                'borderlands-mobile-skills-guide', 'borderlands-mobile-gear-upgrade-guide'
+                'borderlands-mobile-skills-guide', 'borderlands-mobile-gear-upgrade-guide',
+                'borderlands-mobile-mods-guide', 'borderlands-mobile-campaign-guide',
+                'borderlands-mobile-vaughns-adventure-guide', 'borderlands-mobile-marcus-munitions-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -764,6 +779,201 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </div>
               ))}
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Module 9: Mods Guide */}
+      <section id="borderlands-mobile-mods-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileModsGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileModsGuide']} locale={locale}>
+                {t.modules.borderlandsMobileModsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileModsGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileModsGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 scroll-reveal">
+            {t.modules.borderlandsMobileModsGuide.items.map((item: any, index: number) => {
+              const modsIcons = [Package, ClipboardList, RefreshCw, AlertTriangle, Target, BarChart2]
+              const Icon = modsIcons[index % modsIcons.length]
+              return (
+                <div
+                  key={index}
+                  className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.08)]"
+                >
+                  <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.15)] flex items-center justify-center mb-3">
+                    <Icon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <h3 className="font-bold mb-2">{item.title}</h3>
+                  <p className="text-muted-foreground text-sm">{item.text}</p>
+                </div>
+              )
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 10: Campaign Guide */}
+      <section id="borderlands-mobile-campaign-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileCampaignGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileCampaignGuide']} locale={locale}>
+                {t.modules.borderlandsMobileCampaignGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileCampaignGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileCampaignGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 scroll-reveal">
+            {t.modules.borderlandsMobileCampaignGuide.items.map((item: any, index: number) => (
+              <details
+                key={index}
+                className="group p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+              >
+                <summary className="flex items-center justify-between cursor-pointer list-none">
+                  <span className="font-semibold pr-4 text-sm">{item.question}</span>
+                  <ChevronDown className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0 group-open:rotate-180 transition-transform duration-200" />
+                </summary>
+                <p className="mt-3 text-muted-foreground text-sm leading-relaxed">{item.answer}</p>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 11: Vaughn's Adventure Guide */}
+      <section id="borderlands-mobile-vaughns-adventure-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileVaughnsAdventureGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileVaughnsAdventureGuide']} locale={locale}>
+                {t.modules.borderlandsMobileVaughnsAdventureGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileVaughnsAdventureGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileVaughnsAdventureGuide.intro}
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 scroll-reveal">
+            {t.modules.borderlandsMobileVaughnsAdventureGuide.items.map((item: any, index: number) => {
+              const vaughnIcons = [Unlock, Timer, Trophy, Gift, TrendingUp, Anchor]
+              const Icon = vaughnIcons[index % vaughnIcons.length]
+              return (
+                <div
+                  key={index}
+                  className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.08)]"
+                >
+                  <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.15)] flex items-center justify-center mb-3">
+                    <Icon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <h3 className="font-bold mb-2">{item.title}</h3>
+                  <p className="text-muted-foreground text-sm">{item.text}</p>
+                </div>
+              )
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 12: Marcus Munitions Guide */}
+      <section id="borderlands-mobile-marcus-munitions-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileMarcusMunitionsGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['borderlandsMobileMarcusMunitionsGuide']} locale={locale}>
+                {t.modules.borderlandsMobileMarcusMunitionsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileMarcusMunitionsGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileMarcusMunitionsGuide.intro}
+          </p>
+
+          {/* Desktop table */}
+          <div className="scroll-reveal hidden md:block overflow-x-auto rounded-xl border border-border">
+            <table className="w-full text-sm">
+              <thead className="bg-[hsl(var(--nav-theme)/0.1)] text-[hsl(var(--nav-theme-light))]">
+                <tr>
+                  <th className="text-left p-4 font-semibold">Chest / Feature</th>
+                  <th className="text-left p-4 font-semibold">Cost</th>
+                  <th className="text-left p-4 font-semibold">Guaranteed Reward</th>
+                  <th className="text-left p-4 font-semibold">Notes</th>
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.borderlandsMobileMarcusMunitionsGuide.rows.map((row: any, index: number) => (
+                  <tr
+                    key={index}
+                    className={`border-t border-border ${index % 2 === 0 ? 'bg-white/[0.02]' : 'bg-transparent'} hover:bg-white/5 transition-colors`}
+                  >
+                    <td className="p-4 font-medium">{row.name}</td>
+                    <td className="p-4 text-[hsl(var(--nav-theme-light))] font-medium">{row.cost}</td>
+                    <td className="p-4">{row.reward}</td>
+                    <td className="p-4 text-muted-foreground">{row.note}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile stacked cards */}
+          <div className="md:hidden space-y-4 scroll-reveal">
+            {t.modules.borderlandsMobileMarcusMunitionsGuide.rows.map((row: any, index: number) => (
+              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
+                <div className="flex items-center gap-2 mb-3">
+                  <ShoppingBag className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                  <h3 className="font-bold">{row.name}</h3>
+                </div>
+                <div className="space-y-1 text-sm">
+                  <p>
+                    <span className="text-muted-foreground">Cost: </span>
+                    <span className="text-[hsl(var(--nav-theme-light))] font-medium">{row.cost}</span>
+                  </p>
+                  <p>
+                    <span className="text-muted-foreground">Reward: </span>
+                    {row.reward}
+                  </p>
+                  <p className="text-muted-foreground text-xs mt-2">{row.note}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>

@@ -5,6 +5,7 @@ import {
   AlertTriangle,
   Anchor,
   ArrowRight,
+  Award,
   BarChart2,
   BookOpen,
   Check,
@@ -15,6 +16,7 @@ import {
   Gift,
   Hammer,
   Keyboard,
+  Layers,
   Map,
   MessageCircle,
   Package,
@@ -22,6 +24,7 @@ import {
   ShoppingBag,
   Sparkles,
   Star,
+  Swords,
   Target,
   Timer,
   TrendingUp,
@@ -311,7 +314,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 'borderlands-mobile-leveling-guide', 'borderlands-mobile-power-score-guide',
                 'borderlands-mobile-skills-guide', 'borderlands-mobile-gear-upgrade-guide',
                 'borderlands-mobile-mods-guide', 'borderlands-mobile-campaign-guide',
-                'borderlands-mobile-vaughns-adventure-guide', 'borderlands-mobile-marcus-munitions-guide'
+                'borderlands-mobile-vaughns-adventure-guide', 'borderlands-mobile-marcus-munitions-guide',
+                'borderlands-mobile-tower-of-terror-guide', 'borderlands-mobile-circle-of-slaughter-guide',
+                'borderlands-mobile-ship-upgrade-guide', 'borderlands-mobile-battle-pass-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -974,6 +979,208 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 13: Tower of Terror Guide */}
+      <section id="borderlands-mobile-tower-of-terror-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileTowerOfTerrorGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              {t.modules.borderlandsMobileTowerOfTerrorGuide.title}
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileTowerOfTerrorGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileTowerOfTerrorGuide.intro}
+          </p>
+
+          {/* Two-column accordion (desktop) / single-column (mobile) */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 scroll-reveal">
+            {(() => {
+              const itemIcons = [Map, Timer, Gift, Trophy, Users]
+              return t.modules.borderlandsMobileTowerOfTerrorGuide.items.map((item: any, i: number) => {
+                const Icon = itemIcons[i] ?? Map
+                return (
+                  <details key={i} className="group rounded-xl border border-border bg-card overflow-hidden">
+                    <summary className="flex items-center gap-3 p-5 cursor-pointer list-none select-none hover:bg-white/5 transition-colors">
+                      <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0 group-open:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                        <Icon className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      <h3 className="font-semibold flex-1">{item.title}</h3>
+                      <ChevronDown className="w-4 h-4 text-muted-foreground transition-transform duration-200 group-open:rotate-180 flex-shrink-0" />
+                    </summary>
+                    <div className="px-5 pb-5">
+                      <p className="text-sm text-[hsl(var(--nav-theme-light))] font-medium mb-3">{item.summary}</p>
+                      <ul className="space-y-2">
+                        {item.bullets.map((bullet: string, j: number) => (
+                          <li key={j} className="flex items-start gap-2 text-sm text-muted-foreground">
+                            <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                            <span>{bullet}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </details>
+                )
+              })
+            })()}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 14: Circle of Slaughter Guide */}
+      <section id="borderlands-mobile-circle-of-slaughter-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileCircleOfSlaughterGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              {t.modules.borderlandsMobileCircleOfSlaughterGuide.title}
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileCircleOfSlaughterGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-10 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileCircleOfSlaughterGuide.intro}
+          </p>
+
+          {/* Two-column accordion (desktop) / single-column (mobile) */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 scroll-reveal">
+            {(() => {
+              const itemIcons = [Unlock, Target, BarChart2, Star, AlertTriangle]
+              return t.modules.borderlandsMobileCircleOfSlaughterGuide.items.map((item: any, i: number) => {
+                const Icon = itemIcons[i] ?? Unlock
+                return (
+                  <details key={i} className="group rounded-xl border border-border bg-card overflow-hidden">
+                    <summary className="flex items-center gap-3 p-5 cursor-pointer list-none select-none hover:bg-white/5 transition-colors">
+                      <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0 group-open:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                        <Icon className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      <h3 className="font-semibold flex-1">{item.title}</h3>
+                      <ChevronDown className="w-4 h-4 text-muted-foreground transition-transform duration-200 group-open:rotate-180 flex-shrink-0" />
+                    </summary>
+                    <div className="px-5 pb-5">
+                      <p className="text-sm text-[hsl(var(--nav-theme-light))] font-medium mb-3">{item.summary}</p>
+                      <ul className="space-y-2">
+                        {item.bullets.map((bullet: string, j: number) => (
+                          <li key={j} className="flex items-start gap-2 text-sm text-muted-foreground">
+                            <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                            <span>{bullet}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </details>
+                )
+              })
+            })()}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 15: Ship Upgrade Guide */}
+      <section id="borderlands-mobile-ship-upgrade-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileShipUpgradeGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              {t.modules.borderlandsMobileShipUpgradeGuide.title}
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileShipUpgradeGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-12 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileShipUpgradeGuide.intro}
+          </p>
+
+          {/* Three-column grid (desktop) / single-column (mobile) */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 scroll-reveal">
+            {(() => {
+              const stepIcons = [Unlock, Package, Zap, Anchor, RefreshCw, ShoppingBag]
+              return t.modules.borderlandsMobileShipUpgradeGuide.steps.map((step: any, i: number) => {
+                const Icon = stepIcons[i] ?? Unlock
+                return (
+                  <div key={i} className="relative p-6 rounded-xl border border-border bg-card hover:border-[hsl(var(--nav-theme)/0.4)] transition-all duration-300">
+                    {/* Step number badge */}
+                    <div className="flex items-center gap-3 mb-4">
+                      <div className="w-8 h-8 rounded-full bg-[hsl(var(--nav-theme)/0.15)] flex items-center justify-center flex-shrink-0">
+                        <span className="text-xs font-bold text-[hsl(var(--nav-theme-light))]">{step.step}</span>
+                      </div>
+                      <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                        <Icon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                    </div>
+                    <h3 className="font-bold text-base mb-2">{step.title}</h3>
+                    <p className="text-sm text-muted-foreground leading-relaxed">{step.details}</p>
+                  </div>
+                )
+              })
+            })()}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 16: Battle Pass Guide */}
+      <section id="borderlands-mobile-battle-pass-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <p className="text-sm font-semibold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-3">
+              {t.modules.borderlandsMobileBattlePassGuide.eyebrow}
+            </p>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              {t.modules.borderlandsMobileBattlePassGuide.title}
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.borderlandsMobileBattlePassGuide.subtitle}
+            </p>
+          </div>
+
+          <p className="text-muted-foreground mb-12 text-center max-w-2xl mx-auto scroll-reveal">
+            {t.modules.borderlandsMobileBattlePassGuide.intro}
+          </p>
+
+          {/* Timeline: horizontal on desktop, stacked on mobile */}
+          <div className="relative scroll-reveal">
+            {/* Desktop horizontal connector line */}
+            <div className="hidden lg:block absolute top-8 left-0 right-0 h-0.5 bg-[hsl(var(--nav-theme)/0.2)]" style={{ top: '2rem' }} />
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {(() => {
+                const phaseIcons = [BookOpen, Layers, TrendingUp, ClipboardList, Award, ArrowRight]
+                return t.modules.borderlandsMobileBattlePassGuide.phases.map((phase: any, i: number) => {
+                  const Icon = phaseIcons[i] ?? BookOpen
+                  return (
+                    <div key={i} className="relative flex flex-col items-start">
+                      {/* Node */}
+                      <div className="relative z-10 w-16 h-16 rounded-xl bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] flex items-center justify-center mb-4 hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                        <Icon className="w-7 h-7 text-[hsl(var(--nav-theme-light))]" />
+                      </div>
+                      {/* Phase badge */}
+                      <span className="text-xs font-bold uppercase tracking-widest text-[hsl(var(--nav-theme-light))] mb-1">
+                        {phase.phase}
+                      </span>
+                      <h3 className="font-bold text-base mb-2">{phase.title}</h3>
+                      <p className="text-sm text-muted-foreground leading-relaxed">{phase.details}</p>
+                    </div>
+                  )
+                })
+              })()}
+            </div>
           </div>
         </div>
       </section>

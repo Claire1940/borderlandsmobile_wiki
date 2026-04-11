@@ -57,7 +57,7 @@
   "tools": {
     "title": "Borderlands Mobile",
     "titleHighlight": "Guides",
-    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, gear upgrades, mods, campaign, Vaughn's Adventure, and Marcus Munitions",
+    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, gear upgrades, mods, campaign, Vaughn's Adventure, Marcus Munitions, Tower of Terror, Circle of Slaughter, ship upgrades, and Battle Pass",
     "cards": [
       {
         "icon": "Download",
@@ -118,6 +118,26 @@
         "icon": "ShoppingBag",
         "title": "Borderlands Mobile Marcus Munitions Guide",
         "description": "Chest tiers, key costs, Free Chest timing, and ship upgrade loop"
+      },
+      {
+        "icon": "Layers",
+        "title": "Borderlands Mobile Tower of Terror Guide",
+        "description": "Floors, Tickets, Leaderboards, and Ship Part farming explained"
+      },
+      {
+        "icon": "Swords",
+        "title": "Borderlands Mobile Circle of Slaughter Guide",
+        "description": "Wave survival, free entry, and Gear and Mod farming"
+      },
+      {
+        "icon": "Anchor",
+        "title": "Borderlands Mobile Ship Upgrade Guide",
+        "description": "Ship Parts, room upgrades, and long-term progression systems"
+      },
+      {
+        "icon": "Award",
+        "title": "Borderlands Mobile Battle Pass Guide",
+        "description": "Daily and Weekly Challenges, reward tracks, and tier progression"
       }
     ]
   },
@@ -605,6 +625,184 @@
           "cost": "Obtain first Legendary gear",
           "reward": "Access to Legendary Collection event",
           "note": "Shows how and where to get different pieces of Legendary gear in Borderlands Mobile."
+        }
+      ]
+    },
+    "borderlandsMobileTowerOfTerrorGuide": {
+      "eyebrow": "Challenge Mode",
+      "title": "Borderlands Mobile Tower of Terror Guide",
+      "subtitle": "Push through enemy floors, spend tickets wisely, and turn repeat clears into Ship Parts. This mode is built for steady ship progression and daily ranking rewards.",
+      "intro": "Tower of Terror is a single-player challenge mode found from the Travel button on the HQ screen. You clear every enemy on a floor to move forward, spend one Ticket per entry, and can replay completed floors for standard rewards or use Quick Play when you need a fast farm run.",
+      "items": [
+        {
+          "title": "How to Access the Mode",
+          "summary": "Open the HQ screen, tap Travel, and choose Tower of Terror from the list of game modes.",
+          "bullets": [
+            "Tower of Terror appears in the Travel menu on the HQ screen.",
+            "It is a single-player mode.",
+            "You advance by killing all enemies on the current floor."
+          ]
+        },
+        {
+          "title": "Tickets and Floor Entry",
+          "summary": "Every attempt costs a Ticket, including repeat clears and Quick Play runs.",
+          "bullets": [
+            "Each floor requires a Ticket to enter.",
+            "Replaying a completed floor also consumes a Ticket.",
+            "Quick Play can be used on previously completed floors for instant standard rewards."
+          ]
+        },
+        {
+          "title": "Rewards and Ship Parts",
+          "summary": "The mode is one of the main places to grind Ship Parts and first-clear milestone rewards.",
+          "bullets": [
+            "The mode is recommended for farming Ship Parts.",
+            "Certain floors grant special rewards from Tina on first completion.",
+            "Quick Play grants standard rewards only, not first-clear special rewards."
+          ]
+        },
+        {
+          "title": "Leaderboard and Daily Reset",
+          "summary": "Your ranking updates as you climb, and daily leaderboard rewards are delivered the next day.",
+          "bullets": [
+            "Leaderboards show your standing, the top players, and the highest floors reached.",
+            "Your current standing also appears on the floor summary screen.",
+            "The leaderboard resets daily.",
+            "Top-ranked Vault Hunters receive rewards after logging in the next day."
+          ]
+        },
+        {
+          "title": "What Players on This Floor Means",
+          "summary": "That floor count is informational only and does not create multiplayer combat inside the tower.",
+          "bullets": [
+            "The player count only shows that other players reached the same floor.",
+            "You do not play with or against those players inside the floor."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileCircleOfSlaughterGuide": {
+      "eyebrow": "Survival Mode",
+      "title": "Borderlands Mobile Circle of Slaughter Guide",
+      "subtitle": "This survival mode opens after its timer ends and lets you fight enemy waves for repeatable loot runs. It is one of the cleanest ways to target Gear and Mods without paying an entry fee.",
+      "intro": "Circle of Slaughter is a challenge mode placed in Mode Selection right next to Tower of Terror. Once the event unlocks, you can enter freely and survive as many waves as possible to improve your reward chances.",
+      "items": [
+        {
+          "title": "How the Mode Unlocks",
+          "summary": "The event becomes available after its countdown finishes.",
+          "bullets": [
+            "Circle of Slaughter unlocks after the timer ends.",
+            "You can find it in Mode Selection next to Tower of Terror."
+          ]
+        },
+        {
+          "title": "How the Mode Works",
+          "summary": "The goal is simple: survive wave after wave for as long as possible.",
+          "bullets": [
+            "You fight waves of enemies in a survival challenge.",
+            "Longer survival improves your reward chances."
+          ]
+        },
+        {
+          "title": "Current Stage Count",
+          "summary": "At the moment, the mode has a limited set of playable levels.",
+          "bullets": [
+            "There are currently 2 levels in Circle of Slaughter.",
+            "More levels are planned to be added later."
+          ]
+        },
+        {
+          "title": "Rewards and Farming Value",
+          "summary": "The mode is built for repeat runs because entry is free and reward chances scale with survival.",
+          "bullets": [
+            "There is no entrance fee.",
+            "You can replay the mode as many times as you want.",
+            "Surviving more waves gives higher chances to win Gear and Mods."
+          ]
+        },
+        {
+          "title": "If the Event Does Not Open",
+          "summary": "Close the game and reload to resolve the timer-expiry unlock issue.",
+          "bullets": [
+            "If the event does not unlock when the timer expires, close the game.",
+            "Reloading the game resolves the unlock issue."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileShipUpgradeGuide": {
+      "eyebrow": "Ship Progression",
+      "title": "Borderlands Mobile Ship Upgrade Guide",
+      "subtitle": "Ship upgrades connect several of Borderlands Mobile's long-term systems. Spend Ship Parts to grow the ship, unlock new allies and rooms, and improve what your account earns over time.",
+      "intro": "You unlock the Ship feature during the initial playthrough, and it appears on the upper-right side of the screen. Ship Parts are the core upgrade resource, and room upgrades can unlock new modes, improve passive finds, and strengthen shop rewards.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Unlock the Ship",
+          "details": "Progress through the initial playthrough to unlock the Ship feature, then open it from the upper-right side of the screen."
+        },
+        {
+          "step": 2,
+          "title": "Spend Ship Parts",
+          "details": "Use collected Ship Parts to upgrade the ship, meet new allies, and unlock additional rooms."
+        },
+        {
+          "step": 3,
+          "title": "Use Rooms for Buffs",
+          "details": "Upgraded rooms provide buffs and increase your ship's overall power."
+        },
+        {
+          "step": 4,
+          "title": "Bridge Level 2 Unlock",
+          "details": "Upgrading the Bridge to level 2 unlocks Tiny Tina's Tower of Terror."
+        },
+        {
+          "step": 5,
+          "title": "Scavenger Hunt Level 2 Upgrade",
+          "details": "Upgrading Scavenger Hunt to level 2 adds Parts and Fillers to the items that Vaughn finds for you."
+        },
+        {
+          "step": 6,
+          "title": "Marcus Munitions Level 2 Upgrade",
+          "details": "Upgrading Marcus Munitions to level 2 adds Rare Weapons to the store's Free Chest."
+        }
+      ]
+    },
+    "borderlandsMobileBattlePassGuide": {
+      "eyebrow": "Season System",
+      "title": "Borderlands Mobile Battle Pass Guide",
+      "subtitle": "The Battle Pass is a seasonal progression layer with separate free and premium reward tracks. Your progress is driven by Daily and Weekly Challenges, so routine task completion is the key to climbing tiers.",
+      "intro": "Open the Battle Pass from the button on the left side of the HQ screen. Each season has a time-limited rewards track, and Battle Pass Points come from challenge completion rather than passive login alone.",
+      "phases": [
+        {
+          "phase": "Access",
+          "title": "Open the Battle Pass",
+          "details": "The Battle Pass is accessed from the Battle Pass button on the left side of the HQ screen."
+        },
+        {
+          "phase": "Season",
+          "title": "Follow the Two Reward Tracks",
+          "details": "Each season includes two reward tiers: Free Pass and Ultimate Pass."
+        },
+        {
+          "phase": "Progress",
+          "title": "Earn Battle Pass Points",
+          "details": "Battle Pass Points are earned by completing Daily Challenges and Weekly Challenges, which increase your Battle Pass level and move you up the rewards track."
+        },
+        {
+          "phase": "Challenges",
+          "title": "Use the Task Loop Efficiently",
+          "details": "Daily Tasks must be completed within 24 hours. Weekly Tasks run within the current week, unlock new challenges each day, and have their own rewards."
+        },
+        {
+          "phase": "Premium",
+          "title": "Understand the Ultimate Pass",
+          "details": "Ultimate Pass unlocks the premium rewards track through in-app purchase and grants additional rewards that match your current Battle Pass progress."
+        },
+        {
+          "phase": "Claiming",
+          "title": "Keep Leveling After Purchase",
+          "details": "Buying the Ultimate Pass does not finish the track automatically. You still need to earn more Battle Pass Points to unlock higher tiers on both reward tracks."
         }
       ]
     }

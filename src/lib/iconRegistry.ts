@@ -44,6 +44,12 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gift: LucideIcons.Gift,
   ShoppingBag: LucideIcons.ShoppingBag,
 
+  // 模块 13-16 导航卡片图标
+  Layers: LucideIcons.Layers,
+  Swords: LucideIcons.Swords,
+  Anchor: LucideIcons.Anchor,
+  Award: LucideIcons.Award,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }

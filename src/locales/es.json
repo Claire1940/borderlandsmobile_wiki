@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Borderlands Mobile - Descarga para iOS, fecha de lanzamiento y guía",
+      "description": "Centro de Borderlands Mobile para pasos de descarga en iOS, fecha de lanzamiento, conceptos básicos de juego, armas, misiones y estado de Android en una guía clara para nuevos Vault Hunters.",
+      "keywords": "Borderlands Mobile, iOS, fecha de lanzamiento, descarga, jugabilidad, armas, misiones, Android",
+      "ogTitle": "Borderlands Mobile - Descarga para iOS, fecha de lanzamiento y guía",
+      "ogDescription": "Centro de Borderlands Mobile para pasos de descarga en iOS, fecha de lanzamiento, conceptos básicos de juego, armas, misiones y estado de Android en una guía clara para nuevos Vault Hunters.",
+      "twitterTitle": "Borderlands Mobile - Descarga para iOS, fecha de lanzamiento y guía",
+      "twitterDescription": "Centro de Borderlands Mobile para descarga en iOS, fecha de lanzamiento, conceptos básicos de juego, armas, misiones y estado de Android para nuevos Vault Hunters."
     }
   },
   "nav": {
@@ -22,7 +22,7 @@
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Descargar ahora",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -34,899 +34,981 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Looter Shooter gratuito para iPhone",
+    "title": "Borderlands Mobile",
+    "description": "Un centro de Borderlands de acceso rápido enfocado en el lanzamiento para iPhone, actualizaciones, modos de misión, conceptos básicos de botín y seguimiento del despliegue futuro en Android.",
+    "getFreeCodesCTA": "Descargar en iPhone",
+    "playOnSteamCTA": "Sitio oficial",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "4.2/5",
+        "label": "Calificación de usuarios"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "99",
+        "label": "Calificaciones"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "2.9 GB",
+        "label": "Tamaño de la app"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "Gratis",
+        "label": "Precio"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Borderlands Mobile",
+    "description": "Sumérgete en un looter shooter con estilo cel-shaded en iPhone. Completa misiones de campaña, sube de nivel a tu Vault Hunter, colecciona armas de cinco niveles de rareza y aumenta tu Power Score mientras conquistas Pandora."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Borderlands Mobile",
+    "titleHighlight": "Guías",
+    "subtitle": "Guías esenciales para Vault Hunters: descarga, consejos para principiantes, resumen de clases, controles, nivelación, power score, habilidades, mejoras de equipo, mods, campaña, Vaughn's Adventure, Marcus Munitions, Tower of Terror, Circle of Slaughter, mejoras de nave y Battle Pass",
     "cards": [
       {
+        "icon": "Download",
+        "title": "Guía de descarga de Borderlands Mobile",
+        "description": "Dónde descargar, requisitos del dispositivo y estado actual"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Guía para principiantes de Borderlands Mobile",
+        "description": "Primeros pasos, ciclo de campaña y Power Score explicados"
       },
       {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "icon": "Users",
+        "title": "Guía de la clase Summoner de Borderlands Mobile",
+        "description": "Identidad del Summoner, habilidad de acción y progresión de habilidades"
       },
       {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
+        "icon": "Keyboard",
+        "title": "Guía de controles de Borderlands Mobile",
+        "description": "Diseño táctil, ADS, disparo automático y consejos de combate"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "title": "Guía de nivelación de Borderlands Mobile",
+        "description": "Fuentes de XP, recompensas por subir de nivel y temporizador de Vaughn's Adventure explicados"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Guía de Power Score de Borderlands Mobile",
+        "description": "Qué mide el Power Score, cómo afecta la rareza del equipo y recompensas por hitos"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "icon": "Sparkles",
+        "title": "Guía de habilidades de Borderlands Mobile",
+        "description": "Cuándo se desbloquean las habilidades, cómo funcionan los puntos de habilidad y planificación inicial de builds"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "icon": "Hammer",
+        "title": "Guía de mejora de equipo de Borderlands Mobile",
+        "description": "Mejora granadas, armas y escudos con materiales y monedas"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "icon": "Wrench",
+        "title": "Guía de mods de Borderlands Mobile",
+        "description": "Qué hacen los mods, cómo equiparlos y farmeo mediante Circle of Slaughter"
       },
       {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "icon": "Map",
+        "title": "Guía de campaña de Borderlands Mobile",
+        "description": "Capítulos, misiones, sistema de repetición Star Challenge y progresión de la historia"
       },
       {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "icon": "Gift",
+        "title": "Guía de Vaughn's Adventure de Borderlands Mobile",
+        "description": "Temporizadores de recompensas, frecuencia de cofres legendarios y escalado de nivel explicados"
       },
       {
-        "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "icon": "ShoppingBag",
+        "title": "Guía de Marcus Munitions de Borderlands Mobile",
+        "description": "Niveles de cofres, costos de llaves, tiempos de cofres gratuitos y ciclo de mejora de nave"
+      },
+      {
+        "icon": "Layers",
+        "title": "Guía de Tower of Terror de Borderlands Mobile",
+        "description": "Pisos, tickets, tablas de clasificación y farmeo de piezas de nave explicados"
+      },
+      {
+        "icon": "Swords",
+        "title": "Guía de Circle of Slaughter de Borderlands Mobile",
+        "description": "Supervivencia por oleadas, entrada gratuita y farmeo de equipo y mods"
+      },
+      {
+        "icon": "Anchor",
+        "title": "Guía de mejora de nave de Borderlands Mobile",
+        "description": "Piezas de nave, mejoras de salas y sistemas de progresión a largo plazo"
+      },
+      {
+        "icon": "Award",
+        "title": "Guía de Battle Pass de Borderlands Mobile",
+        "description": "Desafíos diarios y semanales, rutas de recompensas y progresión de niveles"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+    "borderlandsMobileDownloadAndDeviceRequirements": {
+      "title": "Descarga Borderlands Mobile y consulta los requisitos de iPhone",
+      "eyebrow": "Primeros pasos",
+      "subtitle": "Bloque de escaneo rápido para nuevos jugadores: plataforma, especificaciones del dispositivo, tamaño de instalación y estado actual de un vistazo.",
+      "intro": "Borderlands Mobile está disponible en la App Store como un lanzamiento gratuito para iPhone de Zynga. El juego se encuentra actualmente en una prueba de tiempo limitado, se recomienda jugar en iPhone 11 o posterior, y no está optimizado para tabletas o iPads.",
+      "items": [
+        {
+          "label": "Ficha de la tienda",
+          "value": "App Store — Borderlands Mobile"
+        },
+        {
+          "label": "Precio",
+          "value": "Gratis"
+        },
+        {
+          "label": "Estado actual",
+          "value": "Prueba de tiempo limitado"
+        },
+        {
+          "label": "Dispositivo compatible",
+          "value": "Solo iPhone"
+        },
+        {
+          "label": "Sistema operativo",
+          "value": "Se requiere iOS 18.0 o posterior"
+        },
+        {
+          "label": "Teléfono recomendado",
+          "value": "iPhone 11 o posterior"
+        },
+        {
+          "label": "Soporte para tabletas",
+          "value": "No optimizado para tabletas o iPads"
+        },
+        {
+          "label": "Tamaño de la aplicación",
+          "value": "2.9 GB"
+        },
+        {
+          "label": "Idioma",
+          "value": "Inglés"
+        },
+        {
+          "label": "Género principal",
+          "value": "Looter shooter de acción"
+        }
+      ]
+    },
+    "borderlandsMobileBeginnerGuide": {
+      "title": "Tus primeras horas en Borderlands Mobile",
+      "eyebrow": "Ruta de inicio",
+      "subtitle": "Organiza el ciclo de juego inicial en acciones claras: Campaña, XP y verificaciones de Power Score que más importan cuando las misiones se vuelven difíciles.",
+      "intro": "La ruta más limpia para el inicio del juego es entrar en la Campaña, priorizar las Misiones principales, recoger las Misiones secundarias a medida que se desbloquean y mantener tu nivel y equipo progresando juntos. Vigila tu Power Score en lugar de avanzar a ciegas.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Abre Viaje y entra en la Campaña",
+          "description": "Toca el botón Viaje y luego elige Campaña para comenzar tu travesía por Pandora."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Prioriza las Misiones principales",
+          "description": "Las Misiones principales impulsan la historia del capítulo y son la forma más clara de avanzar en la progresión."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Recoge las Misiones secundarias cuando aparezcan",
+          "description": "Las Misiones secundarias se desbloquean a medida que avanzas en los capítulos y ofrecen objetivos opcionales con recompensas adicionales."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Farmea XP en el modo Campaña",
+          "description": "Tu Vault Hunter gana XP al completar misiones y derrotar enemigos. Puedes subir de nivel en tiempo real mientras estás en el campo."
+        },
+        {
+          "title": "Usa las subidas de nivel para mantener la resistencia",
+          "description": "Cada nivel superior aumenta permanentemente el Power Score y los PV máximos de tu Vault Hunter, y desbloquea mejores recompensas de Vaughn's Adventure."
+        },
+        {
+          "title": "Revisa el Power Score antes de misiones difíciles",
+          "description": "El Power Score aumenta a medida que subes de nivel y equipas equipo más fuerte. Las misiones muestran un Power Score mínimo recomendado; mantenerte cerca hace que la progresión sea más fluida."
+        },
+        {
+          "title": "Repite niveles completados para los Star Challenges",
+          "description": "Después de completar varios capítulos, se desbloquean los Star Challenges en las misiones terminadas, añadiendo hasta tres desafíos adicionales por misión para obtener más recompensas."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "La Campaña también es la fuente principal de XP; quédate en ella durante las primeras horas.",
+        "El Power Score es el número de progresión inicial más importante a vigilar.",
+        "Las Misiones secundarias son opcionales pero otorgan equipo y XP adicionales.",
+        "Los Star Challenges extienden el valor de rejugabilidad una vez que hayas completado los niveles principales."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
-      "cards": [
-        {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
-        },
-        {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
-        },
-        {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
-        },
-        {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
-        }
-      ],
-      "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+    "borderlandsMobileSummonerClassGuide": {
+      "title": "Cómo funciona la clase Summoner de Borderlands Mobile",
+      "eyebrow": "Guía de clase",
+      "subtitle": "Entiende qué hace el Summoner, su Action Skill y cómo se abre el sistema de habilidades a partir del nivel 8.",
+      "intro": "Summoner es la única clase disponible en la versión actual de Borderlands Mobile. La clase se centra en la invocación de bestias de energía de fase y abre un sistema completo de habilidades en el nivel 8, con espacio para futuras expansiones de clases.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "title": "Única clase disponible",
+          "body": "Summoner es la única clase jugable en la versión actual de Borderlands Mobile."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "title": "Identidad de la clase",
+          "body": "El Summoner maneja energía de fase para invocar bestias que luchan a tu lado en la batalla."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "title": "Action Skill: ¡Buen chico!",
+          "body": "Invoca a Nigel, una bestia compañera, por tiempo limitado para luchar a tu lado."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "title": "Las habilidades se desbloquean al nivel 8",
+          "body": "El árbol de habilidades completo está disponible al nivel 8, otorgando acceso a mejoras de estadísticas y desbloqueo de habilidades."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "title": "Cómo funcionan los Skill Points",
+          "body": "Cada subida de nivel otorga un Skill Point. Gasta puntos para aumentar estadísticas y desbloquear o mejorar habilidades vinculadas a tu clase equipada."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
+          "title": "Flexibilidad de equipamiento",
+          "body": "Las habilidades compartidas desbloqueadas de diferentes clases se pueden mezclar en tu equipamiento activo."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "title": "Expansión futura",
+          "body": "Se planean clases adicionales y opciones de personalización para las próximas actualizaciones de Borderlands Mobile."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
-      "solutions": [
-        {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
-        },
-        {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
-        },
-        {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
-        },
-        {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
-        }
-      ],
-      "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
-        {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
-        },
-        {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
-        },
-        {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
-        }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
-        },
-        {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
-        },
-        {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
-        {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
-        },
-        {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
-        },
-        {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
-        },
-        {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
-        },
-        {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
-        }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
-        {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
-        },
-        {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
-        },
-        {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
-        },
-        {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
-        {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
-        },
-        {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
-        },
-        {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
-        {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
-        },
-        {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
-        },
-        {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
-        },
-        {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
-        },
-        {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
-        },
-        {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
-        },
-        {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
-        },
-        {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
-        {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
-        },
-        {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
-        },
-        {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
-        },
-        {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
-        {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
-        },
-        {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
-        },
-        {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+    "borderlandsMobileControlsGuide": {
+      "title": "Aprende rápido los controles táctiles de Borderlands Mobile",
+      "eyebrow": "Combate móvil",
+      "subtitle": "Convierte el HUD móvil en una guía clara para tu primera sesión: movimiento, puntería, disparo y soluciones rápidas para un combate más fluido en iPhone.",
+      "intro": "Borderlands Mobile utiliza un diseño táctil de dos lados: movimiento a la izquierda y control de cámara a la derecha. Una vez que entiendas el ADS, el comportamiento del disparo automático y el tiempo de recarga, el ciclo de combate será mucho más ágil en el teléfono.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Muévete a la izquierda, mira a la derecha",
+          "description": "Desliza en el lado izquierdo de la pantalla para moverte y desliza en el lado derecho para desplazar la vista."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Usa el salto de forma agresiva: el salto doble está disponible",
+          "description": "Toca el botón de salto en el lado derecho de la pantalla. El salto doble es compatible."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "title": "Usa ADS para apuntar con precisión",
+          "description": "Mantén presionado el botón de apuntar (ADS) y luego desliza para ajustar la puntería y obtener una mejor precisión."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "title": "Deja que el apuntado active el disparo automático",
+          "description": "Cuando tu retícula esté sobre enemigos u objetivos, el juego puede disparar automáticamente mientras mantienes la mira."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Cambia al disparo manual cuando sea necesario",
+          "description": "Toca el botón de disparo para disparar manualmente. El disparo automático se puede activar o desactivar en los Ajustes."
+        },
+        {
+          "title": "Recarga manualmente entre enfrentamientos",
+          "description": "Usa el botón de recarga para recargar a mano. Tu Vault Hunter también recarga automáticamente cuando el cargador se vacía."
+        },
+        {
+          "title": "Limpieza rápida en iOS si los controles fallan",
+          "description": "Revisa tu conexión, actualiza desde la App Store y reinicia la aplicación o el dispositivo cuando encuentres problemas de carga o cierres inesperados."
+        }
+      ],
+      "quickTips": [
+        "El ADS mejora significativamente la precisión; úsalo siempre que necesites disparos certeros.",
+        "El disparo automático se puede desactivar en los Ajustes para los jugadores que prefieren el control manual del gatillo.",
+        "El salto doble otorga una gran ventaja vertical en encuentros a corta distancia.",
+        "Recarga manualmente antes de entrar en zonas con muchos enemigos para evitar retrasos en medio de la pelea."
+      ]
+    },
+    "borderlandsMobileLevelingGuide": {
+      "eyebrow": "Progresión",
+      "title": "Cómo funciona la subida de nivel en Borderlands Mobile",
+      "subtitle": "Subir de nivel es el ciclo principal de progresión inicial. Aumenta las estadísticas de combate, mejora las recompensas de funciones secundarias y contribuye directamente al crecimiento de habilidades.",
+      "intro": "Tu Vault Hunter gana XP en el modo Campaña al completar misiones y eliminar enemigos. Los niveles pueden aumentar en tiempo real durante una misión, y cada nuevo nivel potencia permanentemente el Power Score y los PV máximos, además de mejorar las recompensas de Vaughn's Adventure.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Gana XP en el modo Campaña",
+          "description": "La XP proviene de dos fuentes principales: completar misiones y derrotar enemigos en el modo Campaña."
+        },
+        {
+          "step": 2,
+          "title": "Sigue el anillo amarillo de XP",
+          "description": "La línea de progreso amarilla alrededor del nivel de tu Vault Hunter muestra el progreso actual de XP. Cuando la línea completa el círculo, subes de nivel."
+        },
+        {
+          "step": 3,
+          "title": "Sube de nivel durante las misiones",
+          "description": "No necesitas terminar una misión antes de subir de nivel. Tu Vault Hunter puede subir de nivel en el campo en tiempo real."
+        },
+        {
+          "step": 4,
+          "title": "Obtén crecimiento permanente de estadísticas",
+          "description": "Cada nivel superior otorga un aumento permanente al Power Score y a los PV máximos."
+        },
+        {
+          "step": 5,
+          "title": "Mejora las recompensas de Vaughn's Adventure",
+          "description": "Tras rescatar a Vaughn, se desbloquea Vaughn's Adventure. Otorga XP y dinero extra cada 10 minutos, y un Cofre Legendario cada 18 horas. Las recompensas aumentan a medida que subes de nivel."
+        },
+        {
+          "step": 6,
+          "title": "Convierte niveles en habilidades",
+          "description": "Las habilidades se desbloquean en el nivel 8, y cada subida de nivel otorga 1 punto de habilidad para desbloquear o mejorar habilidades."
+        }
+      ]
+    },
+    "borderlandsMobilePowerScoreGuide": {
+      "eyebrow": "Poder de combate",
+      "title": "Explicación del Power Score en Borderlands Mobile",
+      "subtitle": "El Power Score mide qué tan preparado para la batalla está tu Vault Hunter. Aumenta al subir de nivel y obtener mejor equipo, y las misiones lo usan como referencia de preparación.",
+      "intro": "El juego utiliza el Power Score como una captura rápida de tu fuerza de combate. Tu total aumenta cuando tu Vault Hunter sube de nivel y cuando equipas equipo más fuerte, mientras que cada pieza individual contribuye según su propio nivel y rareza.",
+      "items": [
+        {
+          "factor": "Qué mide el Power Score",
+          "value": "Tu poder de combate general",
+          "details": "Es el indicador principal de qué tan fuerte es tu configuración actual de Vault Hunter."
+        },
+        {
+          "factor": "Formas principales de aumentarlo",
+          "value": "Sube de nivel y equipa equipo más fuerte",
+          "details": "Tu Power Score total sigue aumentando a medida que tu Vault Hunter sube de nivel y tu equipamiento mejora."
+        },
+        {
+          "factor": "Cómo contribuye el equipo",
+          "value": "Cada pieza de equipo tiene su propio Power Score",
+          "details": "La puntuación de un objeto de equipo depende de su nivel y rareza."
+        },
+        {
+          "factor": "Preparación para misiones",
+          "value": "Las misiones muestran un Power Score mínimo recomendado",
+          "details": "Aún puedes entrar por debajo de la recomendación, pero la misión será mucho más difícil de completar."
+        },
+        {
+          "factor": "Impacto de la rareza",
+          "value": "Una mayor rareza suele significar un mayor Power Score",
+          "details": "Las rarezas del equipo son Común, Poco común, Raro, Épico y Legendario, pero el nivel del objeto sigue siendo importante."
+        },
+        {
+          "factor": "Recompensas por hitos",
+          "value": "El progreso del Power Score desbloquea recompensas reclamables",
+          "details": "Reclama las recompensas por hitos desde el menú del avatar del perfil en la esquina superior izquierda de la pantalla del Cuartel General."
+        }
+      ]
+    },
+    "borderlandsMobileSkillsGuide": {
+      "eyebrow": "Builds",
+      "title": "Habilidades, Puntos de habilidad y planificación inicial de builds de Borderlands Mobile",
+      "subtitle": "Las habilidades abren la puerta a la personalización de builds. Llega al nivel 8, gana puntos al subir de nivel y gástalos con cuidado en desbloqueos y mejoras.",
+      "intro": "Las habilidades estarán disponibles una vez que tu Vault Hunter alcance el nivel 8. A partir de ahí, cada nivel otorga un Punto de habilidad, y puedes usar esos puntos para aumentar estadísticas, desbloquear nuevas habilidades y personalizar equipamientos con habilidades compartidas.",
+      "items": [
+        {
+          "title": "Requisito de desbloqueo",
+          "description": "Las habilidades se desbloquean cuando tu Vault Hunter alcanza el nivel 8.",
+          "bullets": [
+            "No hay habilidades disponibles antes del nivel 8",
+            "El acceso a las habilidades está ligado directamente a la progresión del personaje"
+          ]
+        },
+        {
+          "title": "Cómo funcionan los Puntos de habilidad",
+          "description": "Cada vez que tu Vault Hunter sube de nivel, ganas 1 Punto de habilidad.",
+          "bullets": [
+            "Las subidas de nivel alimentan continuamente tu progresión de habilidades",
+            "Los Puntos de habilidad se usan tanto para desbloqueos como para mejoras"
+          ]
+        },
+        {
+          "title": "Qué hacen las habilidades",
+          "description": "Los Puntos de habilidad pueden aumentar estadísticas y desbloquear nuevas habilidades para tu clase equipada.",
+          "bullets": [
+            "Puedes inspeccionar una habilidad antes de gastar puntos",
+            "Las habilidades avanzadas requieren más Puntos de habilidad"
+          ]
+        },
+        {
+          "title": "Regla de progresión",
+          "description": "Habrá más habilidades disponibles después de gastar una cierta cantidad de Puntos de habilidad.",
+          "bullets": [
+            "Las elecciones iniciales abren partes posteriores del árbol",
+            "El orden en que gastas los puntos define el camino de tu build"
+          ]
+        },
+        {
+          "title": "Habilidades compartidas",
+          "description": "Las habilidades compartidas desbloqueadas se pueden combinar de diferentes clases para personalizar los equipamientos.",
+          "bullets": [
+            "Las habilidades compartidas permiten crear equipamientos flexibles",
+            "La personalización se expande a medida que se desbloquean más clases y habilidades"
+          ]
+        },
+        {
+          "title": "Clase actual disponible",
+          "description": "En la versión actual, la clase disponible es el Invocador.",
+          "bullets": [
+            "El Invocador usa energía de fase para invocar bestias",
+            "Su Habilidad de acción es \"Good Boy!\", la cual invoca a Nigel para luchar a tu lado"
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileGearUpgradeGuide": {
+      "eyebrow": "Mejoras",
+      "title": "Borderlands Mobile: Cómo mejorar armas, granadas y escudos",
+      "subtitle": "Las mejoras de rango son una forma directa de aumentar el Puntaje de poder. Cada categoría de equipo usa su propio tipo de material más Monedas, por lo que el gasto eficiente es importante al principio.",
+      "intro": "Puedes mejorar el rango de tu granada, armas y escudo desde la pantalla de Inventario. Cada aumento de rango eleva el Puntaje de poder de tu Vault Hunter, y cada categoría de equipo usa un material de mejora específico que se obtiene en misiones, recompensas y al desmantelar equipo coincidente.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Abrir Inventario",
+          "description": "Ve a tu Inventario y selecciona la opción de Mejora para el tipo de equipo que quieras mejorar."
+        },
+        {
+          "step": 2,
+          "title": "Mejorar granadas",
+          "description": "Las mejoras de rango de granadas requieren Rellenos y Monedas. Los Rellenos se obtienen en misiones, recompensas y al desmantelar granadas, mientras que las Monedas se obtienen al jugar misiones y como recompensas al completarlas."
+        },
+        {
+          "step": 3,
+          "title": "Mejorar armas",
+          "description": "Las mejoras de rango de armas requieren Componentes y Monedas. Los Componentes se obtienen en misiones, recompensas y al desmantelar equipo."
+        },
+        {
+          "step": 4,
+          "title": "Mejorar escudos",
+          "description": "Las mejoras de rango de escudos requieren Células y Monedas. Las Células se obtienen en misiones, recompensas y al desmantelar escudos."
+        },
+        {
+          "step": 5,
+          "title": "Priorizar el Puntaje de poder",
+          "description": "Las mejoras de rango aumentan directamente el Puntaje de poder. Mejora las piezas que más refuercen tu preparación para la misión actual."
+        },
+        {
+          "step": 6,
+          "title": "Compara la rareza y el nivel en conjunto",
+          "description": "El equipo de mayor rareza suele tener un Puntaje de poder más alto, pero un objeto de menor rareza y mayor nivel puede seguir siendo la mejor opción a corto plazo."
+        }
+      ]
+    },
+    "borderlandsMobileModsGuide": {
+      "eyebrow": "Equipamiento",
+      "title": "Guía de Mods de Borderlands Mobile",
+      "subtitle": "Los Mods son objetos que se acoplan a las armas para mejorar su rendimiento. Equípalos e intercámbialos desde el Inventario en cualquier momento, y consigue más en el Circle of Slaughter.",
+      "intro": "Usa esta página para entender qué hacen los Mods, dónde equiparlos y qué ciclos de juego apoyan la progresión del equipamiento centrado en mods en Borderlands Mobile.",
+      "items": [
+        {
+          "title": "Qué hacen los Mods",
+          "text": "Los Mods son objetos que puedes acoplar a un arma para mejorar su rendimiento; existen muchos tipos de Mods que ofrecen diferentes bonificaciones de estadísticas."
+        },
+        {
+          "title": "Dónde equipar Mods",
+          "text": "Abre tu Inventario y toca la pestaña de Mods en la parte superior derecha de la pantalla para gestionar todos tus Mods equipados."
+        },
+        {
+          "title": "Intercambia Mods en cualquier momento",
+          "text": "Los Mods se pueden equipar y desequipar dentro del Inventario en cualquier momento, sin tiempo de recarga ni restricciones."
+        },
+        {
+          "title": "Sistema de mejora de Mods",
+          "text": "La sección de mejoras de Mods de Borderlands Mobile figura como Próximamente en la versión actual, y se planea un sistema ampliado para futuras actualizaciones."
+        },
+        {
+          "title": "Consigue Mods en el Circle of Slaughter",
+          "text": "El Circle of Slaughter no tiene costo de entrada, actualmente ofrece dos niveles y otorga mayores probabilidades de ganar equipo y Mods cuanto más tiempo sobrevivas a las oleadas de enemigos."
+        },
+        {
+          "title": "Referencia rápida de materiales de rango",
+          "text": "Las mejoras de rango de armas usan Componentes y Monedas, las de granadas usan Rellenos y Monedas, y las de escudos usan Células y Monedas."
+        }
+      ]
+    },
+    "borderlandsMobileCampaignGuide": {
+      "eyebrow": "Story",
+      "title": "Borderlands Mobile Campaign Guide",
+      "subtitle": "Campaign is the main journey through Pandora and includes Main Missions, Side Missions, and Star Challenge replay content for ongoing rewards.",
+      "intro": "This guide covers how to enter Borderlands Mobile Campaign, what Chapters unlock, how Main and Side Missions differ, how Star Challenge works, and common mission troubleshooting.",
+      "items": [
+        {
+          "question": "How do I enter the Campaign feature in Borderlands Mobile?",
+          "answer": "Tap the Travel button, then choose Campaign, which appears first in the selection list."
+        },
+        {
+          "question": "What are Chapters in Borderlands Mobile?",
+          "answer": "Chapters guide your journey through Pandora, provide additional challenges, and reward progress with new features, achievements, and more challenging follow-up chapters."
+        },
+        {
+          "question": "What is a Main Mission in Borderlands Mobile?",
+          "answer": "Main Missions are missions focused on the current Chapter's storyline and form the core progression path through Borderlands Mobile Campaign."
+        },
+        {
+          "question": "What is a Side Mission in Borderlands Mobile?",
+          "answer": "Side Missions unlock as you progress through a Chapter and offer optional objectives with extra rewards beyond the main story."
+        },
+        {
+          "question": "How does Star Challenge work in Borderlands Mobile?",
+          "answer": "After completing several chapters, Star Challenge unlocks and lets you replay completed missions. Each replayed mission has three additional challenges, and each completed challenge awards one Star."
+        },
+        {
+          "question": "Do all replayed missions in Borderlands Mobile have Star Challenges?",
+          "answer": "Completed missions that are replayed will have Star Challenges except for the Prologue."
+        },
+        {
+          "question": "What are Stars used for in Borderlands Mobile Campaign?",
+          "answer": "Earn enough Stars to claim Claptrap's chest of booty from the Star Challenge reward track."
+        },
+        {
+          "question": "Why can't I complete the It's Just Business Pt 2 mission in Borderlands Mobile?",
+          "answer": "Jeffrey from Accounting can occasionally fail to spawn in this Side Mission. Closing and reloading the game resolves the issue."
+        }
+      ]
+    },
+    "borderlandsMobileVaughnsAdventureGuide": {
+      "eyebrow": "Idle Rewards",
+      "title": "Borderlands Mobile Vaughn's Adventure Guide",
+      "subtitle": "Vaughn's Adventure is a timed reward feature in Borderlands Mobile that pays out XP, Cash, and a Legendary Chest, with rewards scaling as your account levels up.",
+      "intro": "This guide explains when Vaughn's Adventure unlocks, where to find it, how often to check in, what the two reward timers are, and how Ship upgrades improve your payouts.",
+      "items": [
+        {
+          "title": "Unlock Requirement",
+          "text": "You unlock Vaughn's Adventure in Borderlands Mobile after rescuing Vaughn during the Friends Like These mission."
+        },
+        {
+          "title": "Regular Reward Timer",
+          "text": "Vaughn ventures outside the ship every 10 minutes to collect extra XP and Cash. The timer resets only after you collect the rewards."
+        },
+        {
+          "title": "Legendary Chest Timer",
+          "text": "Return after 18 hours to collect the Legendary Chest from Vaughn's Adventure. This timer also resets only after you collect it."
+        },
+        {
+          "title": "Where to Access It",
+          "text": "Access Vaughn's Adventure using its designated button on the top-right side of the Borderlands Mobile main screen."
+        },
+        {
+          "title": "Level Scaling Rewards",
+          "text": "The amount of Cash and XP you collect from Vaughn's Adventure increases as your Vault Hunter level goes up in Borderlands Mobile."
+        },
+        {
+          "title": "Ship Upgrade Synergy",
+          "text": "Upgrading Scavenger Hunt to level 2 adds Parts and Fillers to the items Vaughn finds, expanding the value of each Borderlands Mobile check-in."
+        }
+      ]
+    },
+    "borderlandsMobileMarcusMunitionsGuide": {
+      "eyebrow": "Shop",
+      "title": "Borderlands Mobile Marcus Munitions Guide",
+      "subtitle": "Marcus Munitions is the Borderlands Mobile in-game shop featuring multiple chest tiers, free claim timing, and Ship upgrades that improve what you can earn.",
+      "intro": "Use this table as your fast reference for chest types, key costs, guaranteed reward rarity, Free Chest timing, and how Ship and Legendary Collection progression connect to the Borderlands Mobile shop.",
+      "rows": [
+        {
+          "name": "Free Chest",
+          "cost": "Free",
+          "reward": "Common Weapon",
+          "note": "Claim once every 10 minutes. Timer resets only after collection."
+        },
+        {
+          "name": "Golden Chest",
+          "cost": "1 Rare Key",
+          "reward": "Rare Gear",
+          "note": "Key-based chest available in Marcus Munitions."
+        },
+        {
+          "name": "Epic Chest",
+          "cost": "3 Epic Keys",
+          "reward": "Epic Gear",
+          "note": "Higher-tier chest requiring Epic Keys."
+        },
+        {
+          "name": "Legendary Chest",
+          "cost": "5 Legendary Key Fragments",
+          "reward": "Legendary Gear",
+          "note": "Top-tier chest in Borderlands Mobile Marcus Munitions."
+        },
+        {
+          "name": "Marcus Munitions Level 2",
+          "cost": "Ship Parts",
+          "reward": "Adds Rare Weapons to Free Chest",
+          "note": "Upgrade Marcus Munitions to level 2 from the Ship to improve the Free Chest loop."
+        },
+        {
+          "name": "Legendary Collection",
+          "cost": "Obtain first Legendary gear",
+          "reward": "Access to Legendary Collection event",
+          "note": "Shows how and where to get different pieces of Legendary gear in Borderlands Mobile."
+        }
+      ]
+    },
+    "borderlandsMobileTowerOfTerrorGuide": {
+      "eyebrow": "Modo Desafío",
+      "title": "Guía de Tower of Terror de Borderlands Mobile",
+      "subtitle": "Avanza por pisos de enemigos, gasta tickets sabiamente y convierte las limpiezas repetidas en Partes de Nave. Este modo está diseñado para una progresión constante de la nave y recompensas de clasificación diaria.",
+      "intro": "Tower of Terror es un modo de desafío para un solo jugador que se encuentra en el botón Viajar de la pantalla del Cuartel General. Debes eliminar a todos los enemigos de un piso para avanzar, gastar un Ticket por entrada y puedes volver a jugar los pisos completados para obtener recompensas estándar o usar el Juego Rápido cuando necesites una sesión de farmeo veloz.",
+      "items": [
+        {
+          "title": "Cómo acceder al modo",
+          "summary": "Abre la pantalla del Cuartel General, toca Viajar y elige Tower of Terror en la lista de modos de juego.",
+          "bullets": [
+            "Tower of Terror aparece en el menú Viajar de la pantalla del Cuartel General.",
+            "Es un modo para un solo jugador.",
+            "Avanzas al matar a todos los enemigos del piso actual."
+          ]
+        },
+        {
+          "title": "Tickets y entrada a los pisos",
+          "summary": "Cada intento cuesta un Ticket, incluyendo las limpiezas repetidas y las sesiones de Juego Rápido.",
+          "bullets": [
+            "Cada piso requiere un Ticket para entrar.",
+            "Volver a jugar un piso completado también consume un Ticket.",
+            "El Juego Rápido se puede usar en pisos completados previamente para obtener recompensas estándar al instante."
+          ]
+        },
+        {
+          "title": "Recompensas y Partes de Nave",
+          "summary": "Este modo es uno de los lugares principales para farmear Partes de Nave y recompensas por hitos de primera limpieza.",
+          "bullets": [
+            "Se recomienda este modo para farmear Partes de Nave.",
+            "Ciertos pisos otorgan recompensas especiales de Tina al completarlos por primera vez.",
+            "El Juego Rápido otorga solo recompensas estándar, no las recompensas especiales de primera limpieza."
+          ]
+        },
+        {
+          "title": "Tabla de clasificación y reinicio diario",
+          "summary": "Tu clasificación se actualiza a medida que subes, y las recompensas diarias de la tabla de clasificación se entregan al día siguiente.",
+          "bullets": [
+            "Las tablas de clasificación muestran tu posición, los mejores jugadores y los pisos más altos alcanzados.",
+            "Tu posición actual también aparece en la pantalla de resumen del piso.",
+            "La tabla de clasificación se reinicia diariamente.",
+            "Los Vault Hunters en los primeros puestos reciben recompensas tras iniciar sesión al día siguiente."
+          ]
+        },
+        {
+          "title": "Qué significa 'Jugadores en este piso'",
+          "summary": "Ese recuento de pisos es solo informativo y no crea combates multijugador dentro de la torre.",
+          "bullets": [
+            "El recuento de jugadores solo muestra que otros jugadores alcanzaron el mismo piso.",
+            "No juegas con ni contra esos jugadores dentro del piso."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileCircleOfSlaughterGuide": {
+      "eyebrow": "Modo Supervivencia",
+      "title": "Guía de Circle of Slaughter de Borderlands Mobile",
+      "subtitle": "Este modo de supervivencia se abre cuando termina su temporizador y te permite luchar contra oleadas de enemigos para obtener botín de forma repetible. Es una de las formas más directas de conseguir Equipo y Modificadores sin pagar una cuota de entrada.",
+      "intro": "Circle of Slaughter es un modo de desafío ubicado en la Selección de Modo, justo al lado de Tower of Terror. Una vez que el evento se desbloquea, puedes entrar libremente y sobrevivir a tantas oleadas como sea posible para mejorar tus posibilidades de recompensa.",
+      "items": [
+        {
+          "title": "Cómo se desbloquea el modo",
+          "summary": "El evento estará disponible una vez que termine su cuenta regresiva.",
+          "bullets": [
+            "Circle of Slaughter se desbloquea cuando termina el temporizador.",
+            "Puedes encontrarlo en la Selección de Modo junto a Tower of Terror."
+          ]
+        },
+        {
+          "title": "Cómo funciona el modo",
+          "summary": "El objetivo es simple: sobrevivir oleada tras oleada durante el mayor tiempo posible.",
+          "bullets": [
+            "Luchas contra oleadas de enemigos en un desafío de supervivencia.",
+            "Sobrevivir más tiempo mejora tus posibilidades de obtener recompensas."
+          ]
+        },
+        {
+          "title": "Recuento de etapas actuales",
+          "summary": "Por el momento, el modo tiene un conjunto limitado de niveles jugables.",
+          "bullets": [
+            "Actualmente hay 2 niveles en Circle of Slaughter.",
+            "Se planea añadir más niveles más adelante."
+          ]
+        },
+        {
+          "title": "Recompensas y valor de farmeo",
+          "summary": "El modo está diseñado para partidas repetidas porque la entrada es gratuita y las posibilidades de recompensa aumentan con la supervivencia.",
+          "bullets": [
+            "No hay cuota de entrada.",
+            "Puedes volver a jugar el modo tantas veces como quieras.",
+            "Sobrevivir a más oleadas otorga mayores posibilidades de ganar Equipo y Modificadores."
+          ]
+        },
+        {
+          "title": "Si el evento no se abre",
+          "summary": "Cierra el juego y vuelve a cargarlo para resolver el problema de desbloqueo al expirar el temporizador.",
+          "bullets": [
+            "Si el evento no se desbloquea cuando el temporizador expira, cierra el juego.",
+            "Recargar el juego resuelve el problema de desbloqueo."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileShipUpgradeGuide": {
+      "eyebrow": "Progresión de la Nave",
+      "title": "Guía de mejora de nave de Borderlands Mobile",
+      "subtitle": "Las mejoras de la nave conectan varios de los sistemas a largo plazo de Borderlands Mobile. Gasta Partes de Nave para hacer crecer la nave, desbloquear nuevos aliados y salas, y mejorar lo que tu cuenta gana con el tiempo.",
+      "intro": "Desbloqueas la función de la Nave durante la partida inicial, y aparece en la parte superior derecha de la pantalla. Las Partes de Nave son el recurso principal de mejora, y las mejoras de las salas pueden desbloquear nuevos modos, mejorar los hallazgos pasivos y fortalecer las recompensas de la tienda.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Desbloquea la Nave",
+          "details": "Avanza en la partida inicial para desbloquear la función de la Nave, luego ábrela desde la parte superior derecha de la pantalla."
+        },
+        {
+          "step": 2,
+          "title": "Gasta Partes de Nave",
+          "details": "Usa las Partes de Nave recolectadas para mejorar la nave, conocer nuevos aliados y desbloquear salas adicionales."
+        },
+        {
+          "step": 3,
+          "title": "Usa las salas para obtener potenciadores",
+          "details": "Las salas mejoradas proporcionan potenciadores y aumentan el poder general de tu nave."
+        },
+        {
+          "step": 4,
+          "title": "Desbloqueo del Puente nivel 2",
+          "details": "Mejorar el Puente al nivel 2 desbloquea Tower of Terror de Tiny Tina."
+        },
+        {
+          "step": 5,
+          "title": "Mejora de Búsqueda de carroña nivel 2",
+          "details": "Mejorar Búsqueda de carroña al nivel 2 añade Partes y Rellenos a los objetos que Vaughn encuentra para ti."
+        },
+        {
+          "step": 6,
+          "title": "Mejora de Marcus Munitions nivel 2",
+          "details": "Mejorar Marcus Munitions al nivel 2 añade Armas Raras al Cofre Gratuito de la tienda."
+        }
+      ]
+    },
+    "borderlandsMobileBattlePassGuide": {
+      "eyebrow": "Sistema de temporadas",
+      "title": "Guía del Pase de Batalla de Borderlands Mobile",
+      "subtitle": "El Pase de Batalla es una capa de progresión estacional con pistas de recompensas gratuitas y premium por separado. Tu progreso se basa en los Desafíos Diarios y Semanales, por lo que completar tareas rutinarias es la clave para subir de nivel.",
+      "intro": "Abre el Pase de Batalla desde el botón en el lado izquierdo de la pantalla del HQ. Cada temporada tiene una pista de recompensas por tiempo limitado, y los Puntos del Pase de Batalla provienen de completar desafíos en lugar de solo el inicio de sesión pasivo.",
+      "phases": [
+        {
+          "phase": "Acceso",
+          "title": "Abre el Pase de Batalla",
+          "details": "Se accede al Pase de Batalla desde el botón de Pase de Batalla en el lado izquierdo de la pantalla del HQ."
+        },
+        {
+          "phase": "Temporada",
+          "title": "Sigue las dos pistas de recompensas",
+          "details": "Cada temporada incluye dos niveles de recompensa: Pase Gratuito y Ultimate Pass."
+        },
+        {
+          "phase": "Progreso",
+          "title": "Gana Puntos del Pase de Batalla",
+          "details": "Los Puntos del Pase de Batalla se ganan completando Desafíos Diarios y Desafíos Semanales, los cuales aumentan tu nivel de Pase de Batalla y te hacen avanzar en la pista de recompensas."
+        },
+        {
+          "phase": "Desafíos",
+          "title": "Usa el ciclo de tareas de manera eficiente",
+          "details": "Las Tareas Diarias deben completarse en un plazo de 24 horas. Las Tareas Semanales se ejecutan dentro de la semana actual, desbloquean nuevos desafíos cada día y tienen sus propias recompensas."
+        },
+        {
+          "phase": "Premium",
+          "title": "Entiende el Ultimate Pass",
+          "details": "El Ultimate Pass desbloquea la pista de recompensas premium mediante compras dentro de la aplicación y otorga recompensas adicionales que coinciden con tu progreso actual en el Pase de Batalla."
+        },
+        {
+          "phase": "Reclamar",
+          "title": "Sigue subiendo de nivel después de la compra",
+          "details": "Comprar el Ultimate Pass no completa la pista automáticamente. Aún necesitas ganar más Puntos del Pase de Batalla para desbloquear niveles superiores en ambas pistas de recompensas."
         }
       ]
     }
   },
   "faq": {
     "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Preguntas comunes sobre Borderlands Mobile para nuevos Vault Hunters",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Es Borderlands Mobile gratuito?",
+        "answer": "Sí. Borderlands Mobile es una descarga gratuita en la App Store sin necesidad de compra inicial."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Qué dispositivos son compatibles con Borderlands Mobile?",
+        "answer": "Borderlands Mobile está disponible actualmente solo para iPhone. Se recomienda un iPhone 11 o posterior para la mejor experiencia. El juego no está optimizado para tabletas o iPads."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Está disponible Borderlands Mobile en Android?",
+        "answer": "Aún no se ha anunciado el soporte para Android. El lanzamiento actual se limita a iPhone como parte de una prueba por tiempo limitado."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Qué tamaño tiene la descarga de Borderlands Mobile?",
+        "answer": "Borderlands Mobile requiere aproximadamente 2.9 GB de almacenamiento. Asegúrate de tener suficiente espacio antes de descargarlo de la App Store."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Qué versión de iOS requiere Borderlands Mobile?",
+        "answer": "Borderlands Mobile requiere iOS 18.0 o posterior. Actualiza tu iPhone a la última versión de iOS para obtener la mejor compatibilidad."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cómo subo de nivel en Borderlands Mobile?",
+        "answer": "Tu Vault Hunter gana XP al completar misiones y derrotar enemigos en el modo Campaña. Cada nivel aumenta permanentemente tu Puntuación de Poder y tus PV máximos."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para cazar algunas Cámaras?",
+    "description": "¡Únete a la comunidad de Borderlands y descarga Borderlands Mobile en iPhone para comenzar tu viaje como Vault Hunter!",
+    "joinCommunity": "Únete a la comunidad",
+    "joinGame": "Descargar en App Store"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de Borderlands Mobile",
+    "description": "Tu centro de recursos completo para Borderlands Mobile: descarga en iOS, actualizaciones de lanzamiento, Vault Hunters, armas, misiones y estado de Android.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Comunidad",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "steamCommunity": "Reddit",
+    "steamStore": "App Store",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Wiki de Borderlands Mobile. No afiliado con 2K Games o Gearbox Software.",
+    "disclaimer": "Sitio web de recursos no oficial hecho por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "release": {
+      "title": "Lanzamiento de Borderlands Mobile",
+      "description": "Cronología completa del lanzamiento de Borderlands Mobile: estreno sorpresa, prueba por tiempo limitado, disponibilidad regional, modelo gratuito y lo que viene después.",
+      "metaTitle": "Lanzamiento de Borderlands Mobile - Cronología, estado e información regional",
+      "metaDescription": "Sigue el lanzamiento de Borderlands Mobile: estreno sorpresa en iPhone, estado de la prueba por tiempo limitado, modelo gratuito, disponibilidad regional y futuras actualizaciones de despliegue.",
+      "categoryLabel": "INFO DE LANZAMIENTO",
+      "whatIs": "¿Qué es el lanzamiento de Borderlands Mobile?",
+      "whatIsDescription": "Borderlands Mobile se lanzó como un estreno sorpresa gratuito en iPhone a principios de 2026, comenzando con una prueba por tiempo limitado. Esta sección sigue la cronología completa del lanzamiento, la disponibilidad por región, las actualizaciones del estado de la prueba y lo que Gearbox y Zynga han confirmado sobre el acceso futuro.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Sigue el estado actual del lanzamiento",
+        "step1Description": "Confirma si Borderlands Mobile está disponible, en prueba limitada o no disponible en tu región en este momento.",
+        "step2Title": "Entiende el contexto del lanzamiento sorpresa",
+        "step2Description": "Aprende por qué Borderlands Mobile se lanzó sin un anuncio tradicional y qué significa eso para la disponibilidad a largo plazo.",
+        "step3Title": "Sigue las noticias sobre el futuro despliegue",
+        "step3Description": "Mantente al día sobre cuándo termina la prueba por tiempo limitado, los planes de lanzamiento en Android y las actualizaciones de disponibilidad permanente."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "all": "Todos los artículos de lanzamiento"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "setup": {
+      "title": "Configuración de Borderlands Mobile",
+      "description": "Pasos de descarga, acceso a la App Store, requisitos de iOS, compatibilidad de dispositivos y tamaño de instalación para Borderlands Mobile.",
+      "metaTitle": "Configuración de Borderlands Mobile - Descarga, instalación y requisitos de iOS",
+      "metaDescription": "Configura Borderlands Mobile en iPhone: pasos de descarga en la App Store, requisitos de versión de iOS, compatibilidad de dispositivos, tamaño de instalación y consejos para el primer inicio.",
+      "categoryLabel": "GUÍA DE CONFIGURACIÓN",
+      "whatIs": "¿Qué es la Guía de configuración?",
+      "whatIsDescription": "La guía de configuración de Borderlands Mobile cubre todo lo que necesitas antes de iniciar el juego: encontrar la ficha en la App Store, verificar los requisitos de iOS y del dispositivo, administrar el almacenamiento y completar la descarga inicial sin problemas.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Encuentra y descarga el juego",
+        "step1Description": "Localiza la página oficial de Borderlands Mobile en la App Store y confirma que la descarga esté disponible en tu región.",
+        "step2Title": "Verifica la compatibilidad del dispositivo e iOS",
+        "step2Description": "Verifica que tu modelo de iPhone y versión de iOS cumplan con los requisitos mínimos antes de descargar.",
+        "step3Title": "Prepara tu almacenamiento",
+        "step3Description": "Asegúrate de tener al menos 2.9 GB libres para completar la instalación sin interrupciones."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de configuración"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "ios": {
+      "title": "Borderlands Mobile iOS",
+      "description": "Datos de rendimiento en iPhone para Borderlands Mobile: pruebas de FPS, emisión de calor, consumo de batería y comparativas por dispositivo.",
+      "metaTitle": "Borderlands Mobile iOS - Rendimiento en iPhone, pruebas de FPS y batería",
+      "metaDescription": "Desglose del rendimiento de Borderlands Mobile en iOS: comparativas de FPS en iPhone 15 Pro y XR, emisión de calor, consumo de batería y consejos específicos por dispositivo.",
+      "categoryLabel": "RENDIMIENTO EN iOS",
+      "whatIs": "¿Qué son las guías de Borderlands Mobile para iOS?",
+      "whatIsDescription": "Estos artículos cubren datos de rendimiento en dispositivos reales para Borderlands Mobile en iPhone, incluyendo mediciones de FPS, acumulación de calor durante sesiones prolongadas, tasas de consumo de batería y cómo los diferentes modelos de iPhone manejan el motor gráfico cel-shaded del juego.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Verifica el rendimiento de tu dispositivo",
+        "step1Description": "Mira cómo tu modelo específico de iPhone maneja Borderlands Mobile antes o después de la descarga.",
+        "step2Title": "Comprende el impacto en el calor y la batería",
+        "step2Description": "Aprende cuánto tiempo puedes jugar antes de que tu dispositivo se caliente o la batería baje significativamente.",
+        "step3Title": "Optimiza tus ajustes",
+        "step3Description": "Usa los datos de comparativas para elegir ajustes gráficos que equilibren el rendimiento y la salud del dispositivo."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de iOS"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "android": {
+      "title": "Borderlands Mobile Android",
+      "description": "Estado actual de disponibilidad en Android, por qué Borderlands Mobile se lanzó primero en iPhone y cómo seguir el futuro acceso en Android.",
+      "metaTitle": "Borderlands Mobile Android - Estado del lanzamiento y lo que sabemos",
+      "metaDescription": "Estado de Borderlands Mobile en Android: por qué el juego se lanzó primero en iPhone, disponibilidad actual en Android y qué se ha confirmado sobre el soporte futuro en la plataforma.",
+      "categoryLabel": "ESTADO EN ANDROID",
+      "whatIs": "¿Qué es la guía de Borderlands Mobile para Android?",
+      "whatIsDescription": "Borderlands Mobile se lanzó exclusivamente en iPhone como una prueba de tiempo limitado, dejando a los jugadores de Android a la espera. Esta sección explica el estado actual en Android, por qué se eligió el enfoque de iPhone primero y dónde encontrar actualizaciones oficiales sobre la disponibilidad en Android.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Confirma el estado actual en Android",
+        "step1Description": "Obtén una respuesta clara sobre si Borderlands Mobile está disponible en Android ahora mismo.",
+        "step2Title": "Comprende la decisión de iPhone primero",
+        "step2Description": "Aprende por qué la prueba de tiempo limitado se lanzó exclusivamente en iPhone y qué significa para los jugadores de Android.",
+        "step3Title": "Sigue las noticias del lanzamiento en Android",
+        "step3Description": "Sabe dónde seguir las actualizaciones oficiales de Gearbox y Zynga sobre la disponibilidad en Android."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de Android"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "guide": {
+      "title": "Guía de Borderlands Mobile",
+      "description": "Guías completas para Borderlands Mobile: conceptos básicos de juego, recorrido, consejos de clases, armas y progresión de misiones.",
+      "metaTitle": "Guía de Borderlands Mobile - Jugabilidad, recorrido y consejos",
+      "metaDescription": "Guías de Borderlands Mobile que cubren los fundamentos del juego, el recorrido de la Campaña, consejos de clases, tipos de armas, Power Score y progresión de misiones para los Vault Hunters.",
+      "categoryLabel": "GUÍA DE JUEGO",
+      "whatIs": "¿Qué son las guías de Borderlands Mobile?",
+      "whatIsDescription": "Estas guías cubren cada sistema central en Borderlands Mobile: el recorrido de la Campaña, la progresión de clases y habilidades, los tipos de armas, las mecánicas de Power Score y cómo aprovechar al máximo cada modo de juego. Ya sea que estés comenzando o avanzando en el contenido final, estas guías explican cómo encajan los sistemas.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Aprende el ciclo de juego principal",
+        "step1Description": "Comprende cómo se conectan la Campaña, las misiones, la XP y el Power Score en Borderlands Mobile.",
+        "step2Title": "Sigue el recorrido de la Campaña",
+        "step2Description": "Obtén guía capítulo por capítulo a través de Pandora para evitar callejones sin salida y objetivos perdidos.",
+        "step3Title": "Crea tu Vault Hunter de manera efectiva",
+        "step3Description": "Comprende las habilidades de clase, la rareza de las armas y las mejoras de equipo para progresar más rápido y enfrentar misiones más difíciles."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la guía"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "apk": {
+      "title": "Borderlands Mobile APK",
+      "description": "Disponibilidad de APK, opciones de sideloading, compatibilidad de dispositivos para teléfonos Android antiguos y qué saber antes de intentar instalaciones no oficiales.",
+      "metaTitle": "Borderlands Mobile APK - Opciones de sideloading y compatibilidad de dispositivos",
+      "metaDescription": "Guía de Borderlands Mobile APK: opciones de sideloading, compatibilidad con dispositivos Android, rendimiento en Note 9 y qué saber antes de intentar una instalación no oficial.",
+      "categoryLabel": "GUÍA DE APK",
+      "whatIs": "¿Qué es la Guía de Borderlands Mobile APK?",
+      "whatIsDescription": "Dado que Borderlands Mobile se lanzó solo para iPhone, muchos jugadores de Android están buscando opciones de sideloading de APK. Estos artículos cubren qué opciones de APK existen, qué dispositivos Android se han probado, resultados de rendimiento conocidos y cosas importantes que entender antes de intentar cualquier instalación no oficial.",
+      "why": "¿Por qué leer esto?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Entender la disponibilidad de APK",
+        "step1Description": "Conoce qué opciones de APK existen actualmente para Borderlands Mobile y cuáles vale la pena considerar.",
+        "step2Title": "Verificar la compatibilidad de dispositivos",
+        "step2Description": "Mira qué dispositivos Android como el Note 9 se han probado y qué rendimiento esperar.",
+        "step3Title": "Conocer los riesgos y limitaciones",
+        "step3Description": "Entiende qué pueden y qué no pueden hacer las instalaciones no oficiales antes de invertir tiempo en el sideloading."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de APK"
+    },
+    "similar": {
+      "title": "Juegos similares a Borderlands Mobile",
+      "description": "Juegos móviles similares a Borderlands Mobile: looter shooters, juegos de acción cel-shaded y shooters RPG que vale la pena jugar mientras esperas.",
+      "metaTitle": "Juegos como Borderlands Mobile - Los mejores shooters móviles similares",
+      "metaDescription": "Encuentra juegos similares a Borderlands Mobile: looter shooters móviles, RPGs cel-shaded y juegos de acción con ciclos de juego comparables en iOS y Android.",
+      "categoryLabel": "JUEGOS SIMILARES",
+      "whatIs": "¿Qué son los juegos similares a Borderlands Mobile?",
+      "whatIsDescription": "Si disfrutas del estilo looter shooter cel-shaded de Borderlands Mobile, estos artículos recomiendan las mejores alternativas móviles, cubriendo juegos con sistemas de botín, progresión RPG y combate de acción comparables. Todas las recomendaciones están disponibles en iOS y la mayoría también en Android.",
+      "why": "¿Por qué leer esto?",
+      "whySteps": {
+        "step1Title": "Encuentra juegos para jugar ahora",
+        "step1Description": "Descubre looter shooters móviles y shooters RPG para jugar mientras esperas a que Borderlands Mobile se expanda.",
+        "step2Title": "Compara estilos de juego",
+        "step2Description": "Mira cómo se comparan juegos similares con los sistemas de botín, combate y progresión de Borderlands Mobile.",
+        "step3Title": "Descubre joyas ocultas",
+        "step3Description": "Encuentra juegos cel-shaded y looter shooters menos conocidos que coincidan con la experiencia de Borderlands Mobile."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de juegos similares"
     }
   }
 }

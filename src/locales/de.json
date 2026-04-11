@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "description": "Borderlands Mobile hub for iOS download steps, release date, gameplay basics, weapons, missions, and Android status in one clean guide for new Vault Hunters.",
+      "keywords": "Borderlands Mobile, iOS, release date, download, gameplay, weapons, missions, Android",
+      "ogTitle": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "ogDescription": "Borderlands Mobile hub for iOS download steps, release date, gameplay basics, weapons, missions, and Android status in one clean guide for new Vault Hunters.",
+      "twitterTitle": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "twitterDescription": "Borderlands Mobile hub for iOS download, release date, gameplay basics, weapons, missions, and Android status for new Vault Hunters."
     }
   },
   "nav": {
@@ -17,772 +17,800 @@
     "android": "Android",
     "guide": "Guide",
     "apk": "APK",
-    "similar": "Ähnliches"
+    "similar": "Similar"
   },
   "common": {
-    "home": "Startseite",
-    "more": "Mehr",
-    "playNow": "Demo herunterladen",
-    "switchLanguage": "Sprache wechseln",
-    "switchTheme": "Design wechseln",
-    "lightMode": "Heller Modus",
-    "darkMode": "Dunkler Modus",
-    "notFound": "Seite nicht gefunden",
-    "notFoundDescription": "Die Seite, die du suchst, existiert nicht.",
-    "backToHome": "Zurück zur Startseite",
-    "relatedArticles": "Ähnliche Artikel",
-    "readMore": "Mehr lesen"
+    "home": "Home",
+    "more": "More",
+    "playNow": "Download Now",
+    "switchLanguage": "Switch Language",
+    "switchTheme": "Switch Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "notFound": "Page Not Found",
+    "notFoundDescription": "The page you are looking for does not exist.",
+    "backToHome": "Back to Home",
+    "relatedArticles": "Related Articles",
+    "readMore": "Read More"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Free-to-Play iPhone Looter Shooter",
+    "title": "Borderlands Mobile",
+    "description": "A fast-entry Borderlands hub focused on iPhone launch access, release updates, mission modes, loot basics, and future Android rollout tracking.",
+    "getFreeCodesCTA": "Download on iPhone",
+    "playOnSteamCTA": "Official Site",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "4.2/5",
+        "label": "User Rating"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "99",
+        "label": "Ratings"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "2.9 GB",
+        "label": "App Size"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "Free",
+        "label": "Price"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
+    "title": "Borderlands Mobile Gameplay",
+    "description": "Jump into a cel-shaded looter shooter on iPhone. Run Campaign missions, level up your Vault Hunter, collect weapons across five rarity tiers, and push your Power Score higher as you conquer Pandora."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressourcen",
-    "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
+    "title": "Borderlands Mobile",
+    "titleHighlight": "Guides",
+    "subtitle": "Essential guides for Vault Hunters — download, beginner tips, class overview, controls, leveling, power score, skills, gear upgrades, mods, campaign, Vaughn's Adventure, Marcus Munitions, Tower of Terror, Circle of Slaughter, ship upgrades, and Battle Pass",
     "cards": [
       {
-        "icon": "Herunterladen",
-        "title": "Demo-Download",
-        "description": "Hol dir die kostenlose Steam-Demo"
+        "icon": "Download",
+        "title": "Borderlands Mobile Download Guide",
+        "description": "Where to download, device requirements, and current status"
       },
       {
-        "icon": "Buch offen",
-        "title": "Anfängerleitfaden",
-        "description": "Kernschleife und häufige Fallstricke"
+        "icon": "BookOpen",
+        "title": "Borderlands Mobile Beginner Guide",
+        "description": "First steps, Campaign loop, and Power Score explained"
       },
       {
-        "icon": "Benutzer",
-        "title": "Koop-Leitfaden",
-        "description": "6-Spieler-Rollen und Rettungstaktiken"
+        "icon": "Users",
+        "title": "Borderlands Mobile Summoner Class Guide",
+        "description": "Summoner identity, Action Skill, and skill progression"
       },
       {
-        "icon": "Klemmbrett-Check",
-        "title": "Aufgaben & Ziele",
-        "description": "Was High-Gnome von dir will"
-      },
-      {
-        "icon": "Tastatur",
-        "title": "Steuerung & Tastenbelegung",
-        "description": "Standardtasten und wie man sie ändert"
-      },
-      {
-        "icon": "Schild",
-        "title": "Inhaltseinstellungen",
-        "description": "Inhalte für Erwachsene und Umschaltoptionen"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Crafting & Ausrüstung",
-        "description": "Rüste dich mit gestohlenen Materialien aus"
-      },
-      {
-        "icon": "Paket",
-        "title": "Beute & Gegenstände",
-        "description": "Was man stehlen sollte und Trage-Tipps"
-      },
-      {
-        "icon": "Warndreieck",
-        "title": "Gegner & Gefahren",
-        "description": "Bedrohungen und wie man mit ihnen umgeht"
-      },
-      {
-        "icon": "Auge",
-        "title": "Stealth & Flucht",
-        "description": "Bleib versteckt und extrahiere sicher"
-      },
-      {
-        "icon": "Startseite",
-        "title": "Haus-Upgrades",
-        "description": "Verbessere deine schwebende Inselbasis"
-      },
-      {
-        "icon": "Sprechblase",
-        "title": "Community & Discord",
-        "description": "Offizielle Links und Gruppensuche"
-      },
-      {
-        "icon": "Einstellungen",
-        "title": "Mods & BepInEx",
-        "description": "Installiere Framework und Mod-Setup"
-      },
-      {
-        "icon": "Stern",
-        "title": "Beliebte Mods",
-        "description": "Top-Community-Auswahlen und -Funktionen"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Controller-Unterstützung",
-        "description": "Volle Gamepad-Steuerung mit UI-Cursor"
+        "icon": "Keyboard",
+        "title": "Borderlands Mobile Controls Guide",
+        "description": "Touch layout, ADS, autofire, and combat tips"
       },
       {
         "icon": "TrendingUp",
-        "title": "Spielerzahl & Trend",
-        "description": "Live-Statistiken und Peak-Tracking"
+        "title": "Borderlands Mobile Leveling Guide",
+        "description": "XP sources, level-up rewards, and Vaughn's Adventure timer explained"
+      },
+      {
+        "icon": "Star",
+        "title": "Borderlands Mobile Power Score Guide",
+        "description": "What Power Score measures, how gear rarity affects it, and milestone rewards"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Borderlands Mobile Skills Guide",
+        "description": "When skills unlock, how Skill Points work, and early build planning"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Borderlands Mobile Gear Upgrade Guide",
+        "description": "Upgrade Grenades, Weapons, and Shields with materials and Coins"
+      },
+      {
+        "icon": "Wrench",
+        "title": "Borderlands Mobile Mods Guide",
+        "description": "What Mods do, how to equip them, and farming via Circle of Slaughter"
+      },
+      {
+        "icon": "Map",
+        "title": "Borderlands Mobile Campaign Guide",
+        "description": "Chapters, missions, Star Challenge replay system, and story progression"
+      },
+      {
+        "icon": "Gift",
+        "title": "Borderlands Mobile Vaughn's Adventure Guide",
+        "description": "Reward timers, Legendary Chest cadence, and level scaling explained"
+      },
+      {
+        "icon": "ShoppingBag",
+        "title": "Borderlands Mobile Marcus Munitions Guide",
+        "description": "Chest tiers, key costs, Free Chest timing, and ship upgrade loop"
+      },
+      {
+        "icon": "Layers",
+        "title": "Borderlands Mobile Tower of Terror Guide",
+        "description": "Floors, Tickets, Leaderboards, and Ship Part farming explained"
+      },
+      {
+        "icon": "Swords",
+        "title": "Borderlands Mobile Circle of Slaughter Guide",
+        "description": "Wave survival, free entry, and Gear and Mod farming"
+      },
+      {
+        "icon": "Anchor",
+        "title": "Borderlands Mobile Ship Upgrade Guide",
+        "description": "Ship Parts, room upgrades, and long-term progression systems"
+      },
+      {
+        "icon": "Award",
+        "title": "Borderlands Mobile Battle Pass Guide",
+        "description": "Daily and Weekly Challenges, reward tracks, and tier progression"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
-      "subtitle": "Hol dir die kostenlose Demo auf Steam",
-      "downloadSize": "2,62 GiB",
-      "diskSize": "4,88 GiB",
-      "releaseDate": "30. Januar 2026",
-      "price": "Kostenlos",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Demo herunterladen",
-      "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
+    "borderlandsMobileDownloadAndDeviceRequirements": {
+      "title": "Borderlands Mobile herunterladen und iPhone-Anforderungen prüfen",
+      "eyebrow": "Erste Schritte",
+      "subtitle": "Schnellübersicht für neue Spieler: Plattform, Gerätespezifikationen, Installationsgröße und aktueller Status auf einen Blick.",
+      "intro": "Borderlands Mobile ist im App Store als kostenloser iPhone-Release von Zynga verfügbar. Das Spiel befindet sich derzeit in einem zeitlich begrenzten Test, empfiehlt das Spielen auf dem iPhone 11 oder neuer und ist nicht für Tablets oder iPads optimiert.",
+      "items": [
         {
-          "heading": "Wo man es herunterladen kann",
-          "items": [
-            "Öffne die offizielle Steam-Store-Seite und nutze den Abschnitt \"Demo herunterladen\".",
-            "Wenn Steam dich auffordert, dich anzumelden, melde dich zuerst an und versuche es erneut."
-          ]
+          "label": "Store-Eintrag",
+          "value": "App Store — Borderlands Mobile"
         },
         {
-          "heading": "Schnelle Überprüfung von Installation und Start",
-          "items": [
-            "Standardinstallationsort: Steam-Bibliotheksordner → steamapps → common → (Spielordner).",
-            "Wenn es nicht startet: Überprüfe die Spieldateien in Steam und starte Steam neu."
-          ]
+          "label": "Preis",
+          "value": "Kostenlos"
+        },
+        {
+          "label": "Aktueller Status",
+          "value": "Zeitlich begrenzter Test"
+        },
+        {
+          "label": "Unterstütztes Gerät",
+          "value": "Nur iPhone"
+        },
+        {
+          "label": "Betriebssystem",
+          "value": "iOS 18.0 oder neuer erforderlich"
+        },
+        {
+          "label": "Empfohlenes Smartphone",
+          "value": "iPhone 11 oder neuer"
+        },
+        {
+          "label": "Tablet-Unterstützung",
+          "value": "Nicht für Tablets oder iPads optimiert"
+        },
+        {
+          "label": "App-Größe",
+          "value": "2,9 GB"
+        },
+        {
+          "label": "Sprache",
+          "value": "Englisch"
+        },
+        {
+          "label": "Hauptgenre",
+          "value": "Action-Looter-Shooter"
         }
       ]
     },
-    "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
-      "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
+    "borderlandsMobileBeginnerGuide": {
+      "title": "Deine ersten Stunden in Borderlands Mobile",
+      "eyebrow": "Leitfaden für Einsteiger",
+      "subtitle": "Strukturiere den Spielablauf zu Beginn in klare Aktionen – Kampagne, EP und Power Score-Checks, die am wichtigsten sind, wenn die Missionen schwieriger werden.",
+      "intro": "Der beste Weg für den Einstieg ist, die Kampagne zu starten, zuerst die Hauptmissionen voranzutreiben, Nebenmissionen bei Freischaltung anzunehmen und Level sowie Ausrüstung parallel zu verbessern. Achte auf deinen Power Score, anstatt blind vorzustürmen.",
       "steps": [
         {
-          "number": 1,
-          "title": "Betritt das Haus",
-          "description": "Lass dich von deiner schwebenden Inselbasis in ein menschliches Haus fallen. Spawne draußen und schleiche dich durch unverschlossene Türen oder Fenster hinein."
+          "title": "Reise öffnen und Kampagne betreten",
+          "description": "Tippe auf die Reise-Schaltfläche und wähle dann Kampagne, um deine Reise durch Pandora zu beginnen."
         },
         {
-          "number": 2,
-          "title": "Schließe Aufgaben ab",
-          "description": "Erledige High-Gnome-Aufgaben, bevor die Zeit abläuft. Überprüfe die Ziele über die Tab-Taste und priorisiere zuerst riskante Aufgaben."
+          "title": "Hauptmissionen zuerst vorantreiben",
+          "description": "Hauptmissionen treiben die Kapitel-Story voran und sind der klarste Weg, um den Fortschritt zu sichern."
         },
         {
-          "number": 3,
-          "title": "Stehle Gegenstände",
-          "description": "Sammle Wertgegenstände und Materialien zum Craften. Vermeide es, Lärm zu machen oder vom Hausbesitzer entdeckt zu werden."
+          "title": "Nebenmissionen annehmen, sobald sie erscheinen",
+          "description": "Nebenmissionen werden im Verlauf der Kapitel freigeschaltet und bieten optionale Ziele mit zusätzlichen Belohnungen."
         },
         {
-          "number": 4,
-          "title": "Flucht via Tornado",
-          "description": "Wenn der Timer endet, spawnt ein Tornado im Garten – erreiche ihn, um sicher zu extrahieren. Fang früh an, dich zu bewegen!"
+          "title": "EP im Kampagnenmodus farmen",
+          "description": "Dein Vault Hunter erhält EP durch das Abschließen von Missionen und das Besiegen von Gegnern. Du kannst in Echtzeit aufsteigen, während du noch im Einsatz bist."
         },
         {
-          "number": 5,
-          "title": "Upgrade & Wiederholung",
-          "description": "Verwende Belohnungen und Materialien, um Ausrüstung zu Hause herzustellen, und starte dann deinen nächsten Raubzug mit besserer Ausrüstung."
+          "title": "Level-Aufstiege nutzen, um widerstandsfähig zu bleiben",
+          "description": "Jedes höhere Level erhöht dauerhaft den Power Score und die maximalen LP deines Vault Hunters und schaltet bessere Belohnungen bei Vaughns Abenteuer frei."
+        },
+        {
+          "title": "Power Score vor schweren Missionen prüfen",
+          "description": "Der Power Score steigt, wenn du im Level aufsteigst und stärkere Ausrüstung anlegst. Missionen zeigen einen empfohlenen Mindest-Power-Score an – bleibst du nah dran, verläuft der Fortschritt reibungsloser."
+        },
+        {
+          "title": "Abgeschlossene Level für Stern-Herausforderungen erneut spielen",
+          "description": "Nach dem Abschluss mehrerer Kapitel werden Stern-Herausforderungen für beendete Missionen freigeschaltet, die bis zu drei zusätzliche Herausforderungen pro Mission für mehr Belohnungen bieten."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Erwischt werden",
-          "description": "Der Hausbesitzer wird dich verfolgen. Bleib versteckt, lenke ab und unterbreche die Sichtlinie, um zu entkommen.",
-          "icon": "Warndreieck"
-        },
-        {
-          "title": "Zeit läuft ab",
-          "description": "Der Tornado-Timer ist streng. Beginne frühzeitig mit dem Weg zur Extraktion, anstatt zu viel zu plündern.",
-          "icon": "Uhr"
-        },
-        {
-          "title": "Teamkollegen ignorieren",
-          "description": "Rette gefangene Verbündete schnell aus Kühl-/Ofenfallen – rufe sofort nach Rettung.",
-          "icon": "Benutzer"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
-      "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Späher",
-          "description": "Überprüfe auf Bedrohungen, markiere sichere Pfade und leite die Teambewegung",
-          "icon": "Auge"
-        },
-        {
-          "name": "Träger",
-          "description": "Konzentriere dich auf schwere Gegenstände mit Rucksack-Upgrades und sichere den Aufgabenfortschritt",
-          "icon": "Paket"
-        },
-        {
-          "name": "Ablenkung",
-          "description": "Locke Hausbesitzer/Haustiere vom Team weg, um sichere Fenster zu schaffen",
-          "icon": "Benutzer"
-        },
-        {
-          "name": "Retter",
-          "description": "Befreie gefangene Teamkollegen aus Kühl-/Ofen, bevor sie sterben",
-          "icon": "Schild"
-        }
-      ],
-      "threats": [
-        "Hausbesitzer (verfolgt und fängt dich)",
-        "Katzen & Mäuse (Patrouillenwege)",
-        "Staubsaugerroboter (sofortige Gefahr)",
-        "Zeitlimit (Tornado-Extraktion)"
-      ],
-      "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
-    },
-    "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
-      "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
-      "taskTypes": [
-        {
-          "type": "Stehle Gegenstände",
-          "examples": [
-            "Schnapp dir bestimmte Gegenstände, die durch High-Gnome-Ziele markiert sind"
-          ]
-        },
-        {
-          "type": "Erreiche Orte",
-          "examples": [
-            "Navigiere zu bestimmten Bereichen im Haus"
-          ]
-        },
-        {
-          "type": "Verursache Unfug",
-          "examples": [
-            "Mach einen Fernseher kaputt",
-            "Überflute eine Toilette",
-            "Erzeuge Chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Erledige zuerst riskante Aufgaben, während das Team zusammen ist",
-        "Weise einem Träger Aufgabengegenstände zu, damit sie während der Verfolgungsjagden nicht verloren gehen",
-        "Beginne mit der Bewegung zur Extraktion, bevor die Zeit abläuft"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
-      "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
-      "keybinds": [
-        {
-          "action": "Nach links bewegen",
-          "key": "A"
-        },
-        {
-          "action": "Nach rechts bewegen",
-          "key": "D"
-        },
-        {
-          "action": "Nach vorne bewegen",
-          "key": "W"
-        },
-        {
-          "action": "Nach hinten bewegen",
-          "key": "S"
-        },
-        {
-          "action": "Ducken",
-          "key": "Linke Strg"
-        },
-        {
-          "action": "Angreifen",
-          "key": "Linksklick"
-        },
-        {
-          "action": "Rennen",
-          "key": "Linke Umschalttaste"
-        },
-        {
-          "action": "Gegenstand fallen lassen",
-          "key": "G"
-        },
-        {
-          "action": "Interagieren",
-          "key": "E"
-        },
-        {
-          "action": "Springen",
-          "key": "Leertaste"
-        },
-        {
-          "action": "Sprechen",
-          "key": "V"
-        },
-        {
-          "action": "Schieben",
-          "key": "Rechtsklick"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Ausrüstungsslot 1",
-          "key": "1"
-        },
-        {
-          "action": "Ausrüstungsslot 2",
-          "key": "2"
-        },
-        {
-          "action": "Ausrüstungsslot 3",
-          "key": "3"
-        },
-        {
-          "action": "Ausrüstungsslot 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventar",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
-    },
-    "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
-      "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
-      "descriptors": [
-        "Etwas Nacktheit oder sexuelle Inhalte",
-        "Allgemeine Inhalte für Erwachsene"
-      ],
-      "details": [
-        {
-          "heading": "Was die Entwickler angeben",
-          "items": [
-            "Ein Mensch kann nackt erscheinen, während er Aktivitäten wie Baden ausübt.",
-            "Nacktheit wird zensiert und kann optional vollständig ausgeschaltet werden.",
-            "Gnome können zerstückelt werden und auf brutale Weise sterben."
-          ]
-        },
-        {
-          "heading": "Wenn Steam die Community-Seite blockiert",
-          "items": [
-            "Steam kann den Community-Hub je nach deinen Inhaltseinstellungen ausblenden.",
-            "Verwende Steams \"Inhaltseinstellungen aktualisieren\", um anzupassen, was Steam anzeigen darf."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
-      "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
-      "equipment": [
-        {
-          "item": "Rucksack",
-          "benefit": "Erweitert die Inventarkapazität für mehr Beute pro Durchgang"
-        },
-        {
-          "item": "Gnom-Handschuhe",
-          "benefit": "Ermöglicht es dir, Türen zu öffnen und mit mehr Objekten zu interagieren"
-        },
-        {
-          "item": "Springschuhe",
-          "benefit": "Verhindert Fallschaden bei hohen Stürzen während der Flucht"
-        },
-        {
-          "item": "Waffe",
-          "benefit": "Hilft dir, Bedrohungen wie Mäuse in die Enge zu treiben"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Wie Crafting mit Plündern zusammenhängt",
-          "items": [
-            "Stehle während eines Laufs Gegenstände und bringe sie als Crafting-Materialien zurück.",
-            "Nach der Extraktion unterstützen Belohnungen/Materialien neue Handwerke."
-          ]
-        },
-        {
-          "heading": "Basisverbesserung",
-          "items": [
-            "Stelle Möbel her und verbessere dein schwebendes Inselhaus (vollständige Spielfunktion)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
-      "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
-      "categories": [
-        {
-          "type": "Aufgabengegenstände",
-          "examples": [
-            "Gegenstände, die von High-Gnome für Ziele benötigt werden"
-          ]
-        },
-        {
-          "type": "Crafting-Materialien",
-          "examples": [
-            "Haushaltsgegenstände, die in Gnom-Ausrüstung und -Upgrades umgewandelt werden"
-          ]
-        },
-        {
-          "type": "Unfug-Ziele",
-          "examples": [
-            "Objekte, die an Aufgaben wie Zerstören oder Überfluten beteiligt sind"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Priorisiere den Aufgabenfortschritt und fülle dann die verbleibende Kapazität mit Crafting-Materialien",
-        "Wenn sich Bedrohungen in der Nähe befinden, bewege Gegenstände in kurzen, sicheren Sprüngen anstatt in langen, exponierten Tragen",
-        "Plane die Route zur Gartenextraktion, bevor der Timer endet"
-      ],
-      "riskLevels": [
-        {
-          "level": "Niedrig",
-          "description": "In der Nähe von Eingängen oder sicheren Ecken"
-        },
-        {
-          "level": "Mittel",
-          "description": "Tiefer gelegene Räume oder in der Nähe von umherziehenden Bedrohungen"
-        },
-        {
-          "level": "Hoch",
-          "description": "In der Nähe der Patrouille des Hausbesitzers oder des Staubsaugerroboters"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
-      "subtitle": "Wisse, was dich erwischen kann",
-      "threats": [
-        {
-          "name": "Der Hausbesitzer",
-          "trigger": "Beim Einbrechen oder Erledigen von Aufgaben entdeckt werden",
-          "behavior": "Er verfolgt dich und versucht, dich zu fangen",
-          "counter": "Bleib heimlich, unterbreche Sichtlinien und bleib als Team in Bewegung"
-        },
-        {
-          "name": "Katzen",
-          "trigger": "Zu nahe kommen oder ihren Weg kreuzen",
-          "behavior": "Sie werden zu einer direkten Bedrohung, während du dich schleichst",
-          "counter": "Vermeide ihre Routen und gehe leise vorbei"
-        },
-        {
-          "name": "Mäuse",
-          "trigger": "Bereiche betreten, in denen Mäuse umherstreifen",
-          "behavior": "Sie bedrohen zerbrechliche Gnome während der Läufe",
-          "counter": "Bleib wachsam in engen Räumen und sei bereit, dich zurückzuziehen"
-        },
-        {
-          "name": "Staubsaugerroboter",
-          "trigger": "Sich auf seinem Reinigungspfad befinden",
-          "behavior": "Er kann Gnome einsaugen",
-          "counter": "Höre auf ihn, halte dich von seiner Route fern und positioniere dich schnell neu"
-        },
-        {
-          "name": "Kühlschrank / Ofen-Falle",
-          "trigger": "Vom Hausbesitzer erwischt werden",
-          "behavior": "Du kannst darin eingesperrt werden; wenn Teamkollegen nicht rechtzeitig retten, stirbst du",
-          "counter": "Rufe sofort; Teamkollegen priorisieren die Rettungsroute"
-        },
-        {
-          "name": "Zeitlimit",
-          "trigger": "Der Lauf-Timer erreicht das Limit",
-          "behavior": "Der Extraktions-Tornado erscheint im Garten; du musst ihn erreichen, um zu entkommen",
-          "counter": "Hör auf, zu viel zu plündern, gruppiere dich neu und engagiere dich frühzeitig für die Extraktion"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
-      "subtitle": "Stehle mehr, stirb weniger",
-      "do": [
-        "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
-        "Nutze die Teamarbeit: rufe Bedrohungen aus und koordiniere Routen",
-        "Rette Teamkollegen schnell, wenn jemand gefangen oder am Boden ist",
-        "Reduziere deine Verluste und mache dich auf den Weg zur Extraktion, wenn der Timer knapp ist"
-      ],
-      "dont": [
-        "Werde gierig, wenn die Extraktion bevorsteht",
-        "Teile dich zu weit vom Team, wenn der Hausbesitzer aktiv ist",
-        "Ignoriere Staubsaugerroboterpfade oder Tierpatrouillen",
-        "Verzögere Rettungen, wenn ein Teamkollege eingesperrt ist"
       ],
       "quickTips": [
+        "Die Kampagne ist auch die primäre EP-Quelle – bleibe in den ersten Stunden dort.",
+        "Der Power Score ist der wichtigste Wert für den frühen Fortschritt, den man im Auge behalten sollte.",
+        "Nebenmissionen sind optional, bringen aber zusätzliche Ausrüstung und EP.",
+        "Stern-Herausforderungen erhöhen den Wiederspielwert, sobald du die Hauptlevel abgeschlossen hast."
+      ]
+    },
+    "borderlandsMobileSummonerClassGuide": {
+      "title": "So funktioniert die Beschwörer-Klasse in Borderlands Mobile",
+      "eyebrow": "Klassen-Leitfaden",
+      "subtitle": "Verstehe, was der Beschwörer tut, seinen Action-Skill und wie sich das Skill-System ab Level 8 öffnet.",
+      "intro": "Der Beschwörer ist die einzige verfügbare Klasse im aktuellen Build von Borderlands Mobile. Die Klasse konzentriert sich auf das Beschwören von Phasenenergie-Bestien und eröffnet ab Level 8 ein vollständiges Skill-System mit Raum für zukünftige Klassenerweiterungen.",
+      "items": [
         {
-          "title": "Die 3-Sekunden-Regel",
-          "text": "Wenn du deinen nächsten Zug nicht in 3 Sekunden erklären kannst, wirst du gleich entdeckt."
+          "title": "Einzige verfügbare Klasse",
+          "body": "Der Beschwörer ist die einzige spielbare Klasse im aktuellen Build von Borderlands Mobile."
         },
         {
-          "title": "Rettung zuerst",
-          "text": "Eine schnelle Rettung hält den Lauf am Leben; Plündern kann warten."
+          "title": "Klassenidentität",
+          "body": "Der Beschwörer nutzt Phasenenergie, um Bestien zu beschwören, die an deiner Seite im Kampf kämpfen."
         },
         {
-          "title": "Extraktionsdisziplin",
-          "text": "Gruppiere dich frühzeitig neu und engagiere dich für den Tornado, bevor Panik ausbricht."
+          "title": "Action-Skill: Braver Junge!",
+          "body": "Beschwört Nigel – eine Gefährten-Bestie – für begrenzte Zeit, um an deiner Seite zu kämpfen."
+        },
+        {
+          "title": "Skills werden ab Level 8 freigeschaltet",
+          "body": "Der vollständige Skill-Baum wird ab Level 8 verfügbar und bietet Zugriff auf Status-Upgrades und Fähigkeitsfreischaltungen."
+        },
+        {
+          "title": "So funktionieren Skill-Punkte",
+          "body": "Jeder Level-Aufstieg gewährt einen Skill-Punkt. Gib Punkte aus, um Statuswerte zu erhöhen und Skills freizuschalten oder zu verbessern, die an deine ausgerüstete Klasse gebunden sind."
+        },
+        {
+          "title": "Flexibilität beim Loadout",
+          "body": "Freigeschaltete geteilte Skills verschiedener Klassen können in dein aktives Loadout gemischt werden."
+        },
+        {
+          "title": "Zukünftige Erweiterung",
+          "body": "Zusätzliche Klassen und Anpassungsoptionen sind für kommende Updates von Borderlands Mobile geplant."
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
-      "subtitle": "Craften, bauen, verbessern",
-      "branches": [
-        {
-          "branch": "Lagerung",
-          "summary": "Mehr tragen und mehr zurückbringen",
-          "items": [
-            "Rucksack (Inventarerweiterung)"
-          ]
-        },
-        {
-          "branch": "Dienstprogramm",
-          "summary": "Effektiver mit dem Haus interagieren",
-          "items": [
-            "Gnom-Handschuhe (ermöglichen es dir, Türen zu öffnen und mehr)"
-          ]
-        },
-        {
-          "branch": "Mobilität",
-          "summary": "Sicherer durch vertikale Räume bewegen",
-          "items": [
-            "Springschuhe (reduzieren Fallschaden)"
-          ]
-        },
-        {
-          "branch": "Verteidigung",
-          "summary": "Mit kleinen Bedrohungen umgehen, wenn nötig",
-          "items": [
-            "Waffen (für Bedrohungen wie Mäuse)"
-          ]
-        },
-        {
-          "branch": "Heimatbasis",
-          "summary": "Stelle Möbel her und verbessere dein schwebendes Inselhaus",
-          "items": [
-            "Funktionale Möbel-Upgrades"
-          ]
-        }
-      ],
-      "priority": [
-        {
-          "rank": 1,
-          "title": "Zuerst Lagerung",
-          "reason": "Mehr Tragfähigkeit verbessert die Auszahlung jedes Laufs"
-        },
-        {
-          "rank": 2,
-          "title": "Als nächstes Dienstprogramm",
-          "reason": "Bessere Interaktionen reduzieren die Zeit, die in Gefahrenzonen verbracht wird"
-        },
-        {
-          "rank": 3,
-          "title": "Mobilität zum Überleben",
-          "reason": "Fallschutz verhindert vermeidbare Todesfälle bei der Flucht"
-        }
-      ]
-    },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
-        {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
-        },
-        {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
-        },
-        {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
-        },
-        {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
-        }
-      ]
-    },
-    "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
-      "subtitle": "Installiere Mods auf saubere Weise",
+    "borderlandsMobileControlsGuide": {
+      "title": "Lerne die Borderlands Mobile Touch-Steuerung schnell",
+      "eyebrow": "Mobiler Kampf",
+      "subtitle": "Verwandle das mobile HUD in eine klare Anleitung für die erste Session – Bewegung, Zielen, Feuern und schnelle Lösungen für flüssigere Kämpfe auf dem iPhone.",
+      "intro": "Borderlands Mobile nutzt ein zweiseitiges Touch-Layout: Bewegung links, Kamerasteuerung rechts. Sobald du ADS, das Autofire-Verhalten und das Reload-Timing verstehst, wird der Kampfablauf auf dem Handy deutlich flüssiger.",
       "steps": [
         {
+          "title": "Links bewegen, rechts schauen",
+          "description": "Ziehe auf der linken Seite des Bildschirms, um dich zu bewegen, und auf der rechten Seite, um deine Sicht zu schwenken."
+        },
+        {
+          "title": "Nutze Sprünge aggressiv – Doppelsprung verfügbar",
+          "description": "Tippe auf die Sprungtaste auf der rechten Seite des Bildschirms. Doppelsprung wird unterstützt."
+        },
+        {
+          "title": "Nutze ADS für gezieltes Zielen",
+          "description": "Tippe und halte die ADS-Taste (Zielen über Visier) und ziehe dann, um dein Ziel für bessere Genauigkeit anzupassen."
+        },
+        {
+          "title": "Lass das Zielen das Autofire auslösen",
+          "description": "Wenn sich dein Fadenkreuz auf Feinden oder Zielen befindet, kann das Spiel automatisch schießen, während du das Zielfernrohr hältst."
+        },
+        {
+          "title": "Wechsle bei Bedarf zu manuellem Feuer",
+          "description": "Tippe auf die Feuertaste, um manuell zu schießen. Autofire kann in den Einstellungen ein- oder ausgeschaltet werden."
+        },
+        {
+          "title": "Manuell nachladen zwischen Vorstößen",
+          "description": "Nutze die Nachladetaste, um von Hand nachzuladen. Dein Vault Hunter lädt auch automatisch nach, wenn das Magazin leer ist."
+        },
+        {
+          "title": "Schnelle iOS-Bereinigung bei Steuerungsproblemen",
+          "description": "Überprüfe deine Verbindung, mache ein Update im App Store und starte die App oder das Gerät neu, wenn Lade- oder Absturzprobleme auftreten."
+        }
+      ],
+      "quickTips": [
+        "ADS verbessert die Genauigkeit erheblich – nutze es immer, wenn du Präzisionsschüsse benötigst.",
+        "Autofire kann in den Einstellungen für Spieler deaktiviert werden, die eine manuelle Abzugskontrolle bevorzugen.",
+        "Der Doppelsprung bietet einen starken vertikalen Vorteil in Nahkampfbegegnungen.",
+        "Lade manuell nach, bevor du Gebiete mit hoher Feinddichte betrittst, um Verzögerungen während des Kampfes zu vermeiden."
+      ]
+    },
+    "borderlandsMobileLevelingGuide": {
+      "eyebrow": "Fortschritt",
+      "title": "Wie das Leveln in Borderlands Mobile funktioniert",
+      "subtitle": "Das Leveln ist der Kern des frühen Fortschritts. Es erhöht die Kampfwerte, verbessert Belohnungen für Nebenfeatures und fließt direkt in das Skill-Wachstum ein.",
+      "intro": "Dein Vault Hunter erhält EP im Kampagnenmodus durch das Abschließen von Missionen und das Töten von Feinden. Level können in Echtzeit während einer Mission steigen, und jedes neue Level erhöht dauerhaft den Power Score und die Max. HP, während es gleichzeitig die Belohnungen von Vaughns Abenteuer verbessert.",
+      "items": [
+        {
           "step": 1,
-          "title": "Installiere BepInEx 5",
-          "text": "Lade BepInEx 5 herunter und entpacke es in den Spiel-Root-Ordner."
+          "title": "EP im Kampagnenmodus verdienen",
+          "description": "EP stammen aus zwei Hauptquellen: dem Abschließen von Missionen und dem Besiegen von Feinden im Kampagnenmodus."
         },
         {
           "step": 2,
-          "title": "Einmal starten, um Ordner zu generieren",
-          "text": "Starte das Spiel bis zum Hauptmenü und schließe es dann. Dadurch wird die BepInEx-Ordnerstruktur erstellt."
+          "title": "Verfolge den gelben EP-Ring",
+          "description": "Die gelbe Fortschrittslinie um dein Vault Hunter-Level zeigt den aktuellen EP-Fortschritt an. Wenn die Linie den Kreis schließt, steigst du ein Level auf."
         },
         {
           "step": 3,
-          "title": "Mods installieren",
-          "text": "Platziere Mod-.dll-Dateien in den Plugins-Ordner."
+          "title": "Levelaufstieg während Missionen",
+          "description": "Du musst eine Mission nicht beenden, bevor du ein Level aufsteigst. Dein Vault Hunter kann direkt im Feld in Echtzeit aufleveln."
         },
         {
           "step": 4,
-          "title": "Installation überprüfen",
-          "text": "Starte das Spiel neu und bestätige, dass die Mod-Funktion verfügbar ist (Kamera-Umschaltung, UI-Cursor usw.)."
-        }
-      ],
-      "paths": [
-        {
-          "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "title": "Dauerhaftes Stat-Wachstum erhalten",
+          "description": "Jedes höhere Level bewirkt eine dauerhafte Erhöhung von Power Score und Max. HP."
         },
         {
-          "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
+          "step": 5,
+          "title": "Belohnungen von Vaughns Abenteuer steigern",
+          "description": "Nach der Rettung von Vaughn wird Vaughns Abenteuer freigeschaltet. Es gewährt zusätzliche EP und Cash alle 10 Minuten sowie eine legendäre Truhe alle 18 Stunden. Die Belohnungsbeträge steigen mit deinem Level."
+        },
+        {
+          "step": 6,
+          "title": "Level in Skills umwandeln",
+          "description": "Skills werden auf Level 8 freigeschaltet, und jeder Levelaufstieg gewährt 1 Skill-Punkt zum Freischalten oder Verbessern von Skills."
         }
-      ],
-      "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
+      ]
     },
-    "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
-      "subtitle": "Top-Community-Auswahlen",
-      "mods": [
+    "borderlandsMobilePowerScoreGuide": {
+      "eyebrow": "Kampfkraft",
+      "title": "Power Score in Borderlands Mobile erklärt",
+      "subtitle": "Der Power Score misst, wie kampfbereit dein Vault Hunter ist. Er wächst durch Levelaufstiege und bessere Ausrüstung, und Missionen nutzen ihn als Maßstab für die Einsatzbereitschaft.",
+      "intro": "Das Spiel nutzt den Power Score als einfache Momentaufnahme der Kampfstärke. Dein Gesamtwert steigt, wenn dein Vault Hunter auflevelt und wenn du stärkere Ausrüstung anlegst, wobei jedes einzelne Ausrüstungsteil basierend auf seinem eigenen Level und seiner Seltenheit beiträgt.",
+      "items": [
         {
-          "title": "Spawn-Menü",
-          "tags": [
-            "Spaß",
-            "Werkzeuge",
-            "Nur Host"
-          ],
-          "description": "Fügt ein Element-Spawn-Menü mit einem Flugmodus hinzu.",
-          "controls": [
-            {
-              "key": "F",
-              "action": "Spawn-Menü öffnen"
-            },
-            {
-              "key": "V",
-              "action": "Fliegen aktivieren"
-            }
-          ],
-          "note": "Nur Host; andere müssen es nicht installieren, um beizutreten."
+          "factor": "Was der Power Score misst",
+          "value": "Deine allgemeine Kampfkraft",
+          "details": "Er ist der Hauptindikator dafür, wie stark dein aktuelles Vault Hunter-Setup ist."
         },
         {
-          "title": "ThirdPerson-Ansicht",
-          "tags": [
-            "Kamera",
-            "QoL"
-          ],
-          "description": "Fügt eine Third-Person-Kameraansicht hinzu.",
-          "controls": [
-            {
-              "key": "F7",
-              "action": "First-Person / Third-Person umschalten"
-            }
+          "factor": "Hauptwege zur Steigerung",
+          "value": "Level aufsteigen und stärkere Ausrüstung anlegen",
+          "details": "Dein gesamter Power Score steigt weiter an, während dein Vault Hunter auflevelt und sich deine Ausrüstung verbessert."
+        },
+        {
+          "factor": "Wie Ausrüstung beiträgt",
+          "value": "Jedes Ausrüstungsteil hat seinen eigenen Power Score",
+          "details": "Der Score eines Ausrüstungsgegenstands hängt von seinem Level und seiner Seltenheit ab."
+        },
+        {
+          "factor": "Missionsbereitschaft",
+          "value": "Missionen zeigen einen empfohlenen Mindest-Power Score",
+          "details": "Du kannst auch unter der Empfehlung teilnehmen, aber die Mission wird dann deutlich schwieriger abzuschließen."
+        },
+        {
+          "factor": "Einfluss der Seltenheit",
+          "value": "Höhere Seltenheit bedeutet meist einen höheren Power Score",
+          "details": "Die Seltenheitsstufen der Ausrüstung sind Gewöhnlich, Ungewöhnlich, Selten, Episch und Legendär, aber das Gegenstandslevel ist ebenfalls wichtig."
+        },
+        {
+          "factor": "Meilenstein-Belohnungen",
+          "value": "Der Power Score-Pfad schaltet einforderbare Belohnungen frei",
+          "details": "Fordere Meilenstein-Belohnungen über das Profil-Avatar-Menü in der oberen linken Ecke des HQ-Bildschirms an."
+        }
+      ]
+    },
+    "borderlandsMobileSkillsGuide": {
+      "eyebrow": "Builds",
+      "title": "Borderlands Mobile Skills, Skillpunkte und frühe Build-Planung",
+      "subtitle": "Skills öffnen die Tür zur Build-Anpassung. Erreiche Level 8, verdiene Punkte durch Levelaufstiege und gib sie sorgfältig für Freischaltungen und Upgrades aus.",
+      "intro": "Skills werden verfügbar, sobald dein Vault Hunter Level 8 erreicht. Von da an gewährt jedes Level einen Skillpunkt, und du kannst diese Punkte verwenden, um Statuswerte zu erhöhen, neue Fähigkeiten freizuschalten und Loadouts mit Shared Skills anzupassen.",
+      "items": [
+        {
+          "title": "Freischaltbedingung",
+          "description": "Skills werden freigeschaltet, wenn dein Vault Hunter Level 8 erreicht.",
+          "bullets": [
+            "Vor Level 8 sind keine Skills verfügbar",
+            "Der Zugriff auf Skills ist direkt an den Charakterfortschritt gebunden"
           ]
         },
         {
-          "title": "Mehr Hüte",
-          "tags": [
-            "Kosmetisch"
-          ],
-          "description": "Fügt zusätzliche Hutfarboptionen für Gnome hinzu.",
-          "colors": [
-            "Blau",
-            "Grün",
-            "Orange",
-            "Lila",
-            "Schwarz",
-            "Rot"
+          "title": "Wie Skillpunkte funktionieren",
+          "description": "Jedes Mal, wenn dein Vault Hunter ein Level aufsteigt, erhältst du 1 Skillpunkt.",
+          "bullets": [
+            "Levelaufstiege treiben deinen Skill-Fortschritt kontinuierlich voran",
+            "Skillpunkte werden sowohl für Freischaltungen als auch für Upgrades verwendet"
           ]
         },
         {
-          "title": "DOOM im Fernsehen",
-          "tags": [
-            "Spaß",
-            "Minispiel"
-          ],
-          "description": "Spiele das Original-DOOM auf einem In-Game-Fernseher, wobei der Ton über den TV-Lautsprecher kommt.",
-          "highlights": [
-            "Funktioniert im Mehrspieler, sodass andere Spieler auf demselben Fernseher zusehen können",
-            "Enthält die Shareware-DOOM-Episodendaten (Episode 1)"
+          "title": "Was Skills bewirken",
+          "description": "Skillpunkte können Statuswerte erhöhen und neue Skills für deine ausgerüstete Klasse freischalten.",
+          "bullets": [
+            "Du kannst einen Skill untersuchen, bevor du Punkte ausgibst",
+            "Fortgeschrittene Skills erfordern mehr Skillpunkte"
+          ]
+        },
+        {
+          "title": "Fortschrittsregel",
+          "description": "Weitere Skills werden verfügbar, nachdem du eine bestimmte Menge an Skillpunkten ausgegeben hast.",
+          "bullets": [
+            "Frühe Entscheidungen schalten spätere Teile des Skillbaums frei",
+            "Die Reihenfolge der Punktevergabe prägt deinen Build-Pfad"
+          ]
+        },
+        {
+          "title": "Shared Skills",
+          "description": "Freigeschaltete Shared Skills können aus verschiedenen Klassen kombiniert werden, um Loadouts zu personalisieren.",
+          "bullets": [
+            "Shared Skills unterstützen eine flexible Loadout-Erstellung",
+            "Die Anpassungsmöglichkeiten erweitern sich, je mehr Klassen und Skills freigeschaltet werden"
+          ]
+        },
+        {
+          "title": "Aktuelle Live-Klasse",
+          "description": "In der aktuellen Version ist die verfügbare Klasse der Summoner.",
+          "bullets": [
+            "Der Summoner nutzt Phasenenergie, um Bestien zu beschwören",
+            "Sein Action-Skill ist „Good Boy!“, der Nigel beschwört, um an deiner Seite zu kämpfen"
           ]
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
-      "subtitle": "Volle Gamepad-Steuerung",
-      "native": {
-        "title": "In-Game-Einstellungen",
-        "description": "Verwende die Bindungs-/Einstellungsmenüs des Spiels, um die Steuerung anzupassen."
-      },
-      "mod": {
-        "title": "Controller-Support-Mod",
-        "description": "Fügt vollständige Gamepad-/Controller-Unterstützung und einen UI-Cursor für die Menünavigation hinzu."
-      },
-      "features": [
-        "Volle Gameplay-Steuerung: Bewegung, Kamera, Kampf, Interaktionen und Fähigkeiten, die dem Gamepad zugeordnet sind",
-        "UI-Cursor-Navigation: Ein weißer Kreiscursor erscheint in Menüs; drücke A, um zu klicken und Schieberegler zu ziehen",
-        "Inventarnavigation: Halte Select gedrückt, um das Inventar zu öffnen; verwende den rechten Stick, um zu navigieren, während du ihn hältst",
-        "Scrollbare Menüs: Der rechte Stick scrollt durch Crafting-Rezepte, Einstellungen und andere scrollbare UI-Bereiche",
-        "Hotbar-Cycling: D-Pad links/rechts wechselt durch 4 Hotbar-Slots",
-        "Nahtlose Eingabeumschaltung: Erkennt automatisch Tastatur/Maus vs. Controller"
+    "borderlandsMobileGearUpgradeGuide": {
+      "eyebrow": "Upgrades",
+      "title": "Borderlands Mobile: So verbesserst du Waffen, Granaten und Schilde",
+      "subtitle": "Rang-Upgrades sind ein direkter Weg, um den Power Score zu erhöhen. Jede Ausrüstungskategorie verwendet ihren eigenen Materialtyp plus Münzen, daher ist effizientes Ausgeben zu Beginn wichtig.",
+      "intro": "Du kannst den Rang deiner Granaten, Waffen und Schilde im Inventar-Bildschirm verbessern. Jede Rangerhöhung steigert den Power Score deines Vault Hunters, und jede Ausrüstungskategorie verwendet ein spezifisches Upgrade-Material aus Missionen, Belohnungen und dem Verschrotten passender Ausrüstung.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Inventar öffnen",
+          "description": "Gehe in dein Inventar und wähle die Upgrade-Option für den Ausrüstungstyp, den du verbessern möchtest."
+        },
+        {
+          "step": 2,
+          "title": "Granaten verbessern",
+          "description": "Rang-Upgrades für Granaten erfordern Füllstoffe und Münzen. Füllstoffe stammen aus Missionen, Belohnungen und dem Verschrotten von Granaten, während Münzen durch Missionen und Abschlussbelohnungen verdient werden."
+        },
+        {
+          "step": 3,
+          "title": "Waffen verbessern",
+          "description": "Rang-Upgrades für Waffen erfordern Komponenten und Münzen. Komponenten stammen aus Missionen, Belohnungen und dem Verschrotten von Ausrüstung."
+        },
+        {
+          "step": 4,
+          "title": "Schilde verbessern",
+          "description": "Rang-Upgrades für Schilde erfordern Zellen und Münzen. Zellen stammen aus Missionen, Belohnungen und dem Verschrotten von Schilden."
+        },
+        {
+          "step": 5,
+          "title": "Priorisierung für Power Score",
+          "description": "Rang-Upgrades erhöhen direkt den Power Score. Verbessere die Teile, die deine aktuelle Missionsbereitschaft am meisten stärken."
+        },
+        {
+          "step": 6,
+          "title": "Seltenheit und Level gemeinsam vergleichen",
+          "description": "Ausrüstung mit höherer Seltenheit hat normalerweise einen höheren Power Score, aber ein Gegenstand mit höherem Level und geringerer Seltenheit kann kurzfristig die bessere Wahl sein."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
-      "subtitle": "Live-Popularitäts-Schnappschuss",
-      "stats": {
-        "now": {
-          "value": "6.047",
-          "label": "Spieler gerade jetzt"
+    "borderlandsMobileModsGuide": {
+      "eyebrow": "Loadout",
+      "title": "Borderlands Mobile Mods-Leitfaden",
+      "subtitle": "Mods sind Gegenstände, die du an Waffen anbringst, um deren Leistung zu verbessern. Du kannst sie jederzeit im Inventar ausrüsten und austauschen und weitere im Circle of Slaughter farmen.",
+      "intro": "Nutze diese Seite, um zu verstehen, was Mods bewirken, wo man sie ausrüstet und welche Gameplay-Loops den Mod-fokussierten Loadout-Fortschritt in Borderlands Mobile unterstützen.",
+      "items": [
+        {
+          "title": "Was Mods bewirken",
+          "text": "Mods sind Gegenstände, die du an einer Waffe anbringen kannst, um deren Leistung zu verbessern, wobei viele Arten von Mods unterschiedliche Statusboni bieten."
         },
-        "peak24h": {
-          "value": "13.859",
-          "label": "24-Stunden-Peak"
+        {
+          "title": "Wo man Mods ausrüstet",
+          "text": "Öffne dein Inventar und tippe auf den Reiter „Mods“ oben rechts auf dem Bildschirm, um alle deine ausgerüsteten Mods zu verwalten."
         },
-        "allTimePeak": {
-          "value": "15.272",
-          "label": "Allzeit-Peak"
+        {
+          "title": "Mods jederzeit austauschen",
+          "text": "Mods können jederzeit im Inventar ohne Abklingzeit oder Einschränkung ausgerüstet und abgelegt werden."
+        },
+        {
+          "title": "Mod-Upgrade-System",
+          "text": "Der Bereich für Mod-Upgrades in Borderlands Mobile ist im aktuellen Build als „Demnächst verfügbar“ aufgeführt, wobei ein erweitertes System für zukünftige Updates geplant ist."
+        },
+        {
+          "title": "Mods über Circle of Slaughter farmen",
+          "text": "Circle of Slaughter hat keine Eintrittsgebühr, bietet derzeit zwei Level und gewährt höhere Chancen auf Ausrüstung und Mods, je länger du die Gegnerwellen überlebst."
+        },
+        {
+          "title": "Kurzübersicht der Rang-Materialien",
+          "text": "Rang-Upgrades für Waffen nutzen Komponenten und Münzen, Rang-Upgrades für Granaten nutzen Füllstoffe und Münzen, und Rang-Upgrades für Schilde nutzen Zellen und Münzen."
         }
-      },
-      "milestones": [
+      ]
+    },
+    "borderlandsMobileCampaignGuide": {
+      "eyebrow": "Story",
+      "title": "Borderlands Mobile Kampagnen-Leitfaden",
+      "subtitle": "Die Kampagne ist die Hauptreise durch Pandora und umfasst Hauptmissionen, Nebenmissionen und Star Challenge-Wiederholungsinhalte für fortlaufende Belohnungen.",
+      "intro": "Dieser Leitfaden erklärt, wie man die Borderlands Mobile Kampagne startet, was Kapitel freischalten, wie sich Haupt- und Nebenmissionen unterscheiden, wie die Star Challenge funktioniert und wie man häufige Missionsprobleme behebt.",
+      "items": [
         {
-          "date": "30. Jan. 2026",
-          "title": "Demo auf Steam veröffentlicht",
-          "detail": "Öffentliche Demo wurde auf PC (Steam) verfügbar."
+          "question": "Wie starte ich die Kampagne in Borderlands Mobile?",
+          "answer": "Tippe auf die Schaltfläche „Reisen“ und wähle dann „Kampagne“ aus, die als erste in der Liste erscheint."
         },
         {
-          "date": "8. Feb. 2026",
-          "title": "Allzeit-Peak erreicht",
-          "detail": "Die Demo erreichte ihre höchste aufgezeichnete Anzahl gleichzeitiger Spieler."
+          "question": "Was sind Kapitel in Borderlands Mobile?",
+          "answer": "Kapitel führen dich durch deine Reise auf Pandora, bieten zusätzliche Herausforderungen und belohnen Fortschritte mit neuen Funktionen, Erfolgen und anspruchsvolleren Folgekapiteln."
+        },
+        {
+          "question": "Was ist eine Hauptmission in Borderlands Mobile?",
+          "answer": "Hauptmissionen sind Missionen, die sich auf die Handlung des aktuellen Kapitels konzentrieren und den Kern des Fortschritts in der Borderlands Mobile Kampagne bilden."
+        },
+        {
+          "question": "Was ist eine Nebenmission in Borderlands Mobile?",
+          "answer": "Nebenmissionen werden im Laufe eines Kapitels freigeschaltet und bieten optionale Ziele mit zusätzlichen Belohnungen abseits der Hauptstory."
+        },
+        {
+          "question": "Wie funktioniert die Star Challenge in Borderlands Mobile?",
+          "answer": "Nach Abschluss mehrerer Kapitel wird die Star Challenge freigeschaltet, mit der du abgeschlossene Missionen erneut spielen kannst. Jede wiederholte Mission hat drei zusätzliche Herausforderungen, und jede abgeschlossene Herausforderung gewährt einen Stern."
+        },
+        {
+          "question": "Haben alle wiederholten Missionen in Borderlands Mobile Star Challenges?",
+          "answer": "Abgeschlossene Missionen, die erneut gespielt werden, verfügen über Star Challenges, mit Ausnahme des Prologs."
+        },
+        {
+          "question": "Wofür werden Sterne in der Borderlands Mobile Kampagne verwendet?",
+          "answer": "Verdiene genug Sterne, um Claptraps Beutekiste aus der Star Challenge-Belohnungsleiste einzufordern."
+        },
+        {
+          "question": "Warum kann ich die Mission „It's Just Business Pt 2“ in Borderlands Mobile nicht abschließen?",
+          "answer": "Jeffrey aus der Buchhaltung erscheint in dieser Nebenmission gelegentlich nicht. Das Schließen und Neuladen des Spiels behebt das Problem."
+        }
+      ]
+    },
+    "borderlandsMobileVaughnsAdventureGuide": {
+      "eyebrow": "Idle-Belohnungen",
+      "title": "Borderlands Mobile Vaughns Abenteuer-Leitfaden",
+      "subtitle": "Vaughns Abenteuer ist eine zeitgesteuerte Belohnungsfunktion in Borderlands Mobile, die EP, Bargeld und eine legendäre Kiste ausgibt, wobei die Belohnungen mit deinem Account-Level skalieren.",
+      "intro": "Dieser Leitfaden erklärt, wann Vaughns Abenteuer freigeschaltet wird, wo es zu finden ist, wie oft man vorbeischauen sollte, was die beiden Belohnungs-Timer sind und wie Schiffs-Upgrades deine Auszahlungen verbessern.",
+      "items": [
+        {
+          "title": "Freischaltbedingung",
+          "text": "Du schaltest Vaughns Abenteuer in Borderlands Mobile frei, nachdem du Vaughn während der Mission „Friends Like These“ gerettet hast."
+        },
+        {
+          "title": "Regulärer Belohnungs-Timer",
+          "text": "Vaughn wagt sich alle 10 Minuten aus dem Schiff, um zusätzliche EP und Bargeld zu sammeln. Der Timer wird erst nach dem Einsammeln der Belohnungen zurückgesetzt."
+        },
+        {
+          "title": "Timer für legendäre Kiste",
+          "text": "Kehre nach 18 Stunden zurück, um die legendäre Kiste aus Vaughns Abenteuer abzuholen. Auch dieser Timer wird erst nach dem Einsammeln zurückgesetzt."
+        },
+        {
+          "title": "Zugriff",
+          "text": "Greife auf Vaughns Abenteuer über die entsprechende Schaltfläche oben rechts auf dem Hauptbildschirm von Borderlands Mobile zu."
+        },
+        {
+          "title": "Level-skalierende Belohnungen",
+          "text": "Die Menge an Bargeld und EP, die du in Vaughns Abenteuer sammelst, steigt mit deinem Vault Hunter Level in Borderlands Mobile."
+        },
+        {
+          "title": "Synergie durch Schiffs-Upgrades",
+          "text": "Das Upgrade von „Scavenger Hunt“ auf Stufe 2 fügt den von Vaughn gefundenen Gegenständen Teile und Füllmaterial hinzu, was den Wert jedes Check-ins in Borderlands Mobile erhöht."
+        }
+      ]
+    },
+    "borderlandsMobileMarcusMunitionsGuide": {
+      "eyebrow": "Shop",
+      "title": "Borderlands Mobile Marcus Munitions-Leitfaden",
+      "subtitle": "Marcus Munitions ist der In-Game-Shop von Borderlands Mobile mit mehreren Kisten-Stufen, kostenlosen Abholzeiten und Schiffs-Upgrades, die deine Beute verbessern.",
+      "intro": "Nutze diese Tabelle als Kurzreferenz für Kistentypen, Schlüsselkosten, garantierte Seltenheit der Belohnungen, Timer für kostenlose Kisten und wie der Fortschritt von Schiff und Legendary Collection mit dem Borderlands Mobile Shop zusammenhängt.",
+      "rows": [
+        {
+          "name": "Kostenlose Kiste",
+          "cost": "Kostenlos",
+          "reward": "Gewöhnliche Waffe",
+          "note": "Alle 10 Minuten abholbar. Der Timer wird erst nach der Abholung zurückgesetzt."
+        },
+        {
+          "name": "Goldene Kiste",
+          "cost": "1 seltener Schlüssel",
+          "reward": "Seltene Ausrüstung",
+          "note": "Schlüsselbasierte Kiste, verfügbar bei Marcus Munitions."
+        },
+        {
+          "name": "Epische Kiste",
+          "cost": "3 epische Schlüssel",
+          "reward": "Epische Ausrüstung",
+          "note": "Höherwertige Kiste, die epische Schlüssel erfordert."
+        },
+        {
+          "name": "Legendäre Kiste",
+          "cost": "5 legendäre Schlüssel-Fragmente",
+          "reward": "Legendäre Ausrüstung",
+          "note": "Spitzenkiste in Borderlands Mobile Marcus Munitions."
+        },
+        {
+          "name": "Marcus Munitions Stufe 2",
+          "cost": "Schiffsteile",
+          "reward": "Fügt der kostenlosen Kiste seltene Waffen hinzu",
+          "note": "Verbessere Marcus Munitions vom Schiff aus auf Stufe 2, um den Zyklus der kostenlosen Kiste zu optimieren."
+        },
+        {
+          "name": "Legendary Collection",
+          "cost": "Erhalte die erste legendäre Ausrüstung",
+          "reward": "Zugriff auf das Legendary Collection-Event",
+          "note": "Zeigt, wie und wo man verschiedene Teile legendärer Ausrüstung in Borderlands Mobile erhält."
+        }
+      ]
+    },
+    "borderlandsMobileTowerOfTerrorGuide": {
+      "eyebrow": "Challenge Mode",
+      "title": "Borderlands Mobile Tower of Terror Guide",
+      "subtitle": "Push through enemy floors, spend tickets wisely, and turn repeat clears into Ship Parts. This mode is built for steady ship progression and daily ranking rewards.",
+      "intro": "Tower of Terror is a single-player challenge mode found from the Travel button on the HQ screen. You clear every enemy on a floor to move forward, spend one Ticket per entry, and can replay completed floors for standard rewards or use Quick Play when you need a fast farm run.",
+      "items": [
+        {
+          "title": "How to Access the Mode",
+          "summary": "Open the HQ screen, tap Travel, and choose Tower of Terror from the list of game modes.",
+          "bullets": [
+            "Tower of Terror appears in the Travel menu on the HQ screen.",
+            "It is a single-player mode.",
+            "You advance by killing all enemies on the current floor."
+          ]
+        },
+        {
+          "title": "Tickets and Floor Entry",
+          "summary": "Every attempt costs a Ticket, including repeat clears and Quick Play runs.",
+          "bullets": [
+            "Each floor requires a Ticket to enter.",
+            "Replaying a completed floor also consumes a Ticket.",
+            "Quick Play can be used on previously completed floors for instant standard rewards."
+          ]
+        },
+        {
+          "title": "Rewards and Ship Parts",
+          "summary": "The mode is one of the main places to grind Ship Parts and first-clear milestone rewards.",
+          "bullets": [
+            "The mode is recommended for farming Ship Parts.",
+            "Certain floors grant special rewards from Tina on first completion.",
+            "Quick Play grants standard rewards only, not first-clear special rewards."
+          ]
+        },
+        {
+          "title": "Leaderboard and Daily Reset",
+          "summary": "Your ranking updates as you climb, and daily leaderboard rewards are delivered the next day.",
+          "bullets": [
+            "Leaderboards show your standing, the top players, and the highest floors reached.",
+            "Your current standing also appears on the floor summary screen.",
+            "The leaderboard resets daily.",
+            "Top-ranked Vault Hunters receive rewards after logging in the next day."
+          ]
+        },
+        {
+          "title": "What Players on This Floor Means",
+          "summary": "That floor count is informational only and does not create multiplayer combat inside the tower.",
+          "bullets": [
+            "The player count only shows that other players reached the same floor.",
+            "You do not play with or against those players inside the floor."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileCircleOfSlaughterGuide": {
+      "eyebrow": "Survival Mode",
+      "title": "Borderlands Mobile Circle of Slaughter Guide",
+      "subtitle": "This survival mode opens after its timer ends and lets you fight enemy waves for repeatable loot runs. It is one of the cleanest ways to target Gear and Mods without paying an entry fee.",
+      "intro": "Circle of Slaughter is a challenge mode placed in Mode Selection right next to Tower of Terror. Once the event unlocks, you can enter freely and survive as many waves as possible to improve your reward chances.",
+      "items": [
+        {
+          "title": "How the Mode Unlocks",
+          "summary": "The event becomes available after its countdown finishes.",
+          "bullets": [
+            "Circle of Slaughter unlocks after the timer ends.",
+            "You can find it in Mode Selection next to Tower of Terror."
+          ]
+        },
+        {
+          "title": "How the Mode Works",
+          "summary": "The goal is simple: survive wave after wave for as long as possible.",
+          "bullets": [
+            "You fight waves of enemies in a survival challenge.",
+            "Longer survival improves your reward chances."
+          ]
+        },
+        {
+          "title": "Current Stage Count",
+          "summary": "At the moment, the mode has a limited set of playable levels.",
+          "bullets": [
+            "There are currently 2 levels in Circle of Slaughter.",
+            "More levels are planned to be added later."
+          ]
+        },
+        {
+          "title": "Rewards and Farming Value",
+          "summary": "The mode is built for repeat runs because entry is free and reward chances scale with survival.",
+          "bullets": [
+            "There is no entrance fee.",
+            "You can replay the mode as many times as you want.",
+            "Surviving more waves gives higher chances to win Gear and Mods."
+          ]
+        },
+        {
+          "title": "If the Event Does Not Open",
+          "summary": "Close the game and reload to resolve the timer-expiry unlock issue.",
+          "bullets": [
+            "If the event does not unlock when the timer expires, close the game.",
+            "Reloading the game resolves the unlock issue."
+          ]
+        }
+      ]
+    },
+    "borderlandsMobileShipUpgradeGuide": {
+      "eyebrow": "Ship Progression",
+      "title": "Borderlands Mobile Ship Upgrade Guide",
+      "subtitle": "Ship upgrades connect several of Borderlands Mobile's long-term systems. Spend Ship Parts to grow the ship, unlock new allies and rooms, and improve what your account earns over time.",
+      "intro": "You unlock the Ship feature during the initial playthrough, and it appears on the upper-right side of the screen. Ship Parts are the core upgrade resource, and room upgrades can unlock new modes, improve passive finds, and strengthen shop rewards.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Unlock the Ship",
+          "details": "Progress through the initial playthrough to unlock the Ship feature, then open it from the upper-right side of the screen."
+        },
+        {
+          "step": 2,
+          "title": "Spend Ship Parts",
+          "details": "Use collected Ship Parts to upgrade the ship, meet new allies, and unlock additional rooms."
+        },
+        {
+          "step": 3,
+          "title": "Use Rooms for Buffs",
+          "details": "Upgraded rooms provide buffs and increase your ship's overall power."
+        },
+        {
+          "step": 4,
+          "title": "Bridge Level 2 Unlock",
+          "details": "Upgrading the Bridge to level 2 unlocks Tiny Tina's Tower of Terror."
+        },
+        {
+          "step": 5,
+          "title": "Scavenger Hunt Level 2 Upgrade",
+          "details": "Upgrading Scavenger Hunt to level 2 adds Parts and Fillers to the items that Vaughn finds for you."
+        },
+        {
+          "step": 6,
+          "title": "Marcus Munitions Level 2 Upgrade",
+          "details": "Upgrading Marcus Munitions to level 2 adds Rare Weapons to the store's Free Chest."
+        }
+      ]
+    },
+    "borderlandsMobileBattlePassGuide": {
+      "eyebrow": "Saison-System",
+      "title": "Borderlands Mobile Battle Pass Guide",
+      "subtitle": "Der Battle Pass ist eine saisonale Fortschrittsebene mit separaten kostenlosen und Premium-Belohnungspfaden. Dein Fortschritt wird durch tägliche und wöchentliche Herausforderungen vorangetrieben, daher ist der regelmäßige Abschluss von Aufgaben der Schlüssel zum Aufstieg in den Rängen.",
+      "intro": "Öffne den Battle Pass über die Schaltfläche auf der linken Seite des HQ-Bildschirms. Jede Saison hat einen zeitlich begrenzten Belohnungspfad, und Battle Pass-Punkte werden durch den Abschluss von Herausforderungen verdient, nicht allein durch passives Einloggen.",
+      "phases": [
+        {
+          "phase": "Zugriff",
+          "title": "Öffne den Battle Pass",
+          "details": "Der Zugriff auf den Battle Pass erfolgt über die Battle Pass-Schaltfläche auf der linken Seite des HQ-Bildschirms."
+        },
+        {
+          "phase": "Saison",
+          "title": "Folge den zwei Belohnungspfaden",
+          "details": "Jede Saison umfasst zwei Belohnungsstufen: Free Pass und Ultimate Pass."
+        },
+        {
+          "phase": "Fortschritt",
+          "title": "Verdiene Battle Pass-Punkte",
+          "details": "Battle Pass-Punkte werden durch das Abschließen von täglichen und wöchentlichen Herausforderungen verdient, die dein Battle Pass-Level erhöhen und dich auf dem Belohnungspfad voranbringen."
+        },
+        {
+          "phase": "Herausforderungen",
+          "title": "Nutze den Aufgabenzyklus effizient",
+          "details": "Tägliche Aufgaben müssen innerhalb von 24 Stunden abgeschlossen werden. Wöchentliche Aufgaben laufen innerhalb der aktuellen Woche, schalten jeden Tag neue Herausforderungen frei und haben ihre eigenen Belohnungen."
+        },
+        {
+          "phase": "Premium",
+          "title": "Verstehe den Ultimate Pass",
+          "details": "Der Ultimate Pass schaltet den Premium-Belohnungspfad durch In-App-Käufe frei und gewährt zusätzliche Belohnungen, die deinem aktuellen Battle Pass-Fortschritt entsprechen."
+        },
+        {
+          "phase": "Beanspruchen",
+          "title": "Level nach dem Kauf weiter auf",
+          "details": "Der Kauf des Ultimate Pass schließt den Pfad nicht automatisch ab. Du musst weiterhin Battle Pass-Punkte verdienen, um höhere Stufen auf beiden Belohnungspfaden freizuschalten."
         }
       ]
     }
@@ -790,177 +818,197 @@
   "faq": {
     "title": "Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Häufige Fragen zu Borderlands Mobile für neue Vault Hunters",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
-        "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
+        "question": "Ist Borderlands Mobile kostenlos spielbar?",
+        "answer": "Ja. Borderlands Mobile ist ein kostenloser Download im App Store, für den kein Vorabkauf erforderlich ist."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Welche Geräte unterstützen Borderlands Mobile?",
+        "answer": "Borderlands Mobile ist derzeit nur für iPhone verfügbar. Ein iPhone 11 oder neuer wird für das beste Erlebnis empfohlen. Das Spiel ist nicht für Tablets oder iPads optimiert."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
-        "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
+        "question": "Ist Borderlands Mobile für Android verfügbar?",
+        "answer": "Die Unterstützung für Android wurde noch nicht angekündigt. Die aktuelle Veröffentlichung ist im Rahmen eines zeitlich begrenzten Tests auf das iPhone beschränkt."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
-        "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
+        "question": "Wie groß ist der Download von Borderlands Mobile?",
+        "answer": "Borderlands Mobile benötigt etwa 2,9 GB Speicherplatz. Stelle sicher, dass du genügend Platz hast, bevor du es aus dem App Store herunterlädst."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
-        "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
+        "question": "Welche iOS-Version benötigt Borderlands Mobile?",
+        "answer": "Borderlands Mobile erfordert iOS 18.0 oder höher. Aktualisiere dein iPhone auf die neueste iOS-Version für die beste Kompatibilität."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wie steige ich in Borderlands Mobile im Level auf?",
+        "answer": "Dein Vault Hunter erhält EP durch das Abschließen von Missionen und das Besiegen von Feinden im Kampagnenmodus. Jedes Level erhöht dauerhaft deinen Power-Score und deine maximalen LP."
       }
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
-    "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "title": "Bereit, ein paar Vaults zu jagen?",
+    "description": "Tritt der Borderlands-Community bei und lade Borderlands Mobile auf das iPhone herunter, um deine Reise als Vault Hunter zu beginnen!",
+    "joinCommunity": "Community beitreten",
+    "joinGame": "Im App Store herunterladen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "Borderlands Mobile Wiki",
+    "description": "Deine vollständige Ressourcen-Zentrale für Borderlands Mobile: iOS-Download, Release-Updates, Vault Hunters, Waffen, Missionen und Android-Status.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
-    "discord": "Discord",
+    "discord": "Community",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "App Store",
     "about": "Über uns",
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "copyright": "© 2026 Borderlands Mobile Wiki. Nicht verbunden mit 2K Games oder Gearbox Software.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Ressourcen-Website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Leitfäden",
-      "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
-      "categoryLabel": "SPIEL-LEITFÄDEN",
-      "whatIs": "Was sind Leitfäden?",
-      "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
-      "why": "Warum Leitfäden lesen?",
+    "release": {
+      "title": "Borderlands Mobile Release",
+      "description": "Vollständiger Zeitplan des Borderlands Mobile-Launches – Überraschungs-Drop, zeitlich begrenzter Test, regionale Verfügbarkeit, Free-to-Play-Modell und was als Nächstes kommt.",
+      "metaTitle": "Borderlands Mobile Release – Launch-Zeitplan, Status & Regional-Infos",
+      "metaDescription": "Verfolge den Borderlands Mobile-Release: Überraschender iPhone-Launch, Status des zeitlich begrenzten Tests, Free-to-Play-Modell, regionale Verfügbarkeit und zukünftige Rollout-Updates.",
+      "categoryLabel": "RELEASE-INFO",
+      "whatIs": "Was ist der Borderlands Mobile Release?",
+      "whatIsDescription": "Borderlands Mobile wurde Anfang 2026 als überraschender Free-to-Play-Titel für das iPhone veröffentlicht, beginnend mit einem zeitlich begrenzten Test. Dieser Abschnitt verfolgt den vollständigen Launch-Zeitplan, die Verfügbarkeit nach Regionen, Updates zum Teststatus und was Gearbox und Zynga über den zukünftigen Zugang bestätigt haben.",
+      "why": "Warum sollte man das lesen?",
       "whySteps": {
-        "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehen Sie das Apotheosis-System und vermeiden Sie häufige Anfängerfehler",
-        "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folgen Sie bewährten Pfaden, um in der surrealen Welt zu überleben und erfolgreich zu sein",
-        "step3Title": "Strategien meistern",
-        "step3Description": "Entwickeln Sie fortgeschrittene Taktiken für Erkundung und Handwerk"
+        "step1Title": "Verfolge den aktuellen Release-Status",
+        "step1Description": "Bestätige, ob Borderlands Mobile live ist, sich in einem begrenzten Test befindet oder derzeit in deiner Region nicht verfügbar ist.",
+        "step2Title": "Verstehe den Kontext des Überraschungs-Launches",
+        "step2Description": "Erfahre, warum Borderlands Mobile ohne traditionelle Ankündigung veröffentlicht wurde und was das für die langfristige Verfügbarkeit bedeutet.",
+        "step3Title": "Folge den Neuigkeiten zum zukünftigen Rollout",
+        "step3Description": "Bleibe auf dem Laufenden, wann der zeitlich begrenzte Test endet, über Android-Launch-Pläne und Updates zur dauerhaften Verfügbarkeit."
       },
       "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Leitfäden"
+      "all": "Alle Release-Artikel"
     },
-    "crafting": {
-      "title": "Lucid Blocks Handwerk",
-      "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
-      "categoryLabel": "HANDWERKSSYSTEM",
-      "whatIs": "Was ist Handwerk?",
-      "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
-      "why": "Warum Handwerk meistern?",
+    "setup": {
+      "title": "Borderlands Mobile Einrichtung",
+      "description": "Download-Schritte, App Store-Zugriff, iOS-Anforderungen, Gerätekompatibilität und Installationsgröße für Borderlands Mobile.",
+      "metaTitle": "Borderlands Mobile Einrichtung - Download, Installation & iOS-Anforderungen",
+      "metaDescription": "Borderlands Mobile auf dem iPhone einrichten: App Store Download-Schritte, iOS-Versionsanforderungen, Gerätekompatibilität, Installationsgröße und Tipps zum ersten Start.",
+      "categoryLabel": "EINRICHTUNGS-GUIDE",
+      "whatIs": "Was ist der Einrichtungs-Guide?",
+      "whatIsDescription": "Der Borderlands Mobile Einrichtungs-Guide deckt alles ab, was Sie vor dem Start des Spiels benötigen – das Finden des App Store-Eintrags, das Überprüfen der iOS- und Geräteanforderungen, die Speicherverwaltung und das problemlose Durchführen des ersten Downloads.",
+      "why": "Warum sollten Sie dies lesen?",
       "whySteps": {
-        "step1Title": "Mächtige Gegenstände freischalten",
-        "step1Description": "Entdecken Sie essenzielle Werkzeuge, Waffen und Mobilitätsausrüstung durch Fusion",
-        "step2Title": "Essenzen verstehen",
-        "step2Description": "Lernen Sie, wie Gegenstandsessenzen kombiniert werden, um vorhersehbare Ergebnisse zu erzielen",
-        "step3Title": "Ressourcen optimieren",
-        "step3Description": "Nutzen Sie Verdünnungsmechaniken, um den Ertrag aus günstigen Materialien zu maximieren"
+        "step1Title": "Das Spiel finden und herunterladen",
+        "step1Description": "Finden Sie die offizielle Borderlands Mobile App Store-Seite und bestätigen Sie, dass der Download in Ihrer Region verfügbar ist.",
+        "step2Title": "Geräte- und iOS-Kompatibilität prüfen",
+        "step2Description": "Überprüfen Sie vor dem Download, ob Ihr iPhone-Modell und Ihre iOS-Version die Mindestanforderungen erfüllen.",
+        "step3Title": "Speicherplatz vorbereiten",
+        "step3Description": "Stellen Sie sicher, dass Sie mindestens 2,9 GB freien Speicherplatz haben, um die Installation ohne Unterbrechung abzuschließen."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Handwerks-Leitfäden"
+      "featured": "Hervorgehoben & Wichtig",
+      "all": "Alle Einrichtungs-Artikel"
     },
-    "items": {
-      "title": "Lucid Blocks Gegenstände",
-      "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
-      "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
-      "whatIs": "Was sind Gegenstände?",
-      "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
-      "why": "Warum Gegenstands-Leitfäden lesen?",
+    "ios": {
+      "title": "Borderlands Mobile iOS",
+      "description": "iPhone-Leistungsdaten für Borderlands Mobile – FPS-Tests, Wärmeentwicklung, Akkuverbrauch und Benchmarks für einzelne Geräte.",
+      "metaTitle": "Borderlands Mobile iOS - iPhone-Leistung, FPS- & Akku-Tests",
+      "metaDescription": "Borderlands Mobile iOS Leistungsanalyse: FPS-Benchmarks auf iPhone 15 Pro und XR, Wärmeentwicklung, Akkuverbrauch und gerätespezifische Tipps.",
+      "categoryLabel": "iOS-LEISTUNG",
+      "whatIs": "Was sind die Borderlands Mobile iOS-Guides?",
+      "whatIsDescription": "Diese Artikel enthalten Leistungsdaten von echten Geräten für Borderlands Mobile auf dem iPhone – einschließlich FPS-Messungen, Wärmeentwicklung bei längeren Sitzungen, Akkuverbrauch und wie verschiedene iPhone-Modelle mit der Cel-Shading-Grafik-Engine des Spiels umgehen.",
+      "why": "Warum sollten Sie dies lesen?",
       "whySteps": {
-        "step1Title": "Handwerksrezepte lernen",
-        "step1Description": "Entdecken Sie, wie Sie essenzielle Werkzeuge und Waffen mit Apotheosis herstellen",
-        "step2Title": "Ausrüstung optimieren",
-        "step2Description": "Wählen Sie die besten Gegenstände für Ihren Spielstil und Ihre Fortschrittsstufe",
-        "step3Title": "Überleben verbessern",
-        "step3Description": "Rüsten Sie Mobilitätsausrüstung und Waffen aus, um durch die gefährliche Welt zu navigieren"
+        "step1Title": "Geräteleistung prüfen",
+        "step1Description": "Sehen Sie, wie Ihr spezifisches iPhone-Modell mit Borderlands Mobile vor oder nach dem Download umgeht.",
+        "step2Title": "Auswirkungen auf Wärme und Akku verstehen",
+        "step2Description": "Erfahren Sie, wie lange Sie spielen können, bevor Ihr Gerät heiß wird oder der Akku deutlich sinkt.",
+        "step3Title": "Einstellungen optimieren",
+        "step3Description": "Nutzen Sie Benchmark-Daten, um Grafikeinstellungen zu wählen, die Leistung und Gerätezustand in Einklang bringen."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Gegenstände"
+      "featured": "Hervorgehoben & Wichtig",
+      "all": "Alle iOS-Artikel"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biome",
-      "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
-      "categoryLabel": "WELTREGIONEN",
-      "whatIs": "Was sind Biome?",
-      "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
-      "why": "Warum Biome erkunden?",
+    "android": {
+      "title": "Borderlands Mobile Android",
+      "description": "Aktueller Android-Verfügbarkeitsstatus, warum Borderlands Mobile zuerst auf dem iPhone erschienen ist und wie man den zukünftigen Android-Zugang verfolgt.",
+      "metaTitle": "Borderlands Mobile Android - Release-Status & was wir wissen",
+      "metaDescription": "Borderlands Mobile Android-Status: Warum das Spiel zuerst für das iPhone erschienen ist, aktuelle Android-Verfügbarkeit und was über die zukünftige Plattformunterstützung bestätigt wurde.",
+      "categoryLabel": "ANDROID-STATUS",
+      "whatIs": "Was ist der Borderlands Mobile Android-Guide?",
+      "whatIsDescription": "Borderlands Mobile wurde exklusiv auf dem iPhone als zeitlich begrenzter Test veröffentlicht, sodass Android-Spieler warten müssen. Dieser Abschnitt erklärt den aktuellen Android-Status, warum der iPhone-zuerst-Ansatz gewählt wurde und wo offizielle Updates zur Android-Verfügbarkeit zu finden sind.",
+      "why": "Warum sollten Sie dies lesen?",
       "whySteps": {
-        "step1Title": "Ressourcen finden",
-        "step1Description": "Finden Sie seltene Materialien und Essenzen, die spezifisch für jede Region sind",
-        "step2Title": "Gefahren vermeiden",
-        "step2Description": "Verstehen Sie Umweltgefahren und feindselige Kreaturen",
-        "step3Title": "Erkundung planen",
-        "step3Description": "Bereiten Sie die richtigen Werkzeuge und Ausrüstung für jeden Biom-Typ vor"
+        "step1Title": "Aktuellen Android-Status bestätigen",
+        "step1Description": "Erhalten Sie eine klare Antwort darauf, ob Borderlands Mobile derzeit auf Android verfügbar ist.",
+        "step2Title": "Die iPhone-zuerst-Entscheidung verstehen",
+        "step2Description": "Erfahren Sie, warum der zeitlich begrenzte Test exklusiv auf dem iPhone gestartet wurde und was das für Android-Spieler bedeutet.",
+        "step3Title": "Android-Release-News verfolgen",
+        "step3Description": "Wissen Sie, wo Sie offizielle Gearbox- und Zynga-Updates zur Android-Verfügbarkeit verfolgen können."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Biome"
+      "featured": "Hervorgehoben & Wichtig",
+      "all": "Alle Android-Artikel"
     },
-    "building": {
-      "title": "Lucid Blocks Bauen",
-      "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
-      "categoryLabel": "BAUEN & BASEN",
-      "whatIs": "Was ist Bauen?",
-      "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
-      "why": "Warum Basen bauen?",
+    "guide": {
+      "title": "Borderlands Mobile Guide",
+      "description": "Vollständige Guides für Borderlands Mobile – Gameplay-Grundlagen, Walkthrough, Klassen-Tipps, Waffen und Missionsfortschritt.",
+      "metaTitle": "Borderlands Mobile Guide - Gameplay, Walkthrough & Tipps",
+      "metaDescription": "Borderlands Mobile-Guides zu Gameplay-Grundlagen, Kampagnen-Walkthrough, Klassen-Tipps, Waffentypen, Power Score und Missionsfortschritt für Vault Hunters.",
+      "categoryLabel": "GAMEPLAY-GUIDE",
+      "whatIs": "Was sind die Borderlands Mobile-Guides?",
+      "whatIsDescription": "Diese Guides decken jedes Kernsystem in Borderlands Mobile ab – den Kampagnen-Walkthrough, den Klassen- und Skill-Fortschritt, Waffentypen, Power Score-Mechaniken und wie man das Beste aus jedem Spielmodus herausholt. Egal, ob Sie gerade erst anfangen oder End-Game-Inhalte angehen, diese Guides erklären, wie die Systeme zusammenpassen.",
+      "why": "Warum sollten Sie dies lesen?",
       "whySteps": {
-        "step1Title": "Sichere Räume schaffen",
-        "step1Description": "Errichten Sie sichere Basen für Lagerung und Handwerksarbeiten",
-        "step2Title": "Ressourcen verwalten",
-        "step2Description": "Organisieren Sie Materialien effizient mit Lagerlösungen",
-        "step3Title": "Qualia freischalten",
-        "step3Description": "Greifen Sie auf persönliche Taschendimensionen für ultimativen Komfort zu"
+        "step1Title": "Den Kern-Gameplay-Loop lernen",
+        "step1Description": "Verstehen Sie, wie Kampagne, Missionen, XP und Power Score in Borderlands Mobile zusammenhängen.",
+        "step2Title": "Dem Kampagnen-Walkthrough folgen",
+        "step2Description": "Erhalten Sie eine kapitelweise Anleitung durch Pandora, um Sackgassen und verpasste Ziele zu vermeiden.",
+        "step3Title": "Bauen Sie Ihren Vault Hunter effektiv auf",
+        "step3Description": "Verstehen Sie Klassen-Skills, Waffen-Seltenheit und Ausrüstungs-Upgrades, um schneller voranzukommen und schwierigere Missionen zu bewältigen."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Bau-Leitfäden"
+      "featured": "Hervorgehoben & Wichtig",
+      "all": "Alle Guide-Artikel"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
-      "categoryLabel": "TECHNISCHER SUPPORT",
-      "whatIs": "Was ist Support?",
-      "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",
-      "why": "Warum Support prüfen?",
+    "apk": {
+      "title": "Borderlands Mobile APK",
+      "description": "APK-Verfügbarkeit, Sideloading-Optionen, Gerätekompatibilität für ältere Android-Telefone und was man vor inoffiziellen Installationen wissen sollte.",
+      "metaTitle": "Borderlands Mobile APK - Sideload-Optionen & Gerätekompatibilität",
+      "metaDescription": "Borderlands Mobile APK-Leitfaden: Sideloading-Optionen, Android-Gerätekompatibilität, Note 9 Performance und was man vor einer inoffiziellen Installation wissen sollte.",
+      "categoryLabel": "APK-LEITFADEN",
+      "whatIs": "Was ist der Borderlands Mobile APK-Leitfaden?",
+      "whatIsDescription": "Da Borderlands Mobile nur für das iPhone veröffentlicht wurde, suchen viele Android-Spieler nach APK-Sideloading-Optionen. Diese Artikel behandeln die existierenden APK-Optionen, welche Android-Geräte getestet wurden, bekannte Performance-Ergebnisse und wichtige Dinge, die man vor einer inoffiziellen Installation verstehen sollte.",
+      "why": "Warum sollte man das lesen?",
       "whySteps": {
-        "step1Title": "Technische Probleme beheben",
-        "step1Description": "Beheben Sie Abstürze, Leistungsprobleme und Kompatibilitätsprobleme",
-        "step2Title": "Leistung optimieren",
-        "step2Description": "Konfigurieren Sie Einstellungen für das beste Erlebnis auf Ihrer Plattform",
-        "step3Title": "Plattformkompatibilität",
-        "step3Description": "Erfahren Sie mehr über Steam Deck, Controller-Unterstützung und Systemanforderungen"
+        "step1Title": "APK-Verfügbarkeit verstehen",
+        "step1Description": "Erfahren Sie, welche APK-Optionen derzeit für Borderlands Mobile existieren und welche eine Überlegung wert sind.",
+        "step2Title": "Gerätekompatibilität prüfen",
+        "step2Description": "Sehen Sie, welche Android-Geräte wie das Note 9 getestet wurden und welche Performance zu erwarten ist.",
+        "step3Title": "Risiken und Einschränkungen kennen",
+        "step3Description": "Verstehen Sie, was inoffizielle Installationen können und was nicht, bevor Sie Zeit in das Sideloading investieren."
       },
       "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Support-Artikel"
+      "all": "Alle APK-Artikel"
+    },
+    "similar": {
+      "title": "Ähnliche Spiele wie Borderlands Mobile",
+      "description": "Mobile Spiele ähnlich wie Borderlands Mobile — Looter-Shooter, Cel-Shading-Actionspiele und RPG-Shooter, die das Warten wert sind.",
+      "metaTitle": "Spiele wie Borderlands Mobile - Die besten ähnlichen Mobile-Shooter",
+      "metaDescription": "Finden Sie Spiele ähnlich wie Borderlands Mobile: Mobile Looter-Shooter, Cel-Shading-RPGs und Actionspiele mit vergleichbaren Gameplay-Loops auf iOS und Android.",
+      "categoryLabel": "ÄHNLICHE SPIELE",
+      "whatIs": "Was sind ähnliche Spiele wie Borderlands Mobile?",
+      "whatIsDescription": "Wenn Ihnen der Cel-Shading-Looter-Shooter-Stil von Borderlands Mobile gefällt, empfehlen diese Artikel die besten mobilen Alternativen — einschließlich Spielen mit vergleichbaren Loot-Systemen, RPG-Fortschritt und Action-Kämpfen. Alle Empfehlungen sind auf iOS und die meisten auch auf Android verfügbar.",
+      "why": "Warum sollte man das lesen?",
+      "whySteps": {
+        "step1Title": "Spiele finden, die man jetzt spielen kann",
+        "step1Description": "Entdecken Sie mobile Looter-Shooter und RPG-Shooter, die Sie spielen können, während Sie auf die Erweiterung von Borderlands Mobile warten.",
+        "step2Title": "Gameplay-Stile vergleichen",
+        "step2Description": "Sehen Sie, wie ähnliche Spiele im Vergleich zu den Loot-, Kampf- und Fortschrittssystemen von Borderlands Mobile abschneiden.",
+        "step3Title": "Verborgene Schätze entdecken",
+        "step3Description": "Finden Sie weniger bekannte Cel-Shading- und Looter-Shooter-Spiele, die dem Borderlands Mobile-Erlebnis entsprechen."
+      },
+      "featured": "Hervorgehoben & Essenziell",
+      "all": "Alle Artikel über ähnliche Spiele"
     }
   }
 }

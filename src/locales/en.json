@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "description": "Borderlands Mobile hub for iOS download steps, release date, gameplay basics, weapons, missions, and Android status in one clean guide for new Vault Hunters.",
+      "keywords": "Borderlands Mobile, iOS, release date, download, gameplay, weapons, missions, Android",
+      "ogTitle": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "ogDescription": "Borderlands Mobile hub for iOS download steps, release date, gameplay basics, weapons, missions, and Android status in one clean guide for new Vault Hunters.",
+      "twitterTitle": "Borderlands Mobile - iOS Download, Release Date & Guide",
+      "twitterDescription": "Borderlands Mobile hub for iOS download, release date, gameplay basics, weapons, missions, and Android status for new Vault Hunters."
     }
   },
   "nav": {
@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Free-to-Play iPhone Looter Shooter",
+    "title": "Borderlands Mobile",
+    "description": "A fast-entry Borderlands hub focused on iPhone launch access, release updates, mission modes, loot basics, and future Android rollout tracking.",
+    "getFreeCodesCTA": "Download on iPhone",
+    "playOnSteamCTA": "Official Site",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "4.2/5",
+        "label": "User Rating"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "99",
+        "label": "Ratings"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "2.9 GB",
+        "label": "App Size"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Free",
+        "label": "Price"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Hunt Some Vaults?",
+    "description": "Join the Borderlands community and download Borderlands Mobile on iPhone to start your Vault Hunter journey!",
+    "joinCommunity": "Join Community",
+    "joinGame": "Download on App Store"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Borderlands Mobile Wiki",
+    "description": "Your complete resource hub for Borderlands Mobile: iOS download, release updates, Vault Hunters, weapons, missions, and Android status.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Community",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "App Store",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Borderlands Mobile Wiki. Not affiliated with 2K Games or Gearbox Software.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

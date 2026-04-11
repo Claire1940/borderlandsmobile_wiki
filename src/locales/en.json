@@ -51,728 +51,234 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Borderlands Mobile Gameplay",
+    "description": "Jump into a cel-shaded looter shooter on iPhone. Run Campaign missions, level up your Vault Hunter, collect weapons across five rarity tiers, and push your Power Score higher as you conquer Pandora."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Borderlands Mobile",
+    "titleHighlight": "Guides",
+    "subtitle": "Essential guides for new Vault Hunters — download, beginner tips, class overview, and controls",
     "cards": [
       {
+        "icon": "Download",
+        "title": "Borderlands Mobile Download Guide",
+        "description": "Where to download, device requirements, and current status"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Borderlands Mobile Beginner Guide",
+        "description": "First steps, Campaign loop, and Power Score explained"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Users",
+        "title": "Borderlands Mobile Summoner Class Guide",
+        "description": "Summoner identity, Action Skill, and skill progression"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Keyboard",
+        "title": "Borderlands Mobile Controls Guide",
+        "description": "Touch layout, ADS, autofire, and combat tips"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "borderlandsMobileDownloadAndDeviceRequirements": {
+      "title": "Download Borderlands Mobile and Check iPhone Requirements",
+      "eyebrow": "Getting Started",
+      "subtitle": "Fastest scan block for new players: platform, device specs, install size, and current status at a glance.",
+      "intro": "Borderlands Mobile is available on the App Store as a free iPhone release from Zynga. The game is currently in a limited-time test, recommends playing on iPhone 11 or newer, and is not optimized for tablets or iPads.",
+      "items": [
+        {
+          "label": "Store listing",
+          "value": "App Store — Borderlands Mobile"
+        },
+        {
+          "label": "Price",
+          "value": "Free"
+        },
+        {
+          "label": "Current status",
+          "value": "Limited-time test"
+        },
+        {
+          "label": "Supported device",
+          "value": "iPhone only"
+        },
+        {
+          "label": "Operating system",
+          "value": "iOS 18.0 or later required"
+        },
+        {
+          "label": "Recommended phone",
+          "value": "iPhone 11 or newer"
+        },
+        {
+          "label": "Tablet support",
+          "value": "Not optimized for tablets or iPads"
+        },
+        {
+          "label": "App size",
+          "value": "2.9 GB"
+        },
+        {
+          "label": "Language",
+          "value": "English"
+        },
+        {
+          "label": "Core genre",
+          "value": "Action looter shooter"
+        }
+      ]
+    },
+    "borderlandsMobileBeginnerGuide": {
+      "title": "Your First Hours in Borderlands Mobile",
+      "eyebrow": "Starter Path",
+      "subtitle": "Organize the early-game loop into clear actions — Campaign, XP, and Power Score checks that matter most when missions get harder.",
+      "intro": "The cleanest early-game route is to enter Campaign, push Main Missions first, collect Side Missions as they unlock, and keep your level and gear moving together. Watch your Power Score instead of pushing blindly.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Open Travel and enter Campaign",
+          "description": "Tap the Travel button, then choose Campaign to begin your journey through Pandora."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Push Main Missions first",
+          "description": "Main Missions drive the chapter storyline and are the clearest way to move progression forward."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Pick up Side Missions when they appear",
+          "description": "Side Missions unlock as you progress through chapters and offer optional objectives with extra rewards."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Farm XP in Campaign mode",
+          "description": "Your Vault Hunter gains XP by completing missions and defeating enemies. You can level up in real time while still in the field."
+        },
+        {
+          "title": "Use level-ups to stay durable",
+          "description": "Each higher level permanently increases your Vault Hunter's Power Score and Max HP, and unlocks better rewards from Vaughn's Adventure."
+        },
+        {
+          "title": "Check Power Score before hard missions",
+          "description": "Power Score rises as you level up and equip stronger gear. Missions show a recommended minimum Power Score — staying close makes progression smoother."
+        },
+        {
+          "title": "Replay cleared stages for Star Challenges",
+          "description": "After completing several chapters, Star Challenge unlocks on finished missions and adds up to three extra challenges per mission for more rewards."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Campaign is also the primary XP source — stay in it for the first few hours.",
+        "Power Score is the most important early progression number to watch.",
+        "Side Missions are optional but give extra gear and XP.",
+        "Star Challenges extend replay value once you have cleared the main stages."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "borderlandsMobileSummonerClassGuide": {
+      "title": "How the Borderlands Mobile Summoner Class Works",
+      "eyebrow": "Class Guide",
+      "subtitle": "Understand what the Summoner does, its Action Skill, and how the skill system opens up from level 8.",
+      "intro": "Summoner is the only available class in the current Borderlands Mobile build. The class centers on phase-energy beast summoning and opens a full skill system at level 8 with room for future class expansions.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "title": "Only available class",
+          "body": "Summoner is the sole playable class in the current Borderlands Mobile build."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "title": "Class identity",
+          "body": "The Summoner wields phase energy to summon beasts that fight alongside you in battle."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "title": "Action Skill: Good Boy!",
+          "body": "Summons Nigel — a companion beast — for a limited time to fight alongside you."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "title": "Skills unlock at level 8",
+          "body": "The full skill tree becomes available at level 8, giving access to stat upgrades and ability unlocks."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "title": "How Skill Points work",
+          "body": "Every level-up grants one Skill Point. Spend points to increase stats and unlock or upgrade skills tied to your equipped class."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "title": "Loadout flexibility",
+          "body": "Unlocked Shared skills from different classes can be mixed into your active loadout."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "title": "Future expansion",
+          "body": "Additional classes and customization options are planned for upcoming Borderlands Mobile updates."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "borderlandsMobileControlsGuide": {
+      "title": "Learn the Borderlands Mobile Touch Controls Fast",
+      "eyebrow": "Mobile Combat",
+      "subtitle": "Turn the mobile HUD into a clear first-session walkthrough — movement, aiming, firing, and quick fixes for smoother combat on iPhone.",
+      "intro": "Borderlands Mobile uses a dual-side touch layout: movement on the left, camera control on the right. Once you understand ADS, autofire behavior, and reload timing, the combat loop becomes much less clumsy on phone.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Move on the left, look on the right",
+          "description": "Drag on the left side of the screen to move, and drag on the right side to pan your view."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Use jump aggressively — double jump available",
+          "description": "Tap the jump button on the right side of the screen. Double jump is supported."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Use ADS for focused aiming",
+          "description": "Tap and hold the Aim Down Sight button, then drag to adjust your aim for better accuracy."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Let aiming trigger autofire",
+          "description": "When your reticle is on enemies or targets, the game can shoot automatically while you hold aim."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Switch to manual fire when needed",
+          "description": "Tap the fire button to shoot manually. Autofire can be toggled on or off in Settings."
+        },
+        {
+          "title": "Reload manually between pushes",
+          "description": "Use the reload button to reload by hand. Your Vault Hunter also reloads automatically when the magazine empties."
+        },
+        {
+          "title": "Quick iOS cleanup if controls feel bad",
+          "description": "Check your connection, update from the App Store, and restart the app or device when you run into loading or crashing problems."
         }
+      ],
+      "quickTips": [
+        "ADS significantly improves accuracy — use it whenever you need precision shots.",
+        "Autofire can be turned off in Settings for players who prefer manual trigger control.",
+        "Double jump gives strong vertical advantage in close-quarters encounters.",
+        "Reload manually before entering high-density areas to avoid mid-fight delays."
       ]
     }
   },
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Common questions about Borderlands Mobile for new Vault Hunters",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Is Borderlands Mobile free to play?",
+        "answer": "Yes. Borderlands Mobile is a free download on the App Store with no upfront purchase required."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Which devices support Borderlands Mobile?",
+        "answer": "Borderlands Mobile is currently available on iPhone only. iPhone 11 or newer is recommended for the best experience. The game is not optimized for tablets or iPads."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Is Borderlands Mobile available on Android?",
+        "answer": "Android support has not been announced yet. The current release is limited to iPhone as part of a limited-time test."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How large is the Borderlands Mobile download?",
+        "answer": "Borderlands Mobile requires approximately 2.9 GB of storage. Make sure you have enough space before downloading from the App Store."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What iOS version does Borderlands Mobile require?",
+        "answer": "Borderlands Mobile requires iOS 18.0 or later. Update your iPhone to the latest iOS version for the best compatibility."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How do I level up in Borderlands Mobile?",
+        "answer": "Your Vault Hunter gains XP by completing missions and defeating enemies in Campaign mode. Each level permanently increases your Power Score and Max HP."
       }
     ]
   },
@@ -800,125 +306,149 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "download": {
+      "title": "Borderlands Mobile Download",
+      "description": "Step-by-step download instructions, device requirements, iOS compatibility, and current availability status.",
+      "metaTitle": "Borderlands Mobile Download - iOS Install Guide and Device Requirements",
+      "metaDescription": "Download Borderlands Mobile on iPhone with this step-by-step guide covering App Store install, iOS requirements, file size, and limited-time test status.",
+      "categoryLabel": "DOWNLOAD GUIDE",
+      "whatIs": "What is the Download Guide?",
+      "whatIsDescription": "A complete guide covering how to install Borderlands Mobile on iPhone, compatible devices, iOS requirements, and current availability.",
+      "why": "Why use this guide?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+        "step1Title": "Find the App Store listing",
+        "step1Description": "Locate the official Borderlands Mobile App Store page to download safely.",
+        "step2Title": "Check device compatibility",
+        "step2Description": "Verify your iPhone model and iOS version meet the minimum requirements.",
+        "step3Title": "Manage your storage",
+        "step3Description": "Ensure you have at least 2.9 GB free before starting the download."
+      }
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "release": {
+      "title": "Borderlands Mobile Release Date",
+      "description": "Timeline of the Borderlands Mobile launch, limited-time test status, and region availability updates.",
+      "metaTitle": "Borderlands Mobile Release Date - Launch Timeline and Status",
+      "metaDescription": "Borderlands Mobile release date timeline covering the iPhone limited-time test launch, region availability, and what comes next.",
+      "categoryLabel": "RELEASE INFO",
+      "whatIs": "What is the Release Guide?",
+      "whatIsDescription": "A timeline covering the Borderlands Mobile launch history, current test status, and expected future rollout.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+        "step1Title": "Understand the launch type",
+        "step1Description": "Learn whether the current release is a full launch or a limited-time test.",
+        "step2Title": "Track region availability",
+        "step2Description": "Find out which regions can download Borderlands Mobile right now.",
+        "step3Title": "Follow expansion news",
+        "step3Description": "Stay up to date on when new regions and platforms may receive access."
+      }
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "android": {
+      "title": "Borderlands Mobile Android",
+      "description": "Current Android availability status, why iPhone launched first, and how to track future Android release updates.",
+      "metaTitle": "Borderlands Mobile Android - Release Status and What We Know",
+      "metaDescription": "Borderlands Mobile Android availability status, why the game launched on iPhone first, and what has been confirmed for future platform expansion.",
+      "categoryLabel": "ANDROID STATUS",
+      "whatIs": "What is the Android Guide?",
+      "whatIsDescription": "An overview of Borderlands Mobile Android availability, the current iPhone-only status, and what to expect for Android users.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+        "step1Title": "Understand the current platform status",
+        "step1Description": "Confirm that Android is not yet supported in the current limited-time test.",
+        "step2Title": "Learn why iPhone launched first",
+        "step2Description": "Understand the reasoning behind the iPhone-first limited-time test approach.",
+        "step3Title": "Track Android announcement news",
+        "step3Description": "Know where to follow for official Android launch updates."
+      }
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "beginner": {
+      "title": "Borderlands Mobile Beginner Guide",
+      "description": "First-session tips, Campaign progression, XP farming, and Power Score basics for new Vault Hunters.",
+      "metaTitle": "Borderlands Mobile Beginner Guide - First Steps and Campaign Tips",
+      "metaDescription": "Borderlands Mobile beginner guide covering Campaign mode, how to earn XP, Power Score explained, and Star Challenges for new Vault Hunters.",
+      "categoryLabel": "BEGINNER TIPS",
+      "whatIs": "What is the Beginner Guide?",
+      "whatIsDescription": "A first-session walkthrough covering Campaign mode, XP progression, Power Score tracking, and early efficiency tips.",
+      "why": "Why follow this guide?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+        "step1Title": "Start Campaign correctly",
+        "step1Description": "Learn which missions to prioritize in your first session to avoid early dead ends.",
+        "step2Title": "Build Power Score efficiently",
+        "step2Description": "Understand which actions increase Power Score fastest for smoother mission progression.",
+        "step3Title": "Unlock Star Challenges",
+        "step3Description": "Find out how to access Star Challenges and replay cleared missions for extra rewards."
+      }
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "vault-hunters": {
+      "title": "Borderlands Mobile Vault Hunters",
+      "description": "Playable class overview, Summoner abilities, skill system, and future class expansion plans.",
+      "metaTitle": "Borderlands Mobile Vault Hunters - Summoner Class Guide and Skills",
+      "metaDescription": "Borderlands Mobile Vault Hunter class guide covering the Summoner, Good Boy! Action Skill, skill points, and future class expansion.",
+      "categoryLabel": "CLASS GUIDE",
+      "whatIs": "What are Vault Hunters?",
+      "whatIsDescription": "An overview of the playable Vault Hunter classes in Borderlands Mobile, starting with the Summoner and its phase-energy beast summoning.",
+      "why": "Why read the class guide?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+        "step1Title": "Understand the Summoner",
+        "step1Description": "Learn the Summoner identity, Action Skill, and how it fits the current build.",
+        "step2Title": "Plan your skill points",
+        "step2Description": "Know when skills unlock at level 8 and how to spend points efficiently.",
+        "step3Title": "Prepare for class expansion",
+        "step3Description": "Learn what additional classes and options are planned for future updates."
+      }
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "weapons": {
+      "title": "Borderlands Mobile Weapons",
+      "description": "Weapon types, rarity tiers, legendary loot, and how to upgrade your gear for stronger combat.",
+      "metaTitle": "Borderlands Mobile Weapons - Rarity Guide and Legendary Loot",
+      "metaDescription": "Borderlands Mobile weapons guide covering gun types, five rarity tiers, legendary loot farming, and upgrade paths for Vault Hunters.",
+      "categoryLabel": "WEAPONS GUIDE",
+      "whatIs": "What is the Weapons Guide?",
+      "whatIsDescription": "A complete breakdown of weapon types, rarity tiers, and how to find and upgrade the best gear in Borderlands Mobile.",
+      "why": "Why read the weapons guide?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+        "step1Title": "Learn rarity tiers",
+        "step1Description": "Understand the five rarity levels and how they affect weapon performance.",
+        "step2Title": "Find legendary loot",
+        "step2Description": "Learn which activities drop the highest-rarity weapons most efficiently.",
+        "step3Title": "Upgrade your gear",
+        "step3Description": "Discover how to rank up weapons, grenades, and shields to increase Power Score."
+      }
+    },
+    "missions": {
+      "title": "Borderlands Mobile Missions",
+      "description": "Campaign chapter guide, Main and Side Mission breakdown, and strategies for completing story objectives.",
+      "metaTitle": "Borderlands Mobile Missions - Campaign Guide and Chapter Walkthrough",
+      "metaDescription": "Borderlands Mobile missions guide covering Campaign chapters, Main Mission order, Side Mission rewards, and Star Challenge tips.",
+      "categoryLabel": "MISSIONS GUIDE",
+      "whatIs": "What is the Missions Guide?",
+      "whatIsDescription": "A chapter-by-chapter Campaign guide explaining mission types, objectives, and the best order to complete them.",
+      "why": "Why follow the missions guide?",
+      "whySteps": {
+        "step1Title": "Understand mission types",
+        "step1Description": "Learn the difference between Main Missions, Side Missions, and Star Challenges.",
+        "step2Title": "Progress efficiently",
+        "step2Description": "Know which missions to prioritize for the fastest Campaign advancement.",
+        "step3Title": "Unlock Star Challenges",
+        "step3Description": "Find out how to access bonus challenges on completed missions for extra loot."
+      }
+    },
+    "modes": {
+      "title": "Borderlands Mobile Modes",
+      "description": "Tower of Terror, Circle of Slaughter, and other gameplay modes beyond the main Campaign.",
+      "metaTitle": "Borderlands Mobile Modes - Tower of Terror and Circle of Slaughter Guide",
+      "metaDescription": "Borderlands Mobile modes guide covering Tower of Terror, Circle of Slaughter rules, rewards, and tips for getting the most out of each mode.",
+      "categoryLabel": "GAME MODES",
+      "whatIs": "What is the Modes Guide?",
+      "whatIsDescription": "An overview of Borderlands Mobile's repeatable game modes including Tower of Terror and Circle of Slaughter.",
+      "why": "Why play extra modes?",
+      "whySteps": {
+        "step1Title": "Farm Tower of Terror",
+        "step1Description": "Learn how Tower of Terror works and which rewards are worth farming.",
+        "step2Title": "Master Circle of Slaughter",
+        "step2Description": "Understand the wave-based combat format and how to survive longer for better loot.",
+        "step3Title": "Pick the right mode for your goal",
+        "step3Description": "Know which mode gives XP, gear upgrades, or mod drops most efficiently."
+      }
     }
   }
 }

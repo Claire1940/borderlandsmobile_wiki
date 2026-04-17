@@ -1,0 +1,114 @@
+export const metadata = {
+  title: "Paramètres GameHub Borderlands 2 : Le Guide d'Optimisation Ultime 2026",
+  description: "Maîtrisez vos paramètres GameHub pour Borderlands 2 afin d'obtenir des performances optimales sur mobiles et consoles portables. Découvrez des astuces d'optimisation pour les GPU Mali et Adreno.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/e11d48/fff?text=Borderlands+2+GameHub+Settings",
+  date: "2026-04-18",
+  author: "Équipe du Wiki Borderlands 2"
+}
+
+Jouer à un chef-d'œuvre comme Borderlands 2 sur des appareils mobiles est devenu une réalité grâce à l'émulation avancée et aux couches de compatibilité. Pour tirer le meilleur parti de votre expérience, il est essentiel d'ajuster précisément vos **paramètres gamehub de borderlands 2** afin de maintenir un taux de rafraîchissement stable tout en parcourant les toundras gelées de Southern Shelf ou les rues néon d'Opportunity. Que vous utilisiez une puce Dimensity haut de gamme ou un processeur Snapdragon, les configurations par défaut offrent rarement l'équilibre parfait entre fidélité visuelle et performance.
+
+Optimiser vos **paramètres gamehub de borderlands 2** implique bien plus que de simplement glisser tous les curseurs sur "Bas". En 2026, le matériel mobile est capable de restituer Pandora avec des détails époustouflants, mais seulement si la couche de traduction (GameHub/Winlator/Mobox) est configurée pour gérer efficacement l'architecture de l'Unreal Engine 3. Ce guide vous accompagnera à travers les variables d'environnement précises, les sélections de pilotes GPU et les ajustements des menus en jeu nécessaires pour transformer votre appareil portable en un véritable outil de Chasseur de l'Arche.
+
+## Comprendre l'environnement GameHub
+
+Avant de plonger dans les menus, il est important de comprendre comment GameHub interagit avec Borderlands 2. GameHub agit comme une interface qui traduit les instructions x86 basées sur Windows en un langage compréhensible par votre processeur mobile ARM. Ce processus est intensif pour le CPU, ce qui signifie que vos réglages doivent donner la priorité à la réduction de la "surcharge" causée par cette traduction.
+
+Pour les utilisateurs de GPU Mediatek Dimensity ou basés sur Mali, la compatibilité des pilotes est l'obstacle le plus fréquent. Contrairement aux appareils Snapdragon qui utilisent les pilotes Turnip, les utilisateurs de Mali doivent s'appuyer sur VirGL ou des versions spécifiques de DXVK pour s'assurer que les textures s'affichent correctement sans clignotement.
+
+> **Avertissement :** L'exécution de Borderlands 2 via GameHub peut générer une chaleur importante. Surveillez toujours la température de votre appareil et envisagez d'utiliser un refroidisseur de téléphone pour les sessions dépassant 30 minutes.
+
+## Paramètres de l'enveloppe GameHub recommandés
+
+Avant même de lancer le jeu, vous devez configurer les paramètres du conteneur dans GameHub. Ces réglages dictent la quantité de mémoire allouée et la manière dont le GPU est simulé pour le moteur de jeu.
+
+| Catégorie de réglage | Valeur recommandée | Impact sur les performances |
+| :--- | :--- | :--- |
+| **Pilote graphique** | **DXVK 2.3 ou ultérieur** | Élevé - Essentiel pour la stabilité |
+| **Config DXVK** | **dxgi.syncInterval = 0** | Moyen - Réduit le délai d'entrée |
+| **Résolution d'écran** | **1280x720 (Natif)** | Élevé - Meilleur équilibre pour mobile |
+| **Affinité CPU** | **Tous les cœurs (0-7)** | Moyen - Empêche les saccades |
+| **Nom du GPU** | **Nvidia GeForce GTX 1050** | Faible - Améliore la compatibilité |
+
+### Configuration DXVK et Wine
+Pour une expérience des plus fluides, assurez-vous que votre version de DXVK est mise à jour avec la dernière version de 2026. Les anciennes versions ont souvent du mal avec les contours en "Cel-shading" de Borderlands 2, ce qui entraîne des lignes noires épaisses et irrégulières ou des modèles de personnages manquants. Si vous rencontrez des problèmes de chauffe comme mentionné dans les tests de la communauté, abaisser l'échelle de résolution dans le fichier de configuration DXVK peut offrir un boost immédiat de 10-15 FPS sans trop flouter l'interface utilisateur.
+
+## Paramètres GameHub de Borderlands 2 en jeu
+
+Une fois le jeu lancé, vous devez ajuster les options internes. L'objectif ici est de décharger le CPU au maximum, car la couche d'émulation sollicite déjà énormément les cœurs performants de votre processeur.
+
+### Optimisation des options vidéo
+
+| Fonctionnalité | Réglage recommandé | Raison |
+| :--- | :--- | :--- |
+| **Occlusion ambiante** | **Désactivé** | Impact massif sur les GPU mobiles |
+| **Profondeur de champ** | **Activé** | Impact minimal ; aide à masquer les textures basse résolution |
+| **Qualité des textures** | **Moyen/Élevé** | Dépend de la RAM de votre appareil (6 Go+ utilisez Élevé) |
+| **Effets PhysX du jeu** | **Bas/Désactivé** | **Crucial :** PhysX fera planter la plupart des émulateurs mobiles |
+| **Distance d'affichage** | **Moyen** | Empêche l'apparition soudaine d'objets lors des combats en véhicule |
+
+Lors de l'ajustement de vos **paramètres gamehub de borderlands 2**, l'option la plus importante est **PhysX**. Bien que la physique des particules de Nvidia soit superbe sur PC, elle n'est pas nativement supportée par les couches de traduction ARM-vers-x86 utilisées dans GameHub. Maintenir ce réglage sur "Bas" ou "Désactivé" est obligatoire pour éviter que le jeu ne plante dès que vous lancez une grenade ou entrez dans une zone de combat intense comme Thousand Cuts.
+
+<div style={{position: "relative", paddingBottom: "56.25%", height: 0, margin: "2rem 0", borderRadius: "0.5rem", overflow: "hidden"}}>
+  <iframe
+    style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}
+    src="https://www.youtube.com/embed/QP6UuPnhMyk"
+    title="BORDERLANDS 2 GAMEHUB DIMENSITY 8100 ULTRA MEDIATEK MALI GPU"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+## Astuces de performance avancées
+
+Si vous subissez toujours des chutes en dessous de 30 FPS, il existe plusieurs ajustements "sous le capot" que vous pouvez appliquer à vos **paramètres gamehub de borderlands 2** en modifiant le fichier `WillowEngine.ini` situé dans le dossier de configuration du jeu.
+
+1.  **Désactiver les cinématiques de démarrage :** Réglez `bForceNoMovies=True`. Cela accélère les temps de chargement et empêche l'émulateur de se figer pendant les logos d'introduction.
+2.  **Ajuster le streaming de textures :** Modifiez `PoolSize` pour qu'il corresponde à la moitié de votre VRAM disponible. Pour un appareil de 8 Go de RAM, régler cela sur `2048` garantit que les textures se chargent rapidement sans saccades.
+3.  **Ombres dynamiques :** Si votre GPU peine, régler `DynamicShadows=False` peut apporter une augmentation de performance de 20 %, bien que le jeu perde un peu de sa profondeur visuelle.
+
+> **Conseil :** Si le jeu semble "flottant", vérifiez votre limite de taux de rafraîchissement. Définir une limite fixe de 30 ou 60 FPS dans le menu du jeu est souvent plus stable que de la laisser sur "Illimité" lors de l'exécution via GameHub.
+
+## Conseils spécifiques au matériel pour 2026
+
+En 2026, les puces mobiles ont considérablement divergé. Vos **paramètres gamehub de borderlands 2** doivent refléter les forces spécifiques de votre matériel.
+
+### Snapdragon (GPU Adreno)
+Les utilisateurs de Snapdragon bénéficient de la pile de pilotes Turnip + Zink. Cela permet des réglages plus élevés pour la "Qualité des textures" et l'"Anisotropie". Vous pouvez probablement faire tourner le jeu en 1080p si vous utilisez un Snapdragon 8 Gen 2 ou plus récent.
+
+### Mediatek/Exynos (GPU Mali/Xclipse)
+Les utilisateurs de puces Dimensity (comme la 8100 Ultra ou 9300) devraient se concentrer sur le moteur de rendu VirGL. Comme ces GPU gèrent la géométrie différemment, vous devrez peut-être désactiver le "Bloom" et les "Rayons lumineux" pour éviter les artefacts visuels. La [page Steam officielle de Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) est le meilleur endroit pour vérifier vos fichiers de jeu si vous rencontrez des erreurs de DLL manquantes lors de l'installation.
+
+| Niveau de puce | Résolution cible | FPS attendus |
+| :--- | :--- | :--- |
+| **Entrée de gamme (Série Dimensity 7000)** | 960x540 | 25-30 FPS |
+| **Milieu de gamme (Snapdragon 7+ Gen 2)** | 1280x720 | 45-60 FPS |
+| **Haut de gamme (Snapdragon 8 Gen 3/4)** | 1920x1080 | 60+ FPS |
+
+## Dépannage des problèmes courants de GameHub
+
+Même avec les meilleurs **paramètres gamehub de borderlands 2**, vous pourriez rencontrer des problèmes propres à l'environnement mobile.
+
+*   **Grésillement audio :** Il s'agit généralement d'un problème de latence avec le pilote audio Wine pulse. Essayez d'augmenter la taille du tampon audio dans les paramètres globaux de GameHub.
+*   **Commandes ne répondant pas :** Assurez-vous que votre "Input Bridge" fonctionne en arrière-plan. Borderlands 2 nécessite une manette virtuelle XInput pour reconnaître les superpositions tactiles.
+*   **Crashs par manque de mémoire :** Fermez toutes les applications en arrière-plan. L'émulation de jeux x86 est extrêmement gourmande en RAM ; 8 Go de RAM système totale est le minimum recommandé pour une expérience stable en 2026.
+
+## FAQ
+
+**Q : Puis-je utiliser des mods avec les paramètres GameHub de Borderlands 2 ?**
+
+R : Oui, mais avec prudence. Les mods légers comme le Community Patch (UCP) fonctionnent bien car ils ne modifient que les données du jeu. Cependant, les mods graphiques lourds ou ReShade risquent de faire planter la couche d'émulation en raison de la surcharge GPU supplémentaire.
+
+**Q : Pourquoi mon jeu semble-t-il flou même en 720p ?**
+
+R : C'est souvent causé par le "FXAA" (Fast Approximate Anti-Aliasing). Dans les **paramètres gamehub de borderlands 2** en jeu, essayez de désactiver le FXAA. Bien que vous verrez plus d'effets d'escalier, la clarté globale de l'image s'améliorera considérablement sur les petits écrans mobiles.
+
+**Q : Est-il possible de jouer en multijoueur via GameHub ?**
+
+R : Le jeu en réseau local (LAN) est possible si votre émulateur prend en charge le pontage réseau. Cependant, la connexion aux serveurs officiels SHiFT ou au matchmaking Steam est actuellement instable dans la plupart des environnements d'émulation en raison de l'anti-triche et des limitations de connectivité.
+
+**Q : Mon appareil devient très chaud, est-ce normal ?**
+
+R : Les températures élevées sont attendues lors de l'exécution de jeux PC sur mobile. Si votre appareil dépasse 45°C (113°F), le système réduira la puissance du CPU, provoquant des saccades. Il est fortement recommandé de baisser votre résolution ou d'utiliser un ventilateur de refroidissement dédié pour la santé à long terme de votre appareil.

@@ -1,0 +1,119 @@
+export const metadata = {
+  title: "Contenu DLC Borderlands Mobile : Guide Complet de Déverrouillage 2026",
+  description: "Apprenez à accéder et à optimiser le contenu DLC de Borderlands mobile sur les appareils Android. Guide étape par étape pour l'installation, la gestion des fichiers et les performances.",
+  category: "Tutorial",
+  image: "https://placehold.co/800x400/2563eb/fff?text=Borderlands+Mobile+DLC+Content",
+  date: "2026-04-18",
+  author: "Borderlands Wiki Team"
+}
+
+Borderlands 2 reste un chef-d'œuvre incontesté du genre looter-shooter, et en 2026, l'envie d'emporter Pandora partout avec soi est plus forte que jamais. Bien que les portages mobiles officiels aient connu diverses itérations, le moyen le plus robuste de vivre l'expérience sur le matériel Android moderne est l'émulation de haut niveau. Cependant, de nombreux joueurs rencontrent un obstacle majeur : le jeu de base fonctionne, mais le **contenu dlc borderlands mobile** ne se charge pas. Cela prive les chasseurs de l'Arche de personnages emblématiques comme Gaige la Mécromancienne ou Krieg le Sadique, et les bloque hors d'extensions massives comme Le Capitaine Scarlett et son Butin de Pirate.
+
+Débloquer l'intégralité du **contenu dlc borderlands mobile** nécessite un ensemble spécifique de manœuvres techniques, de l'installation des mises à jour obligatoires à la restructuration manuelle des répertoires de fichiers internes. En suivant les étapes de configuration correctes, vous pouvez transformer votre appareil mobile en une console portable puissante, capable de faire tourner Borderlands 2 avec des taux de rafraîchissement plus élevés et de meilleures commandes que les versions portables originales. Ce guide fournit la procédure complète nécessaire pour s'assurer que chaque extension est reconnue et jouable en 2026.
+
+## Accéder au contenu DLC Borderlands Mobile en 2026
+
+Pour faire fonctionner avec succès le jeu avec toutes ses extensions sur un appareil Android, vous devez utiliser l'émulateur Vita3K. Ce logiciel vous permet de jouer à la version PlayStation Vita de Borderlands 2, qui est la version du jeu la plus adaptée à la mobilité. Cependant, l'émulateur ne « voit » pas automatiquement les fichiers DLC, même après qu'ils ont été installés sous forme de fichiers .zip ou .pkg. Cela est dû au fait que l'émulateur cherche le contenu supplémentaire dans le mauvais répertoire.
+
+Avant de plonger dans le système de fichiers, assurez-vous d'avoir la version correcte du jeu et ses mises à jour. Le jeu de base (v1.00) est notoirement buggé et ne possède pas la structure nécessaire pour supporter correctement le **contenu dlc borderlands mobile**.
+
+| Composant | Version Minimale | Raison |
+| :--- | :--- | :--- |
+| **Jeu de Base** | PCSE00383 | Requis pour la compatibilité avec la région US. |
+| **Mise à jour du jeu** | v1.09 | Active le support PSTV et la reconnaissance des DLC. |
+| **Packs DLC** | 6 au total | Inclut les personnages et les extensions d'histoire. |
+| **Émulateur** | Vita3K Android | Dernière version 2026 pour la stabilité. |
+
+> **💡 Astuce :** Installez toujours la mise à jour v1.09 avant de tenter de déplacer les fichiers DLC. Cette mise à jour contient le code nécessaire pour faire le lien entre le moteur du jeu et les dossiers de contenu supplémentaire.
+
+## Installation du DLC étape par étape et solution de contournement
+
+Le problème principal avec le **contenu dlc borderlands mobile** sur Android est une erreur de répertoire. Lorsque vous installez un DLC via l'interface de l'émulateur, les fichiers sont placés dans un dossier que le moteur du jeu ignore. Pour corriger cela, vous devez déplacer manuellement le contenu vers le répertoire « Additional Content » (addcont).
+
+### 1. Installation initiale
+Tout d'abord, installez le jeu de base et la mise à jour v1.09 dans l'application Vita3K. Une fois ces installations terminées, installez les six packs DLC. À ce stade, si vous lancez le jeu, vous remarquerez que les personnages DLC sont toujours verrouillés. C'est normal.
+
+### 2. Migration manuelle des fichiers
+Vous aurez besoin d'un gestionnaire de fichiers capable d'accéder au dossier `Android/data`, ou vous devrez connecter votre appareil à un PC via USB. Suivez les chemins de répertoire listés ci-dessous pour déplacer vos fichiers.
+
+| Répertoire source (DÉPLACER DEPUIS) | Répertoire de destination (DÉPLACER VERS) |
+| :--- | :--- |
+| `ux0:app/pcse00383/DLC` | `ux0:addcont/pcse00383` |
+
+Dans le dossier `DLC`, vous verrez plusieurs sous-dossiers (souvent nommés avec diverses chaînes de lettres et de chiffres). Vous devez déplacer ces dossiers dans le répertoire `addcont/pcse00383`. Si les dossiers `addcont` ou `pcse00383` n'existent pas à cet emplacement, créez-les manuellement.
+
+### 3. Vérification
+Après avoir déplacé les fichiers, redémarrez l'émulateur. Lancez Borderlands 2 et accédez à l'écran de sélection des personnages. Si le processus a réussi, les classes Mécromancienne et Sadique ne seront plus grisées. De plus, vérifiez n'importe quelle station de Voyage Rapide en jeu ; des lieux comme « Oasis » (Capitaine Scarlett) et « Badass Crater of Badassitude » (M. Torgue) devraient maintenant apparaître dans la liste.
+
+<div style={{position: "relative", paddingBottom: "56.25%", height: 0, margin: "2rem 0", borderRadius: "0.5rem", overflow: "hidden"}}>
+  <iframe
+    style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}
+    src="https://www.youtube.com/embed/a_ZMpeaBX7U"
+    title="Faire tourner Borderlands 2 sur Android avec commandes et DLC"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+## Optimiser les performances pour le contenu DLC mobile
+
+Même avec le **contenu dlc borderlands mobile** déverrouillé, les performances peuvent être un problème sur les appareils de milieu de gamme. La version Vita était initialement limitée à 30 FPS (et descendait souvent à 20 FPS). Les appareils Android modernes, en particulier ceux équipés de processeurs Snapdragon, peuvent pousser cela vers les 60 FPS avec les bons pilotes.
+
+### Utilisation des pilotes Turnup
+Pour les appareils comme le Razer Edge ou les téléphones Galaxy haut de gamme, l'utilisation de pilotes GPU personnalisés est essentielle. Les pilotes « Turnup » (v23.3.0 ou similaire) offrent des gains significatifs dans le rendu Vulkan, que l'émulateur utilise pour traiter les ressources lourdes présentes dans les zones du **contenu dlc borderlands mobile** comme l'Arène de Torgue.
+
+1.  Allez dans **Configuration** > **Paramètres** > **GPU**.
+2.  Sélectionnez **Ajouter un pilote personnalisé**.
+3.  Téléchargez le fichier ZIP du pilote Turnup.
+4.  Sélectionnez le nouveau pilote dans le menu déroulant et appuyez sur **Enregistrer**.
+
+### Configuration de la manette (Mode PSTV)
+La version Vita originale utilisait le pavé tactile arrière pour sprinter (L3) et le corps à corps (R3). C'est extrêmement peu pratique sur un écran tactile. Pour corriger cela, vous devez activer le « Mode PSTV » dans les paramètres de l'émulateur. Cela fait croire au jeu qu'il tourne sur une console PlayStation TV, qui supporte nativement les manettes DualShock avec des sticks cliquables.
+
+> **Attention :** Ne sautez pas l'étape du mode PSTV. Sans cela, vous serez incapable de sprinter ou d'attaquer au corps à corps efficacement en utilisant une manette mobile physique comme la Backbone ou la Razer Kishi.
+
+## Comparaison du contenu DLC inclus
+
+Il est important de noter que la version mobile/Vita n'inclut pas tous les DLC sortis pour les versions PC ou consoles. Pour gérer vos attentes concernant le **contenu dlc borderlands mobile**, reportez-vous au tableau ci-dessous.
+
+| Nom du DLC | Type | Inclus sur Mobile/Vita ? |
+| :--- | :--- | :--- |
+| **Le Capitaine Scarlett et son Butin de Pirate** | Extension d'histoire | **Oui** |
+| **Le Carnage Sanglant de M. Torgue** | Extension d'histoire | **Oui** |
+| **Gaige la Mécromancienne** | Classe de personnage | **Oui** |
+| **Krieg le Sadique** | Classe de personnage | **Oui** |
+| **Pack d'amélioration Chasseur Ultime 1** | Augmentation du niveau max | **Oui** |
+| **L'Assaut de Tiny Tina sur la Forteresse du Dragon** | Extension d'histoire | Non |
+| **La Chasse à Gros Gibier de Sir Hammerlock** | Extension d'histoire | Non |
+| **Packs Chasseur de Têtes (1-5)** | Mini-DLC | Non |
+
+Bien que l'absence de l'extension Tiny Tina soit un inconvénient, disposer des deux premières campagnes majeures et des deux personnages DLC offre plus de 50 heures de jeu supplémentaire pour votre installation mobile.
+
+## Dépannage des problèmes courants de DLC
+
+Si vous avez déplacé les fichiers mais que le **contenu dlc borderlands mobile** n'apparaît toujours pas, vérifiez les points suivants :
+
+*   **Correspondance de région :** Assurez-vous que la région de votre DLC correspond à celle de votre jeu de base. Un jeu de base US (PCSE00383) ne reconnaîtra pas un DLC européen (PCSB00507).
+*   **Compilation des shaders :** Lors du premier lancement après l'activation des DLC, le jeu peut saccader considérablement. C'est l'émulateur qui compile les shaders pour les nouvelles ressources. Accordez-lui 5 à 10 minutes de jeu pour que cela se stabilise.
+*   **Mise à jour 1.09 :** Si le jeu plante sur l'écran « Appuyez sur Start », vérifiez que la mise à jour a été installée correctement. Vous pouvez vérifier cela dans le menu principal de Vita3K en appuyant sur l'icône du jeu et en consultant la liste des « Packs installés ».
+
+Pour plus d'informations sur les derniers correctifs et les actualités officielles, visitez le [site officiel de Borderlands](https://borderlands.2k.com/) pour rester informé sur l'avenir de la franchise.
+
+## FAQ
+
+**Q : Puis-je jouer au DLC de Tiny Tina sur mobile ?**
+
+R : Pas via la méthode d'émulation Vita3K. La version Vita du jeu, utilisée pour cette configuration mobile, n'inclut que les deux premières extensions d'histoire. Pour jouer à L'Assaut de Tiny Tina sur la Forteresse du Dragon, vous devriez utiliser un service de streaming PC ou une couche d'émulation différente comme Winlator, qui est nettement plus exigeante pour le matériel.
+
+**Q : Pourquoi mon jeu saccade-t-il lors du chargement des zones de contenu dlc borderlands mobile ?**
+
+R : C'est généralement dû à la compilation des shaders. Lorsque vous entrez dans une nouvelle zone de DLC comme Oasis, l'émulateur doit construire le cache visuel pour ces ressources spécifiques. Ces saccades sont temporaires et diminueront à mesure que vous passerez du temps dans la zone. Les appareils haut de gamme avec des pilotes Turnup personnalisés subissent nettement moins de saccades.
+
+**Q : Existe-t-il un moyen de passer le niveau maximum à 80 sur mobile ?**
+
+R : La version mobile/Vita supporte généralement le premier pack d'amélioration Chasseur Ultime, qui augmente le niveau max à 61. Les augmentations de niveau ultérieures (jusqu'à 72 ou 80) n'ont pas été officiellement portées sur la version Vita, elles sont donc indisponibles dans la bibliothèque de **contenu dlc borderlands mobile** pour cette plateforme spécifique.
+
+**Q : Ai-je besoin d'un téléphone haut de gamme pour faire tourner le DLC ?**
+
+R : Oui, un appareil équipé au moins d'un Snapdragon 870 ou supérieur est recommandé. Les zones de DLC, en particulier l'extension Torgue, comportent plus d'ennemis et une géométrie plus complexe que le jeu de base, nécessitant plus de puissance de calcul pour maintenir un taux de rafraîchissement stable.
